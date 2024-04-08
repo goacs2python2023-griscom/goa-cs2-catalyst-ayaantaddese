@@ -11,4 +11,4 @@ with open('airline_network.csv', 'r') as csvfile:
 
 with open('flightpaths.txt', 'w') as txtfile:
     for value in flightpaths:
-        txtfile.write(str(value) + '\n')
+        txtfile.write(str(value[0]) + "-"+ str(value[1]) + '\n')
