@@ -9,4 +9,7 @@ def converter_cc(airport_code):
                 return row[3]
     return None
 
-file =         
+file = open("flightpaths.txt", "r")
+file1 = open("countrypaths.txt","w")
+for line in file:
+    
