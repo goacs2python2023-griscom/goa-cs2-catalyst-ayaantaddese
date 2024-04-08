@@ -12,4 +12,7 @@ def converter_cc(airport_code):
 with open("flightpaths.txt", "r") as file, open("countrypaths.txt", "w") as file1:
     for line in file:
         parts = line.strip().split("-")
-        file1.write(converter_cc(parts[0]) + "-" + converter_cc(parts[1]) + "\n")
+        if converter_cc(parts[0]) is not None and converter_cc(parts[1]) is not None:
+            file1.write(converter_cc(parts[0]) + "-" + converter_cc(parts[1]) + "\n")
+        else:
+            print(f"Could not find country for one of the airport codes: {parts[0]}, {parts[1]}")
