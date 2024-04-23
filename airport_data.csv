@@ -1,4 +1,3 @@
-Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
 1,Goroka Airport,Goroka,Papua New Guinea,GKA,AYGA,-6.081689835,145.3919983
 2,Madang Airport,Madang,Papua New Guinea,MAG,AYMD,-5.207079887,145.7890015
 3,Mount Hagen Kagamuga Airport,Mount Hagen,Papua New Guinea,HGU,AYMH,-5.826789856,144.2960052
@@ -1036,7 +1035,7 @@ Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
 1057,Tenerife Norte Airport,Tenerife,Spain,TFN,GCXO,28.48270035,-16.34149933
 1058,Melilla Airport,Melilla,Spain,MLN,GEML,35.27980042,-2.956259966
 1059,Lungi International Airport,Freetown,Sierra Leone,FNA,GFLL,8.61644,-13.1955
-1060,Cufar Airport,Cufar,Guinea-Bissau,\N,GGCF,11.28789997,-15.18050003
+1060,Cufar Airport,Cufar,Guinea Bissau,\N,GGCF,11.28789997,-15.18050003
 1062,Spriggs Payne Airport,Monrovia,Liberia,MLW,GLMR,6.289060116,-10.75870037
 1063,Roberts International Airport,Monrovia,Liberia,ROB,GLRB,6.23379,-10.3623
 1064,Al Massira Airport,Agadir,Morocco,AGA,GMAD,30.32500076,-9.413069725
@@ -4361,7 +4360,7 @@ Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
 5662,Sherbro International Airport,Bonthe,Sierra Leone,BTE,GFBN,7.532420158,-12.51889992
 5663,Bo Airport,Bo,Sierra Leone,KBS,GFBO,7.944399834,-11.76099968
 5664,Kenema Airport,Kenema,Sierra Leone,KEN,GFKE,7.891290188,-11.17660046
-5665,Osvaldo Vieira International Airport,Bissau,Guinea-Bissau,OXB,GGOV,11.89480019,-15.65369987
+5665,Osvaldo Vieira International Airport,Bissau,Guinea Bissau,OXB,GGOV,11.89480019,-15.65369987
 5669,Smara Airport,Smara,Western Sahara,SMW,GMMA,26.7318,-11.6847
 5670,Dakhla Airport,Dakhla,Western Sahara,VIL,GMMH,23.7183,-15.932
 5671,Mogador Airport,Essadouira,Morocco,ESU,GMMI,31.39749908,-9.681670189
@@ -6720,7 +6719,7 @@ Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
 10105,El Dorado Springs Memorial Airport,El dorado springs,United States,\N,K87K,37.8567009,-93.99909973
 10106,Marfa Municipal Airport,Marfa,United States,MRF,KMRF,30.371099,-104.017997
 10107,Alpine Casparis Municipal Airport,Alpine,United States,ALE,KE38,30.38419914,-103.6839981
-10110,Bubaque Airport,Bubaque,Guinea-Bissau,BQE,GGBU,11.29735565,-15.83807945
+10110,Bubaque Airport,Bubaque,Guinea Bissau,BQE,GGBU,11.29735565,-15.83807945
 10114,Chichen Itza International Airport,Chichen Itza,Mexico,CZA,MMCT,20.6413002,-88.44619751
 10116,Bunbury Airport,Bunbury,Australia,BUY,YBUN,-33.37829971,115.677002
 10117,Cable Airport,Upland,United States,CCB,KCCB,34.11159897,-117.6880035
