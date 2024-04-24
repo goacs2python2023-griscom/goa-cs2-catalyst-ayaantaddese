@@ -1,0 +1,6465 @@
+Countries,Average GDP per Capita,Connections
+France + United Kingdom,42725,59
+France + Italy,36890,56
+Italy + United Kingdom,39165,54
+France + Germany,43420,53
+Germany + United Kingdom,45695,52
+United Arab Emirates + United Kingdom,43785,51
+France + United Arab Emirates,41510,49
+Canada + United States,55135,46
+Germany + Italy,39860,45
+Italy + United Arab Emirates,37950,44
+France + United States,52595,43
+France + Morocco,21835,42
+Germany + United Arab Emirates,44480,41
+United Kingdom + United States,54870,40
+China + United Arab Emirates,26305,40
+Germany + United States,55565,37
+China + France,25245,36
+China + United Kingdom,27520,36
+Italy + United States,49035,35
+Finland + France,45180,35
+Canada + France,42990,35
+India + United Arab Emirates,22345,35
+Finland + United Kingdom,47455,34
+Canada + United Kingdom,45265,33
+Greece + Italy,26850,32
+Canada + Germany,45960,32
+Finland + Italy,41620,31
+France + Spain,35225,31
+France + Greece,30410,31
+Finland + Germany,48150,31
+United Arab Emirates + United States,53655,31
+Italy + Spain,31665,30
+China + Italy,21685,30
+France + Norway,57470,30
+Greece + United Kingdom,32685,30
+Germany + Spain,38195,30
+Germany + Sweden,49435,30
+China + India,6080,30
+Germany + Greece,33380,30
+France + Sweden,46465,29
+France + Netherlands,46805,29
+Denmark + France,50740,29
+Norway + United Kingdom,59745,29
+India + United Kingdom,23560,29
+Denmark + United Kingdom,53015,29
+Panama + United States,40115,29
+China + Germany,28215,29
+Denmark + Germany,53710,29
+Canada + Italy,39430,28
+Denmark + Italy,47180,28
+Sweden + United Kingdom,48740,28
+Morocco + United Kingdom,24110,28
+Ireland + United Kingdom,61230,28
+Finland + Norway,62200,28
+Germany + Norway,60440,28
+Italy + Switzerland,57655,27
+Italy + Norway,53910,27
+Italy + Morocco,18275,27
+Germany + Switzerland,64185,27
+Austria + France,45785,27
+France + Latvia,29435,27
+Spain + United Kingdom,37500,27
+Netherlands + United Kingdom,49080,27
+Spain + United States,47370,27
+Finland + United Arab Emirates,46240,27
+Netherlands + United Arab Emirates,47865,27
+Morocco + United Arab Emirates,22895,27
+China + Hong Kong,29155,27
+Germany + Ireland,61925,27
+France + Russia,26020,26
+Italy + Sweden,42905,26
+Italy + Latvia,25875,26
+France + Switzerland,61215,26
+France + India,21285,26
+France + Ireland,58955,26
+Latvia + United Kingdom,31710,26
+Finland + Sweden,51195,26
+Norway + Sweden,63485,26
+Denmark + Sweden,56755,26
+Denmark + Finland,55470,26
+Hong Kong + United Arab Emirates,45420,26
+Germany + Netherlands,49775,26
+Italy + Russia,22460,25
+Ireland + Italy,55395,25
+Switzerland + United Kingdom,63490,25
+Belgium + France,43270,25
+Algeria + France,22220,25
+Austria + United Kingdom,48060,25
+Denmark + Norway,67760,25
+Canada + United Arab Emirates,44050,25
+Austria + Italy,42225,24
+Belarus + Italy,20000,24
+Belarus + France,23560,24
+Turkey + United Kingdom,27025,24
+Greece + Norway,47430,24
+China + United States,37390,24
+Canada + China,27785,24
+China + Thailand,8960,24
+China + Malaysia,10585,24
+Austria + Germany,48755,24
+Germany + Latvia,32405,24
+Denmark + Ireland,69245,24
+Russia + United Kingdom,28295,23
+Italy + Netherlands,43245,23
+Italy + Turkey,21190,23
+India + Italy,17725,23
+France + Turkey,24750,23
+Belarus + United Kingdom,25835,23
+Spain + United Arab Emirates,36285,23
+Canada + Spain,37765,23
+Finland + United States,57325,23
+China + Finland,29975,23
+Finland + Greece,35140,23
+Finland + Ireland,63685,23
+Finland + Latvia,34165,23
+Norway + United Arab Emirates,58530,23
+Latvia + Norway,46455,23
+Netherlands + United States,58950,23
+Mexico + United States,36985,23
+China + Taiwan,18850,23
+Germany + Morocco,24805,23
+Germany + India,24255,23
+Algeria + Morocco,3605,23
+Greece + Latvia,19395,23
+Germany + Russia,28990,22
+Colombia + United States,35555,22
+Spain + Switzerland,55990,22
+Switzerland + United Arab Emirates,62275,22
+Denmark + Spain,45515,22
+Greece + Sweden,36425,22
+Ireland + Norway,75975,22
+Thailand + United Arab Emirates,25225,22
+Austria + United Arab Emirates,46845,22
+Hong Kong + India,25195,22
+Germany + Turkey,27720,22
+Greece + Ireland,48915,22
+Denmark + Greece,40700,22
+Morocco + Senegal,2335,21
+Colombia + Panama,10930,21
+Algeria + Italy,18660,21
+Sweden + Switzerland,67230,21
+Austria + Switzerland,66550,21
+France + Hong Kong,44360,21
+Hong Kong + United Kingdom,46635,21
+Spain + Sweden,41240,21
+Sweden + United Arab Emirates,47525,21
+Ireland + Sweden,64970,21
+Morocco + United States,33980,21
+Denmark + United States,62885,21
+Malaysia + United Arab Emirates,26850,21
+Algeria + United Arab Emirates,23280,21
+Greece + United Arab Emirates,31470,21
+Denmark + United Arab Emirates,51800,21
+Belarus + Latvia,12545,21
+Cyprus + Italy,28500,20
+Netherlands + Switzerland,67570,20
+Greece + Switzerland,51175,20
+Cyprus + France,32060,20
+France + Portugal,31745,20
+Cyprus + United Kingdom,34335,20
+Belgium + United Kingdom,45545,20
+Algeria + United Kingdom,24495,20
+Portugal + United Kingdom,34020,20
+Finland + Spain,39955,20
+Austria + Spain,40560,20
+Austria + Sweden,51800,20
+Latvia + Sweden,35450,20
+Turkey + United Arab Emirates,25810,20
+Latvia + United Arab Emirates,30495,20
+Malaysia + Thailand,9505,20
+India + Thailand,5000,20
+China + Singapore,47005,20
+Malaysia + Singapore,47550,20
+China + Japan,25130,20
+China + South Korea,21365,20
+Belarus + China,8355,20
+Hong Kong + Malaysia,29700,20
+Malaysia + Taiwan,19395,20
+India + Malaysia,6625,20
+Belarus + Germany,26530,20
+Austria + Netherlands,52140,20
+Belarus + Greece,13520,20
+Denmark + Latvia,39725,20
+China + Russia,10815,19
+Peru + United States,35810,19
+Panama + Peru,11185,19
+Italy + Portugal,28185,19
+Finland + Switzerland,65945,19
+Norway + Switzerland,78235,19
+Switzerland + United States,73360,19
+Denmark + Switzerland,71505,19
+France + Thailand,24165,19
+Thailand + United Kingdom,26440,19
+Morocco + Spain,16610,19
+Greece + Spain,25185,19
+Ireland + Spain,53730,19
+Sweden + United States,58610,19
+Canada + Finland,47720,19
+Austria + Finland,50515,19
+Belarus + Norway,40580,19
+Hong Kong + United States,56505,19
+Austria + United States,57930,19
+Dominican Republic + United States,36435,19
+India + United States,33430,19
+Taiwan + United Arab Emirates,35115,19
+Ireland + United Arab Emirates,60015,19
+Canada + Panama,30510,19
+China + Netherlands,31600,19
+Belgium + Germany,46240,19
+Algeria + Germany,25190,19
+Germany + Portugal,34715,19
+Austria + Denmark,56075,19
+Belgium + Morocco,24655,19
+Ireland + Latvia,47940,19
+Russia + United Arab Emirates,27080,18
+Russia + Turkey,10320,18
+Colombia + Mexico,7800,18
+Switzerland + Turkey,45515,18
+France + Japan,40335,18
+France + Mexico,24840,18
+Norway + Spain,52245,18
+Netherlands + Spain,41580,18
+Cyprus + Germany,35030,18
+Netherlands + Sweden,52820,18
+Belarus + Sweden,29575,18
+Finland + India,26015,18
+Belarus + Finland,28290,18
+Austria + Norway,62805,18
+Greece + United States,42555,18
+Ireland + United States,71100,18
+Saudi Arabia + United Arab Emirates,32565,18
+Belgium + United Arab Emirates,44330,18
+Canada + Mexico,27380,18
+Canada + Denmark,53280,18
+Singapore + Thailand,45925,18
+Hong Kong + Thailand,28075,18
+Austria + China,30580,18
+China + Greece,15205,18
+China + Latvia,14230,18
+Hong Kong + Taiwan,37965,18
+Germany + Hong Kong,47330,18
+Japan + South Korea,36455,18
+South Korea + Taiwan,30175,18
+India + Netherlands,27640,18
+France + Senegal,20950,17
+Hong Kong + Italy,40800,17
+Belgium + Italy,39710,17
+China + Switzerland,46010,17
+Belgium + Switzerland,64035,17
+Ireland + Switzerland,79720,17
+Brazil + France,24520,17
+France + Taiwan,34055,17
+France + Israel,41965,17
+China + Spain,20020,17
+Belgium + Spain,38045,17
+Portugal + Spain,26520,17
+China + Sweden,31260,17
+Finland + Netherlands,51535,17
+Norway + United States,69615,17
+Brazil + United States,36665,17
+Argentina + United States,37325,17
+Singapore + United Arab Emirates,63270,17
+Belarus + United Arab Emirates,24620,17
+Canada + Dominican Republic,26830,17
+Canada + India,23825,17
+Hong Kong + Singapore,66120,17
+China + Morocco,6630,17
+China + Denmark,35535,17
+Hong Kong + Japan,44245,17
+Japan + Taiwan,33940,17
+India + Taiwan,14890,17
+Austria + Turkey,30085,17
+Austria + Greece,35745,17
+Belgium + Netherlands,49625,17
+Mexico + Panama,12360,17
+Ireland + Portugal,50250,17
+Denmark + Portugal,42035,17
+Belarus + Denmark,33850,17
+Russia + Switzerland,46785,16
+Russia + Sweden,32035,16
+Finland + Russia,30750,16
+Netherlands + Russia,32375,16
+Greece + Russia,15980,16
+Latvia + Russia,15005,16
+Colombia + Peru,6625,16
+Colombia + France,23410,16
+Canada + Colombia,25950,16
+Colombia + Dominican Republic,7250,16
+Egypt + Italy,18405,16
+Italy + Thailand,20605,16
+Israel + Italy,38405,16
+Italy + Poland,24495,16
+Morocco + Switzerland,42600,16
+Poland + Switzerland,48820,16
+France + Malaysia,25790,16
+Dominican Republic + France,24290,16
+France + South Korea,36570,16
+France + Poland,28055,16
+Egypt + United Kingdom,24240,16
+Saudi Arabia + United Kingdom,33780,16
+Japan + United Kingdom,42610,16
+Israel + United Kingdom,44240,16
+Poland + United Kingdom,30330,16
+Spain + Turkey,19525,16
+Poland + Spain,22830,16
+Cyprus + Greece,22020,16
+Canada + Sweden,49005,16
+Portugal + Sweden,37760,16
+China + Norway,42265,16
+Belgium + United States,55415,16
+Portugal + United States,43890,16
+Japan + United Arab Emirates,41395,16
+Portugal + United Arab Emirates,32805,16
+Canada + Morocco,24375,16
+Canada + Ireland,61495,16
+Taiwan + Thailand,17770,16
+Singapore + Taiwan,55815,16
+India + Singapore,43045,16
+China + Ireland,43750,16
+Hong Kong + Netherlands,50715,16
+Hong Kong + South Korea,40480,16
+Malaysia + South Korea,21910,16
+Germany + Israel,44935,16
+Germany + Poland,31025,16
+Austria + Ireland,64290,16
+Austria + Poland,33390,16
+Austria + Latvia,34770,16
+Netherlands + Turkey,31105,16
+Denmark + Netherlands,57095,16
+Ireland + Morocco,40340,16
+Morocco + Portugal,13130,16
+Denmark + Morocco,32125,16
+Belgium + Denmark,53560,16
+Greece + Turkey,14710,16
+India + South Korea,17405,16
+Bangladesh + India,2105,16
+Greece + Portugal,21705,16
+Russia + Spain,20795,15
+Norway + Russia,43040,15
+Austria + Russia,31355,15
+Belarus + Russia,9130,15
+Italy + Saudi Arabia,27945,15
+Canada + Switzerland,63755,15
+Israel + Switzerland,62730,15
+Portugal + Switzerland,52510,15
+France + Saudi Arabia,31505,15
+Argentina + France,25180,15
+Cuba + France,24650,15
+France + Panama,27970,15
+Taiwan + United Kingdom,36330,15
+Malaysia + United Kingdom,28065,15
+South Korea + United Kingdom,38845,15
+Algeria + Spain,16995,15
+Latvia + Spain,24210,15
+Cyprus + Finland,36790,15
+Cyprus + Latvia,21045,15
+Belgium + Sweden,49285,15
+Sweden + Turkey,30765,15
+Poland + Sweden,34070,15
+Finland + Thailand,28895,15
+Finland + Morocco,26565,15
+Finland + Turkey,29480,15
+Finland + Portugal,36475,15
+Netherlands + Norway,63825,15
+Morocco + Norway,38855,15
+Norway + Turkey,41770,15
+Norway + Portugal,48765,15
+Thailand + United States,36310,15
+Turkey + United States,36895,15
+Cuba + United States,36795,15
+Algeria + United States,34365,15
+Latvia + United States,41580,15
+China + Philippines,6690,15
+Malaysia + Philippines,7235,15
+South Korea + United Arab Emirates,37630,15
+Brazil + Canada,27060,15
+Morocco + Nigeria,2700,15
+Austria + Canada,48325,15
+Canada + Netherlands,49345,15
+Algeria + Canada,24760,15
+Canada + Greece,32950,15
+Canada + Portugal,34285,15
+India + Saudi Arabia,12340,15
+Germany + Thailand,27135,15
+South Korea + Thailand,20285,15
+Singapore + South Korea,58330,15
+China + Portugal,16540,15
+India + Japan,21170,15
+Austria + Belgium,48605,15
+Greece + Netherlands,36765,15
+Greece + Morocco,11795,15
+Argentina + Panama,12700,15
+Belarus + Ireland,42065,15
+Denmark + Poland,38345,15
+Argentina + Peru,8395,14
+Mexico + Peru,8055,14
+Argentina + Colombia,8140,14
+Italy + Mexico,21280,14
+Czech Republic + Italy,28255,14
+Algeria + Switzerland,42985,14
+Latvia + Switzerland,50200,14
+Egypt + France,21965,14
+Czech Republic + France,31815,14
+Czech Republic + United Kingdom,34090,14
+Brazil + Spain,19295,14
+Mexico + Spain,19615,14
+Cyprus + Norway,49080,14
+Cyprus + Denmark,42350,14
+Egypt + United Arab Emirates,23025,14
+Egypt + Germany,24935,14
+Morocco + Sweden,27850,14
+Israel + Sweden,47980,14
+Finland + Hong Kong,49090,14
+Belgium + Finland,48000,14
+Finland + Poland,32785,14
+Canada + Norway,60010,14
+Belgium + Norway,60290,14
+Japan + United States,52480,14
+Poland + United States,40200,14
+Trinidad and Tobago + United States,40645,14
+Philippines + Taiwan,15500,14
+Canada + Hong Kong,46900,14
+China + Saudi Arabia,16300,14
+Japan + Thailand,24050,14
+Japan + Singapore,62095,14
+Belgium + China,28065,14
+China + Turkey,9545,14
+Algeria + China,7015,14
+Japan + Malaysia,25675,14
+Germany + Japan,43305,14
+Czech Republic + Germany,34785,14
+Austria + Israel,47300,14
+Austria + Portugal,37080,14
+Israel + Netherlands,48320,14
+Netherlands + Poland,34410,14
+Morocco + Turkey,6135,14
+Denmark + Turkey,35040,14
+Latvia + Turkey,13735,14
+Dominican Republic + Panama,11810,14
+Greece + Israel,31925,14
+Argentina + Mexico,9570,14
+Latvia + Portugal,20730,14
+Russia + United States,38165,13
+Denmark + Russia,36310,13
+France + Peru,23665,13
+Canada + Peru,26205,13
+Ghana + Morocco,2700,13
+Brazil + Italy,20960,13
+Italy + Japan,36775,13
+Italy + Malaysia,22230,13
+Hungary + Italy,25365,13
+India + Switzerland,42050,13
+Hungary + Switzerland,49690,13
+Czech Republic + Switzerland,52580,13
+France + Nigeria,21315,13
+France + Singapore,62210,13
+France + Hungary,28925,13
+France + Moldova,22470,13
+Angola + France,21570,13
+Brazil + United Kingdom,26795,13
+Moldova + United Kingdom,24745,13
+Israel + Spain,36740,13
+Czech Republic + Spain,26590,13
+Cyprus + Sweden,38075,13
+Cyprus + United Arab Emirates,33120,13
+Cyprus + Ireland,50565,13
+Belarus + Cyprus,15170,13
+Egypt + Turkey,6265,13
+Hungary + Sweden,34940,13
+Czech Republic + Sweden,37830,13
+Finland + Israel,46695,13
+Czech Republic + Finland,36545,13
+Czech Republic + Norway,48835,13
+Taiwan + United States,46200,13
+United States + Venezuela,33500,13
+South Korea + United States,48715,13
+Philippines + Singapore,43655,13
+Israel + United Arab Emirates,43025,13
+Bangladesh + United Arab Emirates,22330,13
+Brazil + Germany,27490,13
+Argentina + Brazil,9250,13
+Brazil + Mexico,8910,13
+Canada + Taiwan,36595,13
+Argentina + Canada,27720,13
+Canada + Cuba,27190,13
+Canada + Latvia,31975,13
+Germany + Saudi Arabia,34475,13
+Netherlands + Thailand,30520,13
+Australia + China,32470,13
+China + Israel,26760,13
+Japan + Netherlands,46690,13
+Germany + Taiwan,37025,13
+Dominican Republic + Germany,27260,13
+Germany + Hungary,31895,13
+Germany + Panama,30940,13
+Austria + Morocco,27170,13
+Algeria + Austria,27555,13
+Austria + Czech Republic,37150,13
+Austria + Belarus,28895,13
+Morocco + Netherlands,28190,13
+Netherlands + South Korea,42925,13
+Ireland + Netherlands,65310,13
+Latvia + Morocco,10820,13
+Belgium + Turkey,27570,13
+Algeria + Belgium,25040,13
+Belgium + Ireland,61775,13
+Belgium + Portugal,34565,13
+Algeria + Turkey,6520,13
+Ireland + Turkey,43255,13
+Poland + Turkey,12355,13
+Panama + Venezuela,8875,13
+Dominican Republic + Mexico,8680,13
+Denmark + Israel,52255,13
+Greece + India,11245,13
+Algeria + Denmark,32510,13
+Czech Republic + Greece,21775,13
+Greece + Poland,18015,13
+Ireland + Poland,46560,13
+Czech Republic + Poland,19420,13
+Canada + Russia,28560,12
+Morocco + Russia,7405,12
+Israel + Russia,27535,12
+India + Russia,6855,12
+Ireland + Russia,44525,12
+Burkina Faso + Morocco,1970,12
+France + Ghana,21315,12
+Benin + Morocco,2045,12
+Colombia + Spain,18185,12
+Brazil + Colombia,7480,12
+Colombia + Germany,26380,12
+Colombia + Venezuela,4315,12
+Italy + Taiwan,30495,12
+Italy + South Korea,33010,12
+Italy + Moldova,18910,12
+Belarus + Switzerland,44325,12
+France + South Africa,23150,12
+Singapore + United Kingdom,64485,12
+Bangladesh + United Kingdom,23545,12
+Mexico + United Kingdom,27115,12
+Hungary + United Kingdom,31200,12
+Qatar + United Kingdom,287675,12
+India + Spain,16060,12
+Hungary + Spain,23700,12
+Belarus + Spain,18335,12
+Austria + Cyprus,37395,12
+Cyprus + Turkey,16360,12
+Egypt + United States,34110,12
+India + Sweden,27300,12
+Finland + Japan,45065,12
+Finland + Taiwan,38785,12
+Finland + South Korea,41300,12
+Algeria + Finland,26950,12
+Finland + Hungary,33655,12
+Hungary + Norway,45945,12
+Norway + Poland,45075,12
+Moldova + Norway,39490,12
+Malaysia + United States,37935,12
+Israel + United States,54110,12
+Costa Rica + United States,38360,12
+Czech Republic + United States,43960,12
+Puerto Rico + United States,54955,12
+El Salvador + United States,34480,12
+Belarus + United States,35705,12
+Philippines + United Arab Emirates,22955,12
+Hong Kong + Philippines,25805,12
+Philippines + South Korea,18015,12
+Kenya + United Arab Emirates,22165,12
+Poland + United Arab Emirates,29115,12
+Qatar + United Arab Emirates,286460,12
+Brazil + Dominican Republic,8360,12
+Canada + Japan,42875,12
+Belgium + Canada,45810,12
+Canada + Turkey,27290,12
+Canada + Trinidad and Tobago,31040,12
+Belarus + Canada,26100,12
+Kenya + Netherlands,27460,12
+Australia + Hong Kong,51585,12
+China + Vietnam,6355,12
+Bangladesh + China,6065,12
+Taiwan + Vietnam,15165,12
+Malaysia + Vietnam,6900,12
+Germany + Malaysia,28760,12
+Bangladesh + Malaysia,6610,12
+Germany + South Korea,39540,12
+Germany + Mexico,27810,12
+Germany + Moldova,25440,12
+Austria + India,26620,12
+Austria + Hungary,34260,12
+Netherlands + Portugal,38100,12
+Czech Republic + Netherlands,38170,12
+India + Morocco,2670,12
+Belarus + Morocco,4945,12
+Belgium + Greece,33230,12
+Belgium + Poland,30875,12
+India + Turkey,5585,12
+Portugal + Turkey,16045,12
+Czech Republic + Turkey,16115,12
+Belarus + Turkey,7860,12
+Israel + Poland,29570,12
+Israel + Latvia,30950,12
+India + Ireland,39790,12
+Denmark + India,31575,12
+El Salvador + Mexico,6725,12
+Costa Rica + Panama,13735,12
+Algeria + Greece,12180,12
+Algeria + Ireland,40725,12
+Greece + Hungary,18885,12
+Greece + Moldova,12430,12
+Czech Republic + Hungary,20290,12
+Hungary + Poland,16530,12
+Czech Republic + Denmark,42105,12
+Cyprus + Russia,17630,11
+Belgium + Russia,28840,11
+Algeria + Russia,7790,11
+Portugal + Russia,17315,11
+Czech Republic + Russia,17385,11
+Poland + Russia,13625,11
+Brazil + Peru,7735,11
+Cote d'Ivoire + Morocco,2935,11
+Burkina Faso + France,20585,11
+Belgium + Senegal,23770,11
+Benin + France,20660,11
+Colombia + Italy,19850,11
+Colombia + Cuba,7610,11
+Italy + Singapore,58650,11
+Argentina + Italy,21620,11
+Cuba + Italy,21090,11
+Georgia + Italy,18880,11
+Italy + Libya,20290,11
+Italy + Jordan,18855,11
+Italy + Qatar,281840,11
+Cyprus + Switzerland,52825,11
+Hong Kong + Switzerland,65125,11
+France + Venezuela,21355,11
+France + Georgia,22440,11
+Cuba + United Kingdom,26925,11
+South Africa + United Kingdom,25425,11
+Georgia + United Kingdom,24715,11
+Jordan + United Kingdom,24690,11
+Cyprus + Spain,26835,11
+Dominican Republic + Spain,19065,11
+Argentina + Spain,19955,11
+Cyprus + United States,44205,11
+China + Cyprus,16855,11
+Cyprus + Morocco,13445,11
+Canada + Egypt,24505,11
+Austria + Egypt,27300,11
+Algeria + Egypt,3735,11
+Algeria + Sweden,28235,11
+Finland + Malaysia,30520,11
+Israel + Norway,58985,11
+India + Norway,38305,11
+Algeria + Norway,39240,11
+Singapore + United States,74355,11
+Jamaica + United States,34945,11
+Philippines + Thailand,5610,11
+Japan + Philippines,21780,11
+Australia + United Arab Emirates,48735,11
+South Africa + United Arab Emirates,24210,11
+Moldova + United Arab Emirates,23530,11
+Brazil + Morocco,5905,11
+Brazil + Cuba,8720,11
+Brazil + Panama,12040,11
+Canada + Thailand,26705,11
+Canada + Malaysia,28330,11
+Canada + South Korea,39110,11
+Canada + Jamaica,25340,11
+Hong Kong + Saudi Arabia,35415,11
+Malaysia + Saudi Arabia,16845,11
+Netherlands + Saudi Arabia,37860,11
+Morocco + Saudi Arabia,12890,11
+Austria + Thailand,29500,11
+Australia + Taiwan,41280,11
+China + Poland,12850,11
+Austria + Hong Kong,49695,11
+Hong Kong + Turkey,28660,11
+Bangladesh + Hong Kong,25180,11
+Netherlands + Taiwan,40410,11
+Malaysia + Netherlands,32145,11
+Cuba + Germany,27620,11
+Bangladesh + Netherlands,27625,11
+Hungary + Netherlands,35280,11
+Latvia + Netherlands,35790,11
+Israel + Turkey,26265,11
+Moldova + Turkey,6770,11
+Dominican Republic + Venezuela,5195,11
+Argentina + Dominican Republic,9020,11
+Cuba + Dominican Republic,8490,11
+Algeria + India,3055,11
+India + Portugal,12580,11
+India + Qatar,266235,11
+Cuba + Mexico,9040,11
+Cuba + Panama,12170,11
+Algeria + Portugal,13515,11
+Algeria + Belarus,5330,11
+Denmark + Hungary,39215,11
+Czech Republic + Ireland,50320,11
+Poland + Portugal,19350,11
+Belarus + Portugal,14855,11
+Czech Republic + Latvia,20800,11
+Latvia + Poland,17040,11
+Hong Kong + Russia,29930,10
+Russia + Ukraine,7625,10
+Dominican Republic + Peru,7505,10
+Chile + Peru,11975,10
+Cote d'Ivoire + Senegal,2050,10
+Cote d'Ivoire + France,21550,10
+Burkina Faso + Senegal,1085,10
+Senegal + United Kingdom,23225,10
+Nigeria + Senegal,1815,10
+Algeria + Senegal,2720,10
+Colombia + Costa Rica,9175,10
+Colombia + El Salvador,5295,10
+Dominican Republic + Italy,20730,10
+Bangladesh + Italy,17710,10
+Italy + Panama,24410,10
+Italy + Ukraine,18495,10
+Egypt + Switzerland,42730,10
+Jordan + Switzerland,43180,10
+Moldova + Switzerland,43235,10
+Bulgaria + Switzerland,45845,10
+France + Philippines,21895,10
+France + Kenya,21105,10
+Australia + France,47675,10
+France + Vietnam,21560,10
+Bangladesh + France,21270,10
+France + Ukraine,22055,10
+France + Libya,23850,10
+France + Jordan,22415,10
+France + Qatar,285400,10
+Bulgaria + France,25080,10
+Kenya + United Kingdom,23380,10
+Panama + United Kingdom,30245,10
+Ukraine + United Kingdom,24330,10
+Libya + United Kingdom,26125,10
+Bulgaria + United Kingdom,27355,10
+Angola + United Kingdom,23845,10
+Egypt + Spain,16740,10
+Hong Kong + Spain,39135,10
+Cuba + Spain,19425,10
+Panama + Spain,22745,10
+Cyprus + Portugal,23355,10
+Cyprus + Czech Republic,23425,10
+Egypt + Sweden,27980,10
+Egypt + Saudi Arabia,13020,10
+China + Egypt,6760,10
+Egypt + Netherlands,28320,10
+Egypt + Morocco,3350,10
+Egypt + India,2800,10
+Denmark + Egypt,32255,10
+Sweden + Thailand,30180,10
+Hong Kong + Sweden,50375,10
+Bulgaria + Sweden,31095,10
+Finland + Georgia,27170,10
+Finland + Moldova,27200,10
+Bulgaria + Norway,42100,10
+Antigua and Barbuda + United States,41900,10
+Guadeloupe + United States,43720,10
+Guatemala + United States,34620,10
+Hungary + United States,41070,10
+Chile + United States,40905,10
+Qatar + United States,297545,10
+Philippines + Vietnam,3005,10
+Brazil + United Arab Emirates,25580,10
+United Arab Emirates + Vietnam,22620,10
+Mexico + United Arab Emirates,25900,10
+Czech Republic + United Arab Emirates,32875,10
+Libya + United Arab Emirates,24910,10
+Jordan + United Arab Emirates,23475,10
+Angola + United Arab Emirates,22630,10
+Brazil + China,9315,10
+Brazil + Netherlands,30875,10
+Belgium + Brazil,27340,10
+Cameroon + Morocco,2415,10
+Canada + Venezuela,23895,10
+Canada + Poland,30595,10
+Saudi Arabia + Turkey,15805,10
+Germany + Kenya,24075,10
+India + Kenya,1940,10
+Australia + Thailand,31390,10
+Bangladesh + Thailand,4985,10
+Singapore + Vietnam,43320,10
+Germany + Singapore,65180,10
+Netherlands + Singapore,68565,10
+Australia + Japan,47560,10
+Australia + Malaysia,33015,10
+Australia + South Korea,43795,10
+Australia + India,28510,10
+Burma + China,5715,10
+China + Mexico,9635,10
+China + South Africa,7945,10
+China + Jordan,7210,10
+China + Qatar,270195,10
+Hong Kong + Vietnam,25470,10
+Hong Kong + Morocco,25745,10
+Denmark + Hong Kong,54650,10
+Japan + Vietnam,21445,10
+Austria + Japan,45670,10
+Burma + Malaysia,6260,10
+Brunei + Malaysia,20450,10
+South Korea + Vietnam,17680,10
+Argentina + Germany,28150,10
+Georgia + Germany,25410,10
+Germany + Jamaica,25770,10
+Germany + Ukraine,25025,10
+Germany + Libya,26820,10
+Germany + Jordan,25385,10
+Germany + Qatar,288370,10
+Bulgaria + Germany,28050,10
+Austria + South Korea,41905,10
+Austria + Bulgaria,30415,10
+Mexico + Netherlands,31195,10
+Netherlands + South Africa,29505,10
+Belarus + Netherlands,29915,10
+Morocco + Poland,9440,10
+Libya + Morocco,5235,10
+Jordan + Morocco,3800,10
+Angola + Morocco,2955,10
+Belgium + Israel,44785,10
+Belgium + Czech Republic,34635,10
+Hungary + Turkey,13225,10
+Turkey + Ukraine,6355,10
+Argentina + Venezuela,6085,10
+Mexico + Venezuela,5745,10
+Bangladesh + South Korea,17390,10
+Hungary + Israel,30440,10
+Ireland + Israel,60470,10
+Czech Republic + Israel,33330,10
+Belarus + Israel,25075,10
+India + South Africa,3985,10
+India + Latvia,10270,10
+Belarus + India,4395,10
+Argentina + Cuba,9380,10
+Costa Rica + Mexico,10605,10
+Algeria + Latvia,11205,10
+Algeria + Libya,5620,10
+Algeria + Jordan,4185,10
+Bulgaria + Greece,15040,10
+Hungary + Ireland,47430,10
+Hungary + Latvia,17910,10
+Czech Republic + Portugal,23110,10
+Chile + Panama,16280,10
+El Salvador + Panama,9855,10
+Angola + South Africa,4270,10
+Jamaica + Trinidad and Tobago,10850,10
+Egypt + Russia,7535,9
+Russia + Thailand,9735,9
+Japan + Russia,25905,9
+Russia + South Korea,22140,9
+Hungary + Russia,14495,9
+Georgia + Russia,8010,9
+Kazakhstan + Russia,10270,9
+Moldova + Russia,8040,9
+Italy + Peru,20105,9
+Peru + Spain,18440,9
+Costa Rica + Peru,9430,9
+Burkina Faso + Cote d'Ivoire,1685,9
+Algeria + Burkina Faso,2355,9
+Ghana + Senegal,1815,9
+Ghana + Nigeria,2180,9
+Mali + Senegal,1175,9
+France + Mali,20675,9
+Mali + Morocco,2060,9
+Benin + Senegal,1160,9
+Italy + Senegal,17390,9
+Senegal + Spain,15725,9
+Senegal + United States,33095,9
+Senegal + United Arab Emirates,22010,9
+Chile + Colombia,11720,9
+Italy + Tunisia,18360,9
+Bulgaria + Italy,21520,9
+Angola + Italy,18010,9
+Brazil + Switzerland,45285,9
+Saudi Arabia + Switzerland,52270,9
+Switzerland + Thailand,44930,9
+Japan + Switzerland,61100,9
+South Korea + Switzerland,57335,9
+Switzerland + Ukraine,42820,9
+Malta + Switzerland,56470,9
+Cameroon + France,21030,9
+Chile + France,28760,9
+France + Puerto Rico,42810,9
+France + Malta,35705,9
+Australia + United Kingdom,49950,9
+Dominican Republic + United Kingdom,26565,9
+Jamaica + United Kingdom,25075,9
+Trinidad and Tobago + United Kingdom,30775,9
+Malta + United Kingdom,37980,9
+Japan + Spain,35110,9
+Jordan + Spain,17190,9
+Bulgaria + Spain,19855,9
+Angola + Spain,16345,9
+Canada + Cyprus,34600,9
+Algeria + Cyprus,13830,9
+Cyprus + Poland,19665,9
+Cyprus + Ukraine,13665,9
+Egypt + Finland,26695,9
+Belgium + Egypt,24785,9
+Georgia + Sweden,28455,9
+Moldova + Sweden,28485,9
+Malta + Sweden,41720,9
+Finland + Singapore,66940,9
+Finland + Qatar,290130,9
+Bulgaria + Finland,29810,9
+Norway + Thailand,41185,9
+Hong Kong + Norway,61380,9
+Nigeria + United States,33460,9
+Saudi Arabia + United States,43650,9
+South Africa + United States,35295,9
+Bulgaria + United States,37225,9
+Barbados + United States,41620,9
+Angola + United States,33715,9
+India + Philippines,2730,9
+Hungary + United Arab Emirates,29985,9
+Brunei + United Arab Emirates,36170,9
+Brazil + Portugal,15815,9
+Brazil + Chile,12830,9
+Brazil + Denmark,34810,9
+Belgium + Nigeria,24135,9
+Canada + Saudi Arabia,34045,9
+Canada + Singapore,64750,9
+Bahamas + Canada,38285,9
+Antigua and Barbuda + Canada,32295,9
+Canada + Israel,44505,9
+Canada + Costa Rica,28755,9
+Canada + Jordan,24955,9
+Saudi Arabia + Thailand,15220,9
+Bangladesh + Saudi Arabia,12325,9
+Algeria + Saudi Arabia,13275,9
+China + Kenya,5900,9
+Burma + Thailand,4635,9
+Thailand + Vietnam,5275,9
+Denmark + Thailand,34455,9
+Australia + Singapore,69435,9
+Burma + Singapore,42680,9
+Bangladesh + Singapore,43030,9
+Australia + Netherlands,54030,9
+China + Czech Republic,16610,9
+Brunei + China,19905,9
+China + Georgia,7235,9
+Belgium + Hong Kong,47180,9
+Greece + Hong Kong,34320,9
+Hong Kong + Ireland,62865,9
+Brunei + Hong Kong,39020,9
+Bangladesh + Japan,21155,9
+Burma + Taiwan,14525,9
+Austria + Taiwan,39390,9
+Brunei + Taiwan,28715,9
+Burma + South Korea,17040,9
+Burma + India,1755,9
+India + Vietnam,2395,9
+Germany + Venezuela,24325,9
+Bangladesh + Germany,24240,9
+Germany + South Africa,26120,9
+Germany + Trinidad and Tobago,31470,9
+Germany + Malta,38675,9
+Angola + Germany,24540,9
+Austria + Moldova,27805,9
+Austria + Malta,41040,9
+Algeria + Netherlands,28575,9
+Bulgaria + Netherlands,31435,9
+Angola + Netherlands,27925,9
+Israel + Morocco,23350,9
+Czech Republic + Morocco,13200,9
+Morocco + Tunisia,3305,9
+Belgium + India,24105,9
+Belgium + Hungary,31745,9
+Belgium + Latvia,32255,9
+Belarus + Belgium,26380,9
+Bulgaria + Turkey,9380,9
+Dominican Republic + Guadeloupe,15415,9
+Dominican Republic + Puerto Rico,26650,9
+Argentina + Chile,13490,9
+Guatemala + Mexico,6865,9
+Chile + Mexico,13150,9
+Costa Rica + Guatemala,8240,9
+Guatemala + Panama,9995,9
+Costa Rica + El Salvador,8100,9
+Algeria + Tunisia,3690,9
+Greece + Ukraine,12015,9
+Greece + Malta,25665,9
+Hungary + Portugal,20220,9
+Bulgaria + Hungary,13555,9
+Bulgaria + Ireland,43585,9
+Bulgaria + Czech Republic,16445,9
+Belarus + Czech Republic,14925,9
+Bulgaria + Poland,12685,9
+Belarus + Poland,11165,9
+Georgia + Latvia,11425,9
+Belarus + Georgia,5550,9
+Bulgaria + Denmark,35370,9
+Latvia + Moldova,11455,9
+Bulgaria + Latvia,14065,9
+Barbados + Trinidad and Tobago,17525,9
+Belarus + Moldova,5580,9
+Azerbaijan + Russia,7795,8
+Russia + Saudi Arabia,17075,8
+Russia + Tunisia,7490,8
+Bulgaria + Russia,10650,8
+Lebanon + Russia,10010,8
+Azerbaijan + United Kingdom,24500,8
+Ecuador + Peru,6480,8
+Germany + Peru,26635,8
+Peru + Venezuela,4570,8
+Cuba + Peru,7865,8
+El Salvador + Peru,5550,8
+Benin + Burkina Faso,795,8
+Ghana + United Kingdom,23590,8
+Ghana + United States,33460,8
+Belgium + Ghana,24135,8
+Benin + Nigeria,1525,8
+Colombia + United Kingdom,25685,8
+Colombia + Puerto Rico,25770,8
+Ecuador + United States,35410,8
+Ecuador + Panama,10785,8
+Italy + Nigeria,17755,8
+Italy + Kenya,17545,8
+Croatia + Italy,24265,8
+Italy + Serbia,20410,8
+Italy + South Africa,19590,8
+Italy + Kuwait,33485,8
+Italy + Malta,32145,8
+Italy + Lithuania,26310,8
+Switzerland + Taiwan,54820,8
+Croatia + Switzerland,48590,8
+Mexico + Switzerland,45605,8
+Lebanon + Switzerland,45205,8
+Croatia + France,27825,8
+France + Serbia,23970,8
+France + Tunisia,21920,8
+France + Romania,26605,8
+France + Lithuania,29870,8
+Congo (Kinshasa) + France,20490,8
+France + Lebanon,24440,8
+Philippines + United Kingdom,24170,8
+Nigeria + United Kingdom,23590,8
+United Kingdom + Vietnam,23835,8
+Croatia + United Kingdom,30100,8
+Argentina + United Kingdom,27455,8
+Serbia + United Kingdom,26245,8
+Tunisia + United Kingdom,24195,8
+Romania + United Kingdom,28880,8
+Kuwait + United Kingdom,39320,8
+Barbados + United Kingdom,31750,8
+Lithuania + United Kingdom,32145,8
+Lebanon + United Kingdom,26715,8
+Spain + Thailand,18940,8
+Croatia + Spain,22600,8
+South Korea + Spain,31345,8
+Spain + Ukraine,16830,8
+Moldova + Spain,17245,8
+Malta + Spain,30480,8
+Lithuania + Spain,24645,8
+Cyprus + Thailand,15775,8
+Cyprus + Netherlands,38415,8
+Cyprus + Israel,33575,8
+Cyprus + India,12895,8
+Cyprus + Hungary,20535,8
+Cyprus + Georgia,14050,8
+Cyprus + Moldova,14080,8
+Egypt + Hong Kong,25875,8
+Egypt + Greece,11925,8
+Egypt + Portugal,13260,8
+Egypt + Libya,5365,8
+Brazil + Sweden,30535,8
+Japan + Sweden,46350,8
+Sweden + Taiwan,40070,8
+Croatia + Sweden,33840,8
+South Korea + Sweden,42585,8
+Serbia + Sweden,29985,8
+Sweden + Ukraine,28070,8
+Qatar + Sweden,291415,8
+Finland + Saudi Arabia,36235,8
+Finland + Kenya,25835,8
+Croatia + Finland,32555,8
+Finland + Mexico,29570,8
+Finland + Serbia,28700,8
+Finland + Ukraine,26785,8
+Finland + Lithuania,34600,8
+Croatia + Norway,44845,8
+Norway + Serbia,40990,8
+Malta + Norway,52725,8
+Kenya + United States,33250,8
+Australia + United States,59820,8
+Croatia + United States,39970,8
+Bahamas + United States,47890,8
+Honduras + United States,33580,8
+Moldova + United States,34615,8
+Australia + Philippines,29120,8
+Brunei + Philippines,16555,8
+Indonesia + Philippines,3625,8
+Nigeria + United Arab Emirates,22375,8
+Burma + United Arab Emirates,21980,8
+Tunisia + United Arab Emirates,22980,8
+Georgia + United Arab Emirates,23500,8
+Bulgaria + United Arab Emirates,26140,8
+Brazil + Venezuela,5425,8
+Algeria + Brazil,6290,8
+Brazil + Ireland,43025,8
+Morocco + Sierra Leone,1895,8
+Australia + Canada,50215,8
+Canada + Guadeloupe,34115,8
+Canada + Chile,31300,8
+Canada + Qatar,287940,8
+Barbados + Canada,32015,8
+Canada + El Salvador,24875,8
+Angola + Canada,24110,8
+Saudi Arabia + Singapore,53265,8
+Libya + Saudi Arabia,14905,8
+Kuwait + Saudi Arabia,28100,8
+Kenya + Thailand,4820,8
+Hong Kong + Kenya,25015,8
+Kenya + Malaysia,6445,8
+Belgium + Kenya,23925,8
+Kenya + South Africa,3805,8
+Thailand + Turkey,8465,8
+Greece + Thailand,14125,8
+Ireland + Thailand,42670,8
+Portugal + Thailand,15460,8
+Brunei + Thailand,18825,8
+Indonesia + Thailand,5895,8
+Latvia + Thailand,13150,8
+Belarus + Thailand,7275,8
+Austria + Singapore,67545,8
+Brunei + Singapore,56870,8
+Australia + Germany,50645,8
+Cambodia + China,5830,8
+China + Cuba,9445,8
+China + Indonesia,6975,8
+China + Tajikistan,5500,8
+Burma + Hong Kong,24830,8
+Hong Kong + Israel,45875,8
+Hong Kong + Mexico,28750,8
+Algeria + Hong Kong,26130,8
+Hong Kong + Portugal,35655,8
+Hong Kong + Poland,31965,8
+Hong Kong + South Africa,27060,8
+Belarus + Hong Kong,27470,8
+Belgium + Japan,43155,8
+Japan + Turkey,24635,8
+Japan + Mexico,24725,8
+Denmark + Japan,50625,8
+Cambodia + Taiwan,14640,8
+Bangladesh + Taiwan,14875,8
+Denmark + Taiwan,44345,8
+Cambodia + Malaysia,6375,8
+Austria + Malaysia,31125,8
+Indonesia + Malaysia,7520,8
+Germany + Vietnam,24530,8
+Croatia + Germany,30795,8
+Antigua and Barbuda + Germany,32725,8
+Germany + Serbia,26940,8
+Germany + Tunisia,24890,8
+Germany + Romania,29575,8
+Barbados + Germany,32445,8
+Germany + Lithuania,32840,8
+Germany + Lebanon,27410,8
+Austria + Croatia,33160,8
+Croatia + Netherlands,34180,8
+Croatia + Greece,17785,8
+Croatia + Hungary,16300,8
+Croatia + Ireland,46330,8
+Croatia + Portugal,19120,8
+Croatia + Czech Republic,19190,8
+Croatia + Poland,15430,8
+Croatia + Denmark,38115,8
+Austria + Georgia,27775,8
+Austria + Ukraine,27390,8
+Austria + Jordan,27750,8
+Moldova + Netherlands,28825,8
+Malta + Netherlands,42060,8
+Mexico + Morocco,6225,8
+Belgium + South Korea,39390,8
+Belgium + Jordan,25235,8
+Belgium + Moldova,25290,8
+Belgium + Bulgaria,27900,8
+South Korea + Turkey,20870,8
+Tunisia + Turkey,6220,8
+Libya + Turkey,8150,8
+Jordan + Turkey,6715,8
+Lebanon + Turkey,8740,8
+Cuba + Venezuela,5555,8
+Denmark + South Korea,46860,8
+India + Israel,22800,8
+Israel + Portugal,33260,8
+Georgia + Israel,23955,8
+Bulgaria + Israel,26595,8
+Brunei + India,15945,8
+India + Jordan,3250,8
+India + Kuwait,17880,8
+Honduras + Mexico,5825,8
+Denmark + Mexico,35130,8
+Guatemala + Honduras,3460,8
+El Salvador + Guatemala,4360,8
+Greece + Serbia,13930,8
+Ireland + Serbia,42475,8
+Denmark + Serbia,34260,8
+Latvia + Serbia,12955,8
+Algeria + Poland,9825,8
+Georgia + Greece,12400,8
+Greece + Jordan,12375,8
+Greece + Romania,16565,8
+Ireland + Ukraine,40560,8
+Ireland + Jordan,40920,8
+Ireland + Moldova,40975,8
+Ireland + Qatar,303905,8
+Jordan + Portugal,13710,8
+Bulgaria + Portugal,16375,8
+Czech Republic + Ukraine,13420,8
+Czech Republic + Moldova,13835,8
+Poland + Ukraine,9660,8
+Jamaica + Panama,10320,8
+Denmark + Georgia,32730,8
+Denmark + Jordan,32705,8
+Denmark + Moldova,32760,8
+Denmark + Qatar,295690,8
+Denmark + Malta,45995,8
+Latvia + Ukraine,11040,8
+Barbados + Jamaica,11825,8
+Brazil + Russia,10090,7
+Russia + Singapore,47780,7
+Russia + Taiwan,19625,7
+Malaysia + Russia,11360,7
+Mexico + Russia,10410,7
+Libya + Russia,9420,7
+Jordan + Russia,7985,7
+Romania + Russia,12175,7
+Malta + Russia,21275,7
+Azerbaijan + Italy,18665,7
+Azerbaijan + France,22225,7
+Azerbaijan + Finland,26955,7
+Azerbaijan + Germany,25195,7
+Azerbaijan + Turkey,6525,7
+Azerbaijan + Georgia,4215,7
+Peru + United Kingdom,25940,7
+Peru + Uruguay,11940,7
+Cote d'Ivoire + Nigeria,2415,7
+Algeria + Cote d'Ivoire,3320,7
+Burkina Faso + Mali,810,7
+Belgium + Burkina Faso,23405,7
+Ghana + Italy,17755,7
+Ghana + United Arab Emirates,22375,7
+Algeria + Ghana,3085,7
+Belgium + Mali,23495,7
+Cameroon + Senegal,1530,7
+Canada + Senegal,23490,7
+Germany + Senegal,23920,7
+Portugal + Senegal,12245,7
+Benin + Cameroon,1240,7
+Algeria + Benin,2430,7
+Colombia + Ecuador,6225,7
+Colombia + Netherlands,29765,7
+Aruba + Colombia,19905,7
+Colombia + Guatemala,5435,7
+Canada + Ecuador,25805,7
+Ecuador + Mexico,7655,7
+Italy + Venezuela,17795,7
+Italy + Kazakhstan,21140,7
+Italy + Romania,23045,7
+Italy + Lebanon,20880,7
+Italy + Maldives,21570,7
+Georgia + Switzerland,43205,7
+Libya + Switzerland,44615,7
+Qatar + Switzerland,306165,7
+Lithuania + Switzerland,50635,7
+Burma + France,20920,7
+Aruba + France,36945,7
+France + Guadeloupe,31575,7
+France + Martinique,32335,7
+Costa Rica + France,26215,7
+Brunei + France,35110,7
+France + Jamaica,22800,7
+France + Trinidad and Tobago,28500,7
+France + Kazakhstan,24700,7
+France + Kuwait,37045,7
+El Salvador + France,22335,7
+France + Mauritius,25975,7
+Burma + United Kingdom,23195,7
+Antigua and Barbuda + United Kingdom,32030,7
+Brunei + United Kingdom,37385,7
+Sri Lanka + United Kingdom,24545,7
+Nigeria + Spain,16090,7
+Spain + Taiwan,28830,7
+Spain + Venezuela,16130,7
+Serbia + Spain,18745,7
+Georgia + Spain,17215,7
+Qatar + Spain,280175,7
+Lebanon + Spain,19215,7
+Cyprus + Egypt,13575,7
+Egypt + Norway,38985,7
+Egypt + Malaysia,7305,7
+Egypt + Israel,23480,7
+Bangladesh + Egypt,2785,7
+Egypt + Ireland,40470,7
+Egypt + Tunisia,3435,7
+Egypt + Poland,9570,7
+Egypt + Latvia,10950,7
+Egypt + Jordan,3930,7
+Belarus + Egypt,5075,7
+Saudi Arabia + Sweden,37520,7
+Kenya + Sweden,27120,7
+Malaysia + Sweden,31805,7
+Mexico + Sweden,30855,7
+Jordan + Sweden,28430,7
+Lithuania + Sweden,35885,7
+Lebanon + Sweden,30455,7
+Bangladesh + Finland,26000,7
+Finland + South Africa,27880,7
+Finland + Malta,40435,7
+Brazil + Norway,41540,7
+Norway + Saudi Arabia,48525,7
+Georgia + Norway,39460,7
+Norway + Ukraine,39075,7
+Norway + Qatar,302420,7
+United States + Vietnam,33705,7
+Aruba + United States,49090,7
+Martinique + United States,44480,7
+Saint Lucia + United States,37535,7
+Bangladesh + United States,33415,7
+Serbia + United States,36115,7
+United States + Uruguay,40870,7
+Georgia + United States,34585,7
+Jordan + United States,34560,7
+Cambodia + Philippines,2480,7
+Burma + Philippines,2365,7
+Cambodia + United Arab Emirates,22095,7
+Dominican Republic + United Arab Emirates,25350,7
+Cuba + United Arab Emirates,25710,7
+Indonesia + United Arab Emirates,23240,7
+Kuwait + United Arab Emirates,38105,7
+Lebanon + United Arab Emirates,25500,7
+Brazil + Hong Kong,28430,7
+Brazil + Japan,24405,7
+Austria + Brazil,29855,7
+Brazil + Turkey,8820,7
+Brazil + Costa Rica,10285,7
+Brazil + Greece,14480,7
+Brazil + Poland,12125,7
+Brazil + Jordan,6485,7
+Brazil + El Salvador,6405,7
+Cameroon + Nigeria,1895,7
+Algeria + Nigeria,3085,7
+Canada + Kenya,23645,7
+Canada + Vietnam,24100,7
+Canada + Martinique,34875,7
+Canada + Saint Lucia,27930,7
+Canada + Czech Republic,34355,7
+Canada + South Africa,25690,7
+Canada + Libya,26390,7
+Canada + Puerto Rico,45350,7
+Japan + Saudi Arabia,31390,7
+Saudi Arabia + Taiwan,25110,7
+Belgium + Saudi Arabia,34325,7
+Saudi Arabia + South Korea,27625,7
+Greece + Saudi Arabia,21465,7
+Ireland + Saudi Arabia,50010,7
+Portugal + Saudi Arabia,22800,7
+Denmark + Saudi Arabia,41795,7
+Jordan + Saudi Arabia,13470,7
+Qatar + Saudi Arabia,276455,7
+Belarus + Saudi Arabia,14615,7
+Kenya + Taiwan,14710,7
+Austria + Kenya,26440,7
+Denmark + Kenya,31395,7
+Angola + Kenya,2225,7
+Cambodia + Thailand,4750,7
+Morocco + Thailand,5550,7
+Czech Republic + Thailand,15530,7
+Poland + Thailand,11770,7
+South Africa + Thailand,6865,7
+Cambodia + Singapore,42795,7
+Indonesia + Singapore,43940,7
+Australia + Bangladesh,28495,7
+Australia + Brunei,42335,7
+Australia + Indonesia,29405,7
+China + Hungary,13720,7
+China + Kazakhstan,9495,7
+China + Kuwait,21840,7
+China + Sri Lanka,7065,7
+Cambodia + Hong Kong,24945,7
+Czech Republic + Hong Kong,35725,7
+Hong Kong + Indonesia,26090,7
+Hong Kong + Latvia,33345,7
+Hong Kong + Jordan,26325,7
+Hong Kong + Kuwait,40955,7
+Hong Kong + Sri Lanka,26180,7
+Hong Kong + Qatar,289310,7
+Cambodia + Japan,20920,7
+Burma + Japan,20805,7
+Israel + Japan,41850,7
+Ireland + Japan,58840,7
+Japan + Poland,27940,7
+Brunei + Japan,34995,7
+Indonesia + Japan,22065,7
+Japan + South Africa,23035,7
+Ireland + Taiwan,52560,7
+Indonesia + Taiwan,15785,7
+South Africa + Taiwan,16755,7
+Malaysia + Turkey,10090,7
+Malaysia + South Africa,8490,7
+Malaysia + Maldives,10470,7
+Cambodia + South Korea,17155,7
+Bangladesh + Burma,1740,7
+Netherlands + Vietnam,27915,7
+Indonesia + Vietnam,3290,7
+Germany + Guadeloupe,34545,7
+Germany + Kuwait,40015,7
+Croatia + Latvia,16810,7
+Bulgaria + Croatia,12455,7
+Austria + Mexico,30175,7
+Austria + Serbia,29305,7
+Austria + Qatar,290735,7
+Austria + Lithuania,35205,7
+Austria + Lebanon,29775,7
+Bahamas + Jamaica,18095,7
+Dominican Republic + Netherlands,30645,7
+Netherlands + Ukraine,28410,7
+Jordan + Netherlands,28770,7
+Lithuania + Netherlands,36225,7
+Lebanon + Netherlands,30795,7
+Dominican Republic + Morocco,5675,7
+Cuba + Morocco,6035,7
+Hungary + Morocco,10310,7
+Morocco + South Africa,4535,7
+Moldova + Morocco,3855,7
+Morocco + Qatar,266785,7
+Congo (Kinshasa) + Morocco,1875,7
+Belgium + Mexico,27660,7
+Belgium + South Africa,25970,7
+Belgium + Qatar,288220,7
+Angola + Belgium,24390,7
+Georgia + Turkey,6740,7
+Romania + Turkey,10905,7
+Malta + Turkey,20005,7
+Aruba + Panama,24465,7
+Chile + Venezuela,9665,7
+Antigua and Barbuda + Jamaica,12105,7
+Antigua and Barbuda + Trinidad and Tobago,17805,7
+Guadeloupe + Panama,19095,7
+Guadeloupe + Puerto Rico,33935,7
+Dominican Republic + Martinique,16175,7
+Costa Rica + Dominican Republic,10055,7
+Chile + Dominican Republic,12600,7
+Dominican Republic + Jamaica,6640,7
+Dominican Republic + El Salvador,6175,7
+Israel + South Korea,38085,7
+Mexico + South Korea,20960,7
+Ireland + South Korea,55075,7
+Poland + South Korea,24175,7
+Brunei + South Korea,31230,7
+Indonesia + South Korea,18300,7
+South Africa + South Korea,19270,7
+Israel + Mexico,26355,7
+Algeria + Israel,23735,7
+Israel + Jordan,23930,7
+Israel + Moldova,23985,7
+Bangladesh + Brunei,15930,7
+India + Mexico,5675,7
+India + Poland,8890,7
+India + Sri Lanka,3105,7
+India + Maldives,5965,7
+Argentina + Uruguay,13455,7
+Algeria + Mexico,6610,7
+Ireland + Mexico,43345,7
+Mexico + Poland,12445,7
+Costa Rica + Honduras,7200,7
+Algeria + Moldova,4240,7
+Algeria + Angola,3340,7
+Greece + Qatar,275360,7
+Greece + Lithuania,19830,7
+Hungary + Ukraine,10530,7
+Hungary + Moldova,10945,7
+Hungary + Lithuania,18345,7
+Belarus + Hungary,12035,7
+Ireland + Malta,54210,7
+Portugal + Qatar,276695,7
+Malta + Portugal,27000,7
+Czech Republic + Malta,27070,7
+Czech Republic + Lithuania,21235,7
+Moldova + Poland,10075,7
+Malta + Poland,23310,7
+Lithuania + Poland,17475,7
+Panama + Uruguay,16245,7
+Honduras + Panama,8955,7
+Panama + Trinidad and Tobago,16020,7
+Panama + Puerto Rico,30330,7
+El Salvador + Honduras,3320,7
+Denmark + Ukraine,32345,7
+Angola + Denmark,31860,7
+Denmark + Lithuania,40160,7
+Latvia + Romania,15590,7
+Latvia + Malta,24690,7
+Latvia + Lithuania,18855,7
+Moldova + Romania,8625,7
+Bulgaria + Moldova,7100,7
+Belarus + Malta,18815,7
+Angola + Congo (Kinshasa),1610,7
+Nigeria + Russia,6885,6
+Kenya + Russia,6675,6
+Bangladesh + Russia,6840,6
+Russia + South Africa,8720,6
+Russia + Tajikistan,6275,6
+Qatar + Russia,270970,6
+Angola + Russia,7140,6
+Azerbaijan + Switzerland,42990,6
+Azerbaijan + Spain,17000,6
+Azerbaijan + Sweden,28240,6
+Azerbaijan + United Arab Emirates,23285,6
+Azerbaijan + China,7020,6
+Austria + Azerbaijan,27560,6
+Azerbaijan + Netherlands,28580,6
+Azerbaijan + Israel,23740,6
+Azerbaijan + Czech Republic,13590,6
+Azerbaijan + Poland,9830,6
+Azerbaijan + Belarus,5335,6
+Netherlands + Peru,30020,6
+Aruba + Peru,20160,6
+Guatemala + Peru,5690,6
+Bolivia + Peru,5215,6
+Cote d'Ivoire + Ghana,2415,6
+Cote d'Ivoire + Mali,1775,6
+Benin + Cote d'Ivoire,1760,6
+Cote d'Ivoire + United Kingdom,23825,6
+Cote d'Ivoire + United Arab Emirates,22610,6
+Belgium + Cote d'Ivoire,24370,6
+Burkina Faso + Ghana,1450,6
+Burkina Faso + United Arab Emirates,21645,6
+Burkina Faso + Nigeria,1450,6
+Benin + Ghana,1525,6
+Ghana + Spain,16090,6
+Ghana + Sierra Leone,1375,6
+Benin + Mali,885,6
+Algeria + Mali,2445,6
+Senegal + Switzerland,41715,6
+Liberia + Senegal,1060,6
+Gambia + Senegal,955,6
+Senegal + Sierra Leone,1010,6
+Guinea + Senegal,1150,6
+Denmark + Senegal,31240,6
+Belgium + Benin,23480,6
+Colombia + United Arab Emirates,24470,6
+China + Colombia,8205,6
+Colombia + Morocco,4795,6
+Colombia + Guadeloupe,14535,6
+Colombia + Martinique,15295,6
+Colombia + Uruguay,11685,6
+Colombia + Honduras,4395,6
+Colombia + Jamaica,5760,6
+Colombia + Trinidad and Tobago,11460,6
+Bolivia + Colombia,4960,6
+Ecuador + France,23265,6
+Costa Rica + Ecuador,9030,6
+Ecuador + El Salvador,5150,6
+Australia + Italy,44115,6
+Italy + Vietnam,18000,6
+Italy + Tajikistan,17145,6
+Nigeria + Switzerland,42080,6
+Kenya + Switzerland,41870,6
+Singapore + Switzerland,82975,6
+Malaysia + Switzerland,46555,6
+Dominican Republic + Switzerland,45055,6
+Bangladesh + Switzerland,42035,6
+Serbia + Switzerland,44735,6
+Switzerland + Tunisia,42685,6
+South Africa + Switzerland,43915,6
+Romania + Switzerland,47370,6
+Angola + Switzerland,42335,6
+France + Sierra Leone,20510,6
+Cambodia + France,21035,6
+Antigua and Barbuda + France,29755,6
+France + Indonesia,22180,6
+France + Uruguay,28725,6
+France + Sri Lanka,22270,6
+Congo (Brazzaville) + France,21265,6
+France + Maldives,25130,6
+United Kingdom + Venezuela,23630,6
+Tajikistan + United Kingdom,22980,6
+Kazakhstan + United Kingdom,26975,6
+Mauritius + United Kingdom,28250,6
+Maldives + United Kingdom,27405,6
+Saudi Arabia + Spain,26280,6
+Kenya + Spain,15880,6
+Costa Rica + Spain,20990,6
+Spain + Tunisia,16695,6
+Chile + Spain,23535,6
+Cyprus + Saudi Arabia,23115,6
+Cyprus + Hong Kong,35970,6
+Belgium + Cyprus,34880,6
+Cyprus + Serbia,15580,6
+Cyprus + Romania,18215,6
+Cyprus + Malta,27315,6
+Brazil + Egypt,6035,6
+Egypt + Kenya,2620,6
+Egypt + Japan,21850,6
+Egypt + South Korea,18085,6
+Czech Republic + Egypt,13330,6
+Egypt + Qatar,266915,6
+Egypt + Lebanon,5955,6
+Nigeria + Sweden,27330,6
+Singapore + Sweden,68225,6
+South Africa + Sweden,29165,6
+Romania + Sweden,32620,6
+Angola + Sweden,27585,6
+Finland + Philippines,26625,6
+Brazil + Finland,29250,6
+Australia + Finland,52405,6
+Finland + Vietnam,26290,6
+Finland + Jordan,27145,6
+Japan + Norway,57355,6
+Norway + Taiwan,51075,6
+Norway + South Korea,53590,6
+Mexico + Norway,41860,6
+Jordan + Norway,39435,6
+Norway + Romania,43625,6
+Lithuania + Norway,46890,6
+Philippines + United States,34040,6
+Tunisia + United States,34065,6
+Belize + United States,34575,6
+Ukraine + United States,34200,6
+Bolivia + United States,34145,6
+Malta + United States,47850,6
+Lithuania + United States,42015,6
+Mauritius + United States,38120,6
+Maldives + United States,37275,6
+Canada + Philippines,24435,6
+Germany + Philippines,24865,6
+Netherlands + Philippines,28250,6
+Bangladesh + Philippines,2715,6
+Croatia + United Arab Emirates,28885,6
+Argentina + United Arab Emirates,26240,6
+Serbia + United Arab Emirates,25030,6
+Ukraine + United Arab Emirates,23115,6
+Romania + United Arab Emirates,27665,6
+Sri Lanka + United Arab Emirates,23330,6
+Malta + United Arab Emirates,36765,6
+Maldives + United Arab Emirates,26190,6
+Brazil + Nigeria,5385,6
+Brazil + Saudi Arabia,15575,6
+Brazil + South Korea,20640,6
+Brazil + Israel,26035,6
+Brazil + India,5355,6
+Angola + Brazil,5640,6
+Belarus + Brazil,7630,6
+Nigeria + Sierra Leone,1375,6
+Canada + Nigeria,23855,6
+Germany + Nigeria,24285,6
+Netherlands + Nigeria,27670,6
+Nigeria + Portugal,12610,6
+Denmark + Nigeria,31605,6
+Equatorial Guinea + Nigeria,6020,6
+Liberia + Morocco,1945,6
+Gambia + Morocco,1840,6
+Guinea + Morocco,2035,6
+Belgium + Cameroon,23850,6
+Canada + Guatemala,25015,6
+Canada + Hungary,31465,6
+Canada + Tunisia,24460,6
+Canada + Georgia,24980,6
+Canada + Moldova,25010,6
+Bulgaria + Canada,27620,6
+Canada + Malta,38245,6
+Canada + Lebanon,26980,6
+Kenya + Saudi Arabia,12160,6
+Austria + Saudi Arabia,36840,6
+Saudi Arabia + Tunisia,12975,6
+Saudi Arabia + South Africa,14205,6
+Latvia + Saudi Arabia,20490,6
+Kenya + Singapore,42865,6
+Japan + Kenya,20990,6
+Kenya + Morocco,2490,6
+Kenya + Turkey,5405,6
+Kenya + South Korea,17225,6
+Algeria + Kenya,2875,6
+Ireland + Kenya,39610,6
+Kenya + Portugal,12400,6
+Belgium + Thailand,26985,6
+Algeria + Thailand,5935,6
+Maldives + Thailand,8845,6
+Singapore + Turkey,46510,6
+Singapore + South Africa,44910,6
+Maldives + Singapore,46890,6
+Australia + Burma,28145,6
+Australia + Vietnam,28785,6
+Australia + Austria,53010,6
+China + Croatia,12620,6
+China + Dominican Republic,9085,6
+Argentina + China,9975,6
+China + Tunisia,6715,6
+China + Libya,8645,6
+China + Moldova,7265,6
+Bulgaria + China,9875,6
+China + Malta,20500,6
+Angola + China,6365,6
+China + Mauritius,10770,6
+China + Maldives,9925,6
+Hong Kong + Mauritius,29885,6
+Japan + Morocco,21720,6
+Algeria + Japan,22105,6
+Greece + Japan,30295,6
+Japan + Portugal,31630,6
+Japan + Jordan,22300,6
+Japan + Sri Lanka,22155,6
+Morocco + Taiwan,15440,6
+Belgium + Taiwan,36875,6
+Taiwan + Turkey,18355,6
+Mexico + Taiwan,18445,6
+Algeria + Taiwan,15825,6
+Portugal + Taiwan,25350,6
+Jordan + Taiwan,16020,6
+Qatar + Taiwan,279005,6
+Malaysia + Morocco,7175,6
+Denmark + Malaysia,36080,6
+Kuwait + Malaysia,22385,6
+Malaysia + Qatar,270740,6
+Burma + Cambodia,1505,6
+Cambodia + Vietnam,2145,6
+Cambodia + India,1870,6
+Brunei + Vietnam,16220,6
+Germany + Martinique,35305,6
+Germany + Puerto Rico,45780,6
+Germany + Maldives,28100,6
+Croatia + Morocco,9210,6
+Belgium + Croatia,30645,6
+Croatia + Turkey,12125,6
+Croatia + Israel,29340,6
+Austria + Bangladesh,26605,6
+Austria + Romania,31940,6
+Bahamas + Panama,23265,6
+Argentina + Netherlands,31535,6
+Netherlands + Panama,34325,6
+Brunei + Netherlands,41465,6
+Georgia + Netherlands,28795,6
+Netherlands + Qatar,291755,6
+Mauritius + Netherlands,32330,6
+Maldives + Netherlands,31485,6
+Morocco + South Korea,17955,6
+Argentina + Morocco,6565,6
+Morocco + Serbia,5355,6
+Morocco + Ukraine,3440,6
+Kuwait + Morocco,18430,6
+Bulgaria + Morocco,6465,6
+Malta + Morocco,17090,6
+Lebanon + Morocco,5825,6
+Congo (Brazzaville) + Morocco,2650,6
+Gabon + Morocco,5440,6
+Equatorial Guinea + Morocco,6540,6
+Belgium + Dominican Republic,27110,6
+Belgium + Cuba,27470,6
+Belgium + Tunisia,24740,6
+Belgium + Ukraine,24875,6
+Belgium + Malta,38525,6
+Belgium + Lebanon,27260,6
+Bangladesh + Turkey,5570,6
+Mexico + Turkey,9140,6
+Serbia + Turkey,8270,6
+Qatar + Turkey,269700,6
+Aruba + Dominican Republic,20785,6
+Aruba + Puerto Rico,39305,6
+Puerto Rico + Venezuela,23715,6
+Antigua and Barbuda + Barbados,18780,6
+Guadeloupe + Martinique,23460,6
+Martinique + Panama,19855,6
+Dominican Republic + Ireland,42795,6
+Denmark + Dominican Republic,34580,6
+Dominican Republic + Trinidad and Tobago,12340,6
+Saint Lucia + Trinidad and Tobago,13440,6
+Algeria + South Korea,18340,6
+Greece + South Korea,26530,6
+Portugal + South Korea,27865,6
+Jordan + South Korea,18535,6
+South Korea + Sri Lanka,18390,6
+Israel + Ukraine,23570,6
+Israel + Romania,28120,6
+Israel + Malta,37220,6
+Israel + Lithuania,31385,6
+Bangladesh + Kuwait,17865,6
+Bangladesh + Sri Lanka,3090,6
+Bangladesh + Qatar,266220,6
+Czech Republic + India,12650,6
+India + Indonesia,3015,6
+India + Libya,4685,6
+Angola + India,2405,6
+India + Mauritius,6810,6
+Argentina + Costa Rica,10945,6
+Argentina + Bolivia,6730,6
+Argentina + El Salvador,7065,6
+Greece + Mexico,14800,6
+Mexico + Portugal,16135,6
+Mexico + Uruguay,13115,6
+Belize + Mexico,6820,6
+Jamaica + Mexico,7190,6
+Mexico + Trinidad and Tobago,12890,6
+Jordan + Mexico,6805,6
+Belize + Guatemala,4455,6
+Algeria + Cuba,6420,6
+Chile + Cuba,12960,6
+Cuba + Jamaica,7000,6
+Cuba + Puerto Rico,27010,6
+Chile + Costa Rica,14525,6
+Hungary + Serbia,12445,6
+Portugal + Serbia,15265,6
+Czech Republic + Serbia,15335,6
+Poland + Serbia,11575,6
+Belarus + Serbia,7080,6
+Algeria + Czech Republic,13585,6
+Algeria + Lebanon,6210,6
+Hungary + Malta,24180,6
+Ireland + Romania,45110,6
+Ireland + Lithuania,48375,6
+Portugal + Tunisia,13215,6
+Portugal + South Africa,14445,6
+Portugal + Ukraine,13350,6
+Angola + Portugal,12865,6
+Lithuania + Portugal,21165,6
+Lebanon + Portugal,15735,6
+Czech Republic + Georgia,13805,6
+Libya + Tunisia,5320,6
+Jordan + Tunisia,3885,6
+Georgia + Poland,10045,6
+Jordan + Poland,10020,6
+Bolivia + Panama,9520,6
+Brunei + Indonesia,16840,6
+Chile + El Salvador,10645,6
+Belize + Honduras,3415,6
+Denmark + South Africa,33440,6
+South Africa + Zambia,3555,6
+Latvia + Qatar,274385,6
+Belarus + Kazakhstan,7810,6
+Moldova + Ukraine,4075,6
+Malta + Ukraine,17310,6
+Belarus + Ukraine,5165,6
+Jordan + Libya,5815,6
+Belarus + Jordan,5525,6
+Bulgaria + Romania,11235,6
+Belarus + Qatar,268510,6
+Bulgaria + Malta,20335,6
+Belarus + Bulgaria,8190,6
+Ghana + Russia,6885,5
+Russia + Senegal,6520,5
+Australia + Russia,33245,5
+Russia + Vietnam,7130,5
+Croatia + Russia,13395,5
+Dominican Republic + Russia,9860,5
+Argentina + Russia,10750,5
+Cuba + Russia,10220,5
+Russia + Serbia,9540,5
+Armenia + Russia,8015,5
+Iran + Russia,8495,5
+Lithuania + Russia,15440,5
+Maldives + Russia,10700,5
+Azerbaijan + Cyprus,13835,5
+Azerbaijan + Norway,39245,5
+Azerbaijan + United States,34370,5
+Azerbaijan + Hong Kong,26135,5
+Algeria + Azerbaijan,3995,5
+Azerbaijan + Greece,12185,5
+Azerbaijan + Hungary,10700,5
+Azerbaijan + Denmark,32515,5
+Armenia + Azerbaijan,4220,5
+Azerbaijan + Latvia,11210,5
+Azerbaijan + Kazakhstan,6475,5
+Azerbaijan + Ukraine,3830,5
+Azerbaijan + Moldova,4245,5
+Peru + United Arab Emirates,24725,5
+China + Peru,8460,5
+Morocco + Peru,5050,5
+Paraguay + Peru,6385,5
+Honduras + Peru,4650,5
+Peru + Puerto Rico,26025,5
+Cote d'Ivoire + Togo,1680,5
+Cote d'Ivoire + Italy,17990,5
+Cote d'Ivoire + Spain,16325,5
+Cote d'Ivoire + United States,33695,5
+Cote d'Ivoire + Sierra Leone,1610,5
+Cameroon + Cote d'Ivoire,2130,5
+Burkina Faso + Togo,715,5
+Burkina Faso + Italy,17025,5
+Burkina Faso + United Kingdom,22860,5
+Burkina Faso + Spain,15360,5
+Burkina Faso + United States,32730,5
+Burkina Faso + Sierra Leone,645,5
+Burkina Faso + Cameroon,1165,5
+Ghana + Mali,1540,5
+Ghana + Switzerland,42080,5
+Ghana + Sweden,27330,5
+Brazil + Ghana,5385,5
+Ghana + Liberia,1425,5
+Canada + Ghana,23855,5
+Germany + Ghana,24285,5
+Ghana + Netherlands,27670,5
+Ghana + Portugal,12610,5
+Denmark + Ghana,31605,5
+Mali + United Arab Emirates,21735,5
+Mali + Nigeria,1540,5
+Cameroon + Mali,1255,5
+Senegal + Togo,1080,5
+Senegal + Sweden,26965,5
+Brazil + Senegal,5020,5
+Guinea-Bissau + Senegal,1075,5
+China + Senegal,5745,5
+Greece + Senegal,10910,5
+Ireland + Senegal,39455,5
+Benin + United States,32805,5
+Benin + United Arab Emirates,21720,5
+Benin + Equatorial Guinea,5365,5
+Morocco + Togo,1965,5
+Colombia + Switzerland,44175,5
+Belgium + Colombia,26230,5
+Colombia + Ireland,41915,5
+Colombia + Denmark,33700,5
+Brazil + Ecuador,7335,5
+Ecuador + Venezuela,4170,5
+Argentina + Ecuador,7995,5
+Ecuador + Guatemala,5290,5
+Chile + Ecuador,11575,5
+Italy + Philippines,18335,5
+Antigua and Barbuda + Italy,26195,5
+Italy + Martinique,28775,5
+Chile + Italy,25200,5
+Italy + Jamaica,19240,5
+Italy + Trinidad and Tobago,24940,5
+Iran + Italy,19365,5
+Italy + Mauritius,22415,5
+Australia + Switzerland,68440,5
+Argentina + Switzerland,45945,5
+Cuba + Switzerland,45415,5
+Kuwait + Switzerland,57810,5
+Mauritius + Switzerland,46740,5
+Maldives + Switzerland,45895,5
+France + Liberia,20560,5
+France + Guinea,20650,5
+Bahamas + France,35745,5
+France + Haiti,20685,5
+France + Tajikistan,20705,5
+Bolivia + France,22000,5
+Barbados + France,29475,5
+France + Gabon,24055,5
+Equatorial Guinea + France,25155,5
+France + Zambia,20855,5
+Liberia + United Kingdom,22835,5
+Bahamas + United Kingdom,38020,5
+Saint Lucia + United Kingdom,27665,5
+Indonesia + United Kingdom,24455,5
+Chile + United Kingdom,31035,5
+Armenia + United Kingdom,24720,5
+Uganda + United Kingdom,22870,5
+Congo (Kinshasa) + United Kingdom,22765,5
+United Kingdom + Zambia,23130,5
+Sierra Leone + Spain,15285,5
+Singapore + Spain,56985,5
+Malaysia + Spain,20565,5
+Antigua and Barbuda + Spain,24530,5
+Martinique + Spain,27110,5
+Bangladesh + Spain,16045,5
+South Africa + Spain,17925,5
+Jamaica + Spain,17575,5
+Libya + Spain,18625,5
+Romania + Spain,21380,5
+El Salvador + Spain,17110,5
+Cyprus + Kenya,12715,5
+Cyprus + Taiwan,25665,5
+Cyprus + Malaysia,17400,5
+Croatia + Cyprus,19435,5
+Cyprus + Jordan,14025,5
+Cyprus + Qatar,277010,5
+Bulgaria + Cyprus,16690,5
+Cyprus + Lithuania,21480,5
+Egypt + Nigeria,2830,5
+Egypt + Thailand,5680,5
+Egypt + Singapore,43725,5
+Egypt + Taiwan,15570,5
+Egypt + Mexico,6355,5
+Egypt + Serbia,5485,5
+Egypt + Hungary,10440,5
+Egypt + South Africa,4665,5
+Egypt + Georgia,3955,5
+Egypt + Ukraine,3570,5
+Egypt + Moldova,3985,5
+Egypt + Romania,8120,5
+Egypt + Kuwait,18560,5
+Bulgaria + Egypt,6595,5
+Angola + Egypt,3085,5
+Egypt + Mauritius,7490,5
+Egypt + Maldives,6645,5
+Dominican Republic + Sweden,30305,5
+Bangladesh + Sweden,27285,5
+Argentina + Sweden,31195,5
+Sweden + Tunisia,27935,5
+Burma + Finland,25650,5
+Dominican Republic + Finland,29020,5
+Argentina + Finland,29910,5
+Cuba + Finland,29380,5
+Finland + Romania,31335,5
+Angola + Finland,26300,5
+Finland + Maldives,29860,5
+Nigeria + Norway,38335,5
+Kenya + Norway,38125,5
+Malaysia + Norway,42810,5
+Dominican Republic + Norway,41310,5
+Argentina + Norway,42200,5
+Cuba + Norway,41670,5
+Norway + Tunisia,38940,5
+Lebanon + Norway,41460,5
+Sierra Leone + United States,32655,5
+Cameroon + United States,33175,5
+Paraguay + United States,35315,5
+Haiti + United States,32830,5
+Libya + United States,35995,5
+Romania + United States,38750,5
+Kuwait + United States,49190,5
+New Zealand + United States,52565,5
+Lebanon + United States,36585,5
+Macau + Philippines,5965,5
+Sierra Leone + United Arab Emirates,21570,5
+Cameroon + United Arab Emirates,22090,5
+Panama + United Arab Emirates,29030,5
+Macau + United Arab Emirates,25580,5
+Tajikistan + United Arab Emirates,21765,5
+Kazakhstan + United Arab Emirates,25760,5
+Iran + United Arab Emirates,23985,5
+Lithuania + United Arab Emirates,30930,5
+Congo (Kinshasa) + United Arab Emirates,21550,5
+United Arab Emirates + Zimbabwe,21995,5
+Mauritius + United Arab Emirates,27035,5
+Brazil + Taiwan,18125,5
+Aruba + Brazil,21015,5
+Antigua and Barbuda + Brazil,13825,5
+Brazil + Czech Republic,15885,5
+Brazil + Tunisia,5990,5
+Brazil + Uruguay,12795,5
+Brazil + Paraguay,7240,5
+Brazil + South Africa,7220,5
+Brazil + Latvia,13505,5
+Brazil + Jamaica,6870,5
+Brazil + Trinidad and Tobago,12570,5
+Brazil + Puerto Rico,26880,5
+Brazil + Qatar,269470,5
+Bolivia + Brazil,6070,5
+Brazil + Lebanon,8510,5
+Nigeria + Saudi Arabia,12370,5
+China + Nigeria,6110,5
+Hong Kong + Nigeria,25225,5
+Japan + Nigeria,21200,5
+Nigeria + Turkey,5615,5
+Nigeria + South Korea,17435,5
+India + Nigeria,2150,5
+Greece + Nigeria,11275,5
+Ireland + Nigeria,39820,5
+Jordan + Nigeria,3280,5
+Lebanon + Nigeria,5305,5
+Gabon + Nigeria,4920,5
+Belgium + Sierra Leone,23330,5
+Algeria + Sierra Leone,2280,5
+Guinea-Bissau + Morocco,1960,5
+Cameroon + Congo (Kinshasa),1070,5
+Cameroon + Gabon,4635,5
+Cameroon + Equatorial Guinea,5735,5
+Canada + Croatia,30365,5
+Aruba + Canada,39485,5
+Bangladesh + Canada,23810,5
+Canada + Uruguay,31265,5
+Canada + Honduras,23975,5
+Canada + Ukraine,24595,5
+Canada + Maldives,27670,5
+Australia + Saudi Arabia,38730,5
+Saudi Arabia + Vietnam,12615,5
+Israel + Saudi Arabia,33020,5
+Czech Republic + Saudi Arabia,22870,5
+Poland + Saudi Arabia,19110,5
+Saudi Arabia + Ukraine,13110,5
+Moldova + Saudi Arabia,13525,5
+Lebanon + Saudi Arabia,15495,5
+Mauritius + Saudi Arabia,17030,5
+Maldives + Saudi Arabia,16185,5
+Bangladesh + Kenya,1925,5
+Greece + Kenya,11065,5
+Kenya + Poland,8710,5
+Kenya + Tanzania,1430,5
+Kenya + Latvia,10090,5
+Kenya + Uganda,1250,5
+Kenya + Mauritius,6630,5
+Kenya + Zambia,1510,5
+Kenya + Maldives,5785,5
+Belarus + Kenya,4215,5
+Croatia + Thailand,11540,5
+Israel + Thailand,25680,5
+Hungary + Thailand,12640,5
+Macau + Thailand,8235,5
+Georgia + Thailand,6155,5
+Kuwait + Thailand,20760,5
+Sri Lanka + Thailand,5985,5
+Qatar + Thailand,269115,5
+Malta + Thailand,19420,5
+Belgium + Singapore,65030,5
+Poland + Singapore,49815,5
+Macau + Singapore,46280,5
+Denmark + Singapore,72500,5
+Australia + South Africa,30375,5
+Australia + Sri Lanka,29495,5
+China + Serbia,8765,5
+China + Panama,12765,5
+China + Macau,9315,5
+China + Iran,7720,5
+China + Ukraine,6850,5
+China + Lebanon,9235,5
+China + Zambia,5650,5
+Dominican Republic + Hong Kong,28200,5
+Cuba + Hong Kong,28560,5
+Hong Kong + Hungary,32835,5
+Hong Kong + Tunisia,25830,5
+Hong Kong + Macau,28430,5
+Georgia + Hong Kong,26350,5
+Hong Kong + Moldova,26380,5
+Bulgaria + Hong Kong,28990,5
+Angola + Hong Kong,25480,5
+Hong Kong + Maldives,29040,5
+Argentina + Japan,25065,5
+Czech Republic + Japan,31700,5
+Japan + Macau,24405,5
+Japan + Qatar,285285,5
+Japan + Maldives,25015,5
+Belarus + Japan,23445,5
+Israel + Taiwan,35570,5
+Greece + Taiwan,24015,5
+Poland + Taiwan,21660,5
+Macau + Taiwan,18125,5
+Sri Lanka + Taiwan,15875,5
+Maldives + Taiwan,18735,5
+Belarus + Taiwan,17165,5
+Belgium + Malaysia,28610,5
+Malaysia + Mexico,10180,5
+Algeria + Malaysia,7560,5
+Ireland + Malaysia,44295,5
+Malaysia + Portugal,17085,5
+Malaysia + Poland,13395,5
+Macau + Malaysia,9860,5
+Malaysia + Sri Lanka,7610,5
+Malaysia + Mauritius,11315,5
+Belarus + Malaysia,8900,5
+Cambodia + Indonesia,2765,5
+Cambodia + Macau,5105,5
+Burma + Vietnam,2030,5
+Burma + Netherlands,27275,5
+Austria + Vietnam,26895,5
+Bangladesh + Vietnam,2380,5
+Bahamas + Germany,38715,5
+Aruba + Germany,39915,5
+Germany + Saint Lucia,28360,5
+Costa Rica + Germany,29185,5
+Germany + Tanzania,23745,5
+Brunei + Germany,38080,5
+Germany + Indonesia,25150,5
+Chile + Germany,31730,5
+Germany + Tajikistan,23675,5
+Germany + Sri Lanka,25240,5
+El Salvador + Germany,25305,5
+Germany + Mauritius,28945,5
+Croatia + Lithuania,17245,5
+Belarus + Croatia,10935,5
+Austria + Dominican Republic,29625,5
+Austria + Cuba,29985,5
+Austria + Tunisia,27255,5
+Austria + South Africa,28485,5
+Austria + Libya,29185,5
+Angola + Austria,26905,5
+Austria + Mauritius,31310,5
+Austria + Maldives,30465,5
+Bahamas + Mexico,20135,5
+Bahamas + Cuba,19945,5
+Bahamas + Trinidad and Tobago,23795,5
+Netherlands + Venezuela,27710,5
+Cuba + Netherlands,31005,5
+Netherlands + Serbia,30325,5
+Netherlands + Tunisia,28275,5
+Indonesia + Netherlands,28535,5
+Chile + Netherlands,35115,5
+Jamaica + Netherlands,29155,5
+Netherlands + Trinidad and Tobago,34855,5
+Libya + Netherlands,30205,5
+Netherlands + Romania,32960,5
+Kuwait + Netherlands,43400,5
+Netherlands + Sri Lanka,28625,5
+El Salvador + Netherlands,28690,5
+Morocco + Panama,9355,5
+Lithuania + Morocco,11255,5
+Argentina + Belgium,28000,5
+Belgium + Libya,26670,5
+Belgium + Romania,29425,5
+Belgium + Congo (Kinshasa),23310,5
+Belgium + Mauritius,28795,5
+Cuba + Turkey,8950,5
+South Africa + Turkey,7450,5
+Tajikistan + Turkey,5005,5
+Kazakhstan + Turkey,9000,5
+Iran + Turkey,7225,5
+Kuwait + Turkey,21345,5
+Angola + Turkey,5870,5
+Lithuania + Turkey,14170,5
+Mauritius + Turkey,10275,5
+Maldives + Turkey,9430,5
+Aruba + Venezuela,17850,5
+Argentina + Aruba,21675,5
+Aruba + Mexico,21335,5
+Aruba + Cuba,21145,5
+Aruba + Costa Rica,22710,5
+Aruba + Trinidad and Tobago,24995,5
+Costa Rica + Venezuela,7120,5
+Jamaica + Venezuela,3705,5
+Trinidad and Tobago + Venezuela,9405,5
+Bolivia + Venezuela,2905,5
+El Salvador + Venezuela,3240,5
+Antigua and Barbuda + Dominican Republic,13595,5
+Antigua and Barbuda + Saint Lucia,14695,5
+Antigua and Barbuda + Panama,17275,5
+Antigua and Barbuda + Puerto Rico,32115,5
+Dominican Republic + Israel,25805,5
+Algeria + Dominican Republic,6060,5
+Dominican Republic + Greece,14250,5
+Dominican Republic + Portugal,15585,5
+Dominican Republic + Poland,11895,5
+Dominican Republic + Uruguay,12565,5
+Dominican Republic + Haiti,4525,5
+Dominican Republic + Jordan,6255,5
+Bolivia + Dominican Republic,5840,5
+Barbados + Dominican Republic,13315,5
+Jamaica + Saint Lucia,7740,5
+Czech Republic + South Korea,27935,5
+Macau + South Korea,20640,5
+Qatar + South Korea,281520,5
+Maldives + South Korea,21250,5
+Belarus + South Korea,19680,5
+Israel + Serbia,25485,5
+Israel + Lebanon,25955,5
+Bangladesh + Indonesia,3000,5
+Bangladesh + South Africa,3970,5
+Bangladesh + Maldives,5950,5
+Hungary + India,9760,5
+Georgia + India,3275,5
+India + Ukraine,2890,5
+India + Moldova,3305,5
+Bulgaria + India,5915,5
+India + Malta,16540,5
+Argentina + Greece,15140,5
+Argentina + Ireland,43685,5
+Argentina + Portugal,16475,5
+Argentina + Paraguay,7900,5
+Argentina + Denmark,35470,5
+Argentina + Puerto Rico,27540,5
+Latvia + Mexico,13825,5
+Mexico + Puerto Rico,27200,5
+Bolivia + Mexico,6390,5
+Angola + Mexico,5960,5
+Belarus + Mexico,7950,5
+Costa Rica + Cuba,10415,5
+Cuba + Greece,14610,5
+Cuba + Ireland,43155,5
+Cuba + Portugal,15945,5
+Cuba + Poland,12255,5
+Cuba + Denmark,34940,5
+Cuba + Latvia,13635,5
+Cuba + Trinidad and Tobago,12700,5
+Cuba + El Salvador,6535,5
+Belarus + Cuba,7760,5
+Belize + Costa Rica,8195,5
+Bulgaria + Serbia,8600,5
+Algeria + Georgia,4210,5
+Algeria + Ukraine,3825,5
+Algeria + Qatar,267170,5
+Algeria + Malta,17475,5
+Greece + Tunisia,11880,5
+Greece + Libya,13810,5
+Greece + Lebanon,14400,5
+Georgia + Hungary,10915,5
+Hungary + Romania,15080,5
+Ireland + South Africa,41655,5
+Georgia + Ireland,40945,5
+Angola + Ireland,40075,5
+Libya + Portugal,15145,5
+Moldova + Portugal,13765,5
+Portugal + Romania,17900,5
+Czech Republic + Tunisia,13285,5
+Czech Republic + Jordan,13780,5
+Czech Republic + Romania,17970,5
+Czech Republic + Lebanon,15805,5
+Denmark + Tunisia,32210,5
+Lebanon + Tunisia,5910,5
+Belarus + Tunisia,5030,5
+Poland + Romania,14210,5
+Poland + Qatar,273005,5
+Lebanon + Poland,12045,5
+Panama + Paraguay,10690,5
+Belize + Panama,9950,5
+Barbados + Panama,16995,5
+Chile + Uruguay,17035,5
+Chile + Paraguay,11480,5
+Bolivia + Chile,10310,5
+Belize + El Salvador,4315,5
+Qatar + South Africa,268100,5
+South Africa + Zimbabwe,3635,5
+Mauritius + South Africa,8675,5
+Maldives + South Africa,7830,5
+Armenia + Georgia,4435,5
+Georgia + Kazakhstan,6690,5
+Georgia + Ukraine,4045,5
+Georgia + Moldova,4460,5
+Denmark + Romania,36895,5
+Denmark + Lebanon,34730,5
+Kazakhstan + Latvia,13685,5
+Jordan + Latvia,11400,5
+Latvia + Lebanon,13425,5
+Puerto Rico + Trinidad and Tobago,30860,5
+Belarus + Tajikistan,3815,5
+Romania + Ukraine,8210,5
+Bulgaria + Ukraine,6685,5
+Lebanon + Ukraine,6045,5
+Kuwait + Libya,20445,5
+Lebanon + Libya,7840,5
+Jordan + Malta,17670,5
+Jordan + Lebanon,6405,5
+Malta + Moldova,17725,5
+Belarus + Romania,9715,5
+Kuwait + Qatar,281995,5
+Lebanon + Malta,19695,5
+Angola + Congo (Brazzaville),2385,5
+Congo (Brazzaville) + Congo (Kinshasa),1305,5
+Zambia + Zimbabwe,1340,5
+Belarus + Lebanon,7550,5
+Colombia + Russia,8980,4
+Philippines + Russia,7465,4
+Russia + Venezuela,6925,4
+Brunei + Russia,20680,4
+Jamaica + Russia,8370,4
+Mauritius + Russia,11545,4
+Azerbaijan + Egypt,3740,4
+Azerbaijan + Canada,24765,4
+Azerbaijan + Thailand,5940,4
+Azerbaijan + Japan,22110,4
+Azerbaijan + Morocco,3610,4
+Azerbaijan + Belgium,25045,4
+Azerbaijan + South Korea,18345,4
+Azerbaijan + India,3060,4
+Azerbaijan + Mexico,6615,4
+Azerbaijan + Malta,17480,4
+Azerbaijan + Lebanon,6215,4
+Hong Kong + Peru,27575,4
+Japan + Peru,23550,4
+Peru + Taiwan,17270,4
+Guadeloupe + Peru,14790,4
+Martinique + Peru,15550,4
+Ireland + Peru,42170,4
+Denmark + Peru,33955,4
+Peru + Trinidad and Tobago,11715,4
+Cote d'Ivoire + Niger,1495,4
+Cote d'Ivoire + Liberia,1660,4
+Cote d'Ivoire + Guinea,1750,4
+Canada + Cote d'Ivoire,24090,4
+Cote d'Ivoire + Germany,24520,4
+Cote d'Ivoire + Portugal,12845,4
+Burkina Faso + Niger,530,4
+Burkina Faso + Liberia,695,4
+Burkina Faso + Guinea,785,4
+Burkina Faso + Canada,23125,4
+Burkina Faso + Germany,23555,4
+Burkina Faso + Portugal,11880,4
+Egypt + Ghana,2830,4
+Ghana + Norway,38335,4
+Ghana + Saudi Arabia,12370,4
+China + Ghana,6110,4
+Ghana + Hong Kong,25225,4
+Ghana + Japan,21200,4
+Ghana + Turkey,5615,4
+Ghana + South Korea,17435,4
+Ghana + India,2150,4
+Ghana + Greece,11275,4
+Ghana + Ireland,39820,4
+Ghana + Libya,4715,4
+Ghana + Jordan,3280,4
+Ghana + Lebanon,5305,4
+Mali + Togo,805,4
+Mali + Niger,620,4
+Italy + Mali,17115,4
+Mali + United Kingdom,22950,4
+Mali + Spain,15450,4
+Mali + United States,32820,4
+Liberia + Mali,785,4
+Mali + Sierra Leone,735,4
+Gabon + Mali,4280,4
+Mali + Mauritania,1090,4
+Niger + Senegal,895,4
+Egypt + Senegal,2465,4
+Finland + Senegal,25680,4
+Norway + Senegal,37970,4
+Austria + Senegal,26285,4
+Netherlands + Senegal,27305,4
+Senegal + Turkey,5250,4
+India + Senegal,1785,4
+Senegal + Tunisia,2420,4
+Jordan + Senegal,2915,4
+Angola + Senegal,2070,4
+Congo (Kinshasa) + Senegal,990,4
+Lebanon + Senegal,4940,4
+Gabon + Senegal,4555,4
+Mauritania + Senegal,1365,4
+Equatorial Guinea + Senegal,5655,4
+Cape Verde + Senegal,2330,4
+Benin + Italy,17100,4
+Benin + United Kingdom,22935,4
+Benin + Spain,15435,4
+Benin + Liberia,770,4
+Benin + Sierra Leone,720,4
+Benin + Guinea,860,4
+Benin + Congo (Kinshasa),700,4
+Benin + Gabon,4265,4
+France + Togo,20580,4
+Nigeria + Togo,1445,4
+Belgium + Togo,23400,4
+France + Niger,20395,4
+Morocco + Niger,1780,4
+Belgium + Niger,23215,4
+Algeria + Niger,2165,4
+Colombia + Sweden,29425,4
+Colombia + Finland,28140,4
+Colombia + Norway,40430,4
+Colombia + Hong Kong,27320,4
+Colombia + Japan,23295,4
+Colombia + Taiwan,17015,4
+Austria + Colombia,28745,4
+Bahamas + Colombia,18705,4
+Antigua and Barbuda + Colombia,12715,4
+Colombia + Israel,24925,4
+Algeria + Colombia,5180,4
+Colombia + Greece,13370,4
+Colombia + Portugal,14705,4
+Colombia + Poland,11015,4
+Colombia + Nicaragua,4170,4
+Colombia + Paraguay,6130,4
+Belize + Colombia,5390,4
+Colombia + Haiti,3645,4
+Colombia + Jordan,5375,4
+Barbados + Colombia,12435,4
+Ecuador + Spain,18040,4
+Ecuador + Germany,26235,4
+Ecuador + Netherlands,29620,4
+Dominican Republic + Ecuador,7105,4
+Ecuador + Honduras,4250,4
+Bolivia + Ecuador,4815,4
+Italy + Liberia,17000,4
+Italy + Sierra Leone,16950,4
+Cameroon + Italy,17470,4
+Burma + Italy,17360,4
+Bahamas + Italy,32185,4
+Aruba + Italy,33385,4
+Guadeloupe + Italy,28015,4
+Italy + Oman,24410,4
+Costa Rica + Italy,22655,4
+Brunei + Italy,31550,4
+Armenia + Italy,18885,4
+Italy + Puerto Rico,39250,4
+Bahrain + Italy,27755,4
+Italy + Uganda,17035,4
+Barbados + Italy,25915,4
+El Salvador + Italy,18775,4
+Ethiopia + Italy,17070,4
+Switzerland + Vietnam,42325,4
+Antigua and Barbuda + Switzerland,50520,4
+Jamaica + Switzerland,43565,4
+Switzerland + Trinidad and Tobago,49265,4
+Switzerland + Tajikistan,41470,4
+Iran + Switzerland,43690,4
+Bahrain + Switzerland,52080,4
+Barbados + Switzerland,50240,4
+France + Gambia,20455,4
+France + Saint Lucia,25390,4
+France + Guatemala,22475,4
+France + Tanzania,20775,4
+France + Macau,24520,4
+France + Paraguay,23170,4
+Armenia + France,22445,4
+France + Iran,22925,4
+France + Uganda,20595,4
+Ethiopia + France,20630,4
+France + Zimbabwe,20935,4
+France + Mauritania,20865,4
+Sierra Leone + United Kingdom,22785,4
+Cameroon + United Kingdom,23305,4
+Cambodia + United Kingdom,23310,4
+Guadeloupe + United Kingdom,33850,4
+Martinique + United Kingdom,34610,4
+Nepal + United Kingdom,23015,4
+Tanzania + United Kingdom,23050,4
+Iran + United Kingdom,25200,4
+El Salvador + United Kingdom,24610,4
+Grenada + United Kingdom,27280,4
+Jersey + United Kingdom,49675,4
+Ethiopia + United Kingdom,22905,4
+Rwanda + United Kingdom,22880,4
+United Kingdom + Zimbabwe,23210,4
+Cameroon + Spain,15805,4
+Australia + Spain,42450,4
+Spain + Vietnam,16335,4
+Bahamas + Spain,30520,4
+Aruba + Spain,31720,4
+Guadeloupe + Spain,26350,4
+Guatemala + Spain,17250,4
+Spain + Trinidad and Tobago,23275,4
+Iran + Spain,17700,4
+Puerto Rico + Spain,37585,4
+Barbados + Spain,24250,4
+Mauritius + Spain,20750,4
+Maldives + Spain,19905,4
+Brazil + Cyprus,16130,4
+Cyprus + Tunisia,13530,4
+Cyprus + South Africa,14760,4
+Cyprus + Lebanon,16050,4
+Cyprus + Mauritius,17585,4
+Egypt + Vietnam,3075,4
+Egypt + Malta,17220,4
+Egypt + Ethiopia,2145,4
+Australia + Sweden,53690,4
+Sweden + Vietnam,27575,4
+Cuba + Sweden,30665,4
+Iran + Sweden,28940,4
+Libya + Sweden,29865,4
+Kuwait + Sweden,43060,4
+Mauritius + Sweden,31990,4
+Maldives + Sweden,31145,4
+Finland + Nigeria,26045,4
+Finland + Tunisia,26650,4
+Brunei + Finland,39840,4
+Armenia + Finland,27175,4
+Finland + Tajikistan,25435,4
+Finland + Kazakhstan,29430,4
+Finland + Kuwait,41775,4
+Finland + Sri Lanka,27000,4
+Finland + Lebanon,29170,4
+Finland + Mauritius,30705,4
+Norway + Singapore,79230,4
+Norway + South Africa,40170,4
+Libya + Norway,40870,4
+Angola + Norway,38590,4
+Liberia + United States,32705,4
+Burma + United States,33065,4
+Nicaragua + United States,33355,4
+Brunei + United States,47255,4
+Indonesia + United States,34325,4
+Saint Kitts and Nevis + United States,41160,4
+Tajikistan + United States,32850,4
+Turks and Caicos Islands + United States,47355,4
+Bahrain + United States,43460,4
+Uganda + United States,32740,4
+Grenada + United States,37150,4
+Congo (Kinshasa) + United States,32635,4
+Philippines + Saudi Arabia,12950,4
+Austria + Philippines,27230,4
+Philippines + Sri Lanka,3715,4
+Liberia + United Arab Emirates,21620,4
+Antigua and Barbuda + United Arab Emirates,30815,4
+Nepal + United Arab Emirates,21800,4
+Tanzania + United Arab Emirates,21835,4
+Armenia + United Arab Emirates,23505,4
+Jamaica + United Arab Emirates,23860,4
+Trinidad and Tobago + United Arab Emirates,29560,4
+Uganda + United Arab Emirates,21655,4
+New Zealand + United Arab Emirates,41480,4
+Barbados + United Arab Emirates,30535,4
+Rwanda + United Arab Emirates,21665,4
+United Arab Emirates + Zambia,21915,4
+Brazil + Kenya,5175,4
+Brazil + Malaysia,9860,4
+Bahamas + Brazil,19815,4
+Brazil + Guadeloupe,15645,4
+Brazil + Martinique,16405,4
+Brazil + Guatemala,6545,4
+Brazil + Hungary,12995,4
+Brazil + Ukraine,6125,4
+Brazil + Libya,7920,4
+Brazil + Moldova,6540,4
+Brazil + Romania,10675,4
+Brazil + Bulgaria,9150,4
+Barbados + Brazil,13545,4
+Brazil + Malta,19775,4
+Brazil + Mauritius,10045,4
+Liberia + Nigeria,1425,4
+Guinea + Nigeria,1515,4
+Austria + Nigeria,26650,4
+Israel + Nigeria,22830,4
+Argentina + Nigeria,6045,4
+Mexico + Nigeria,5705,4
+Czech Republic + Nigeria,12680,4
+Nigeria + Tunisia,2785,4
+Nigeria + Poland,8920,4
+Nigeria + South Africa,4015,4
+Nigeria + Ukraine,2920,4
+Libya + Nigeria,4715,4
+Malta + Nigeria,16570,4
+Angola + Nigeria,2435,4
+Belarus + Nigeria,4425,4
+Liberia + Sierra Leone,620,4
+Algeria + Guinea,2420,4
+Algeria + Cameroon,2800,4
+Angola + Cameroon,2150,4
+Canada + Serbia,26510,4
+Brunei + Canada,37650,4
+Canada + Indonesia,24720,4
+Canada + Haiti,23225,4
+Canada + Turks and Caicos Islands,37750,4
+Canada + Romania,29145,4
+Canada + Kuwait,39585,4
+Bolivia + Canada,24540,4
+Canada + Uganda,23135,4
+Canada + New Zealand,42960,4
+Canada + Grenada,27545,4
+Canada + Mauritius,28515,4
+Mexico + Saudi Arabia,15895,4
+Hungary + Saudi Arabia,19980,4
+Brunei + Saudi Arabia,26165,4
+Indonesia + Saudi Arabia,13235,4
+Romania + Saudi Arabia,17660,4
+Saudi Arabia + Sri Lanka,13325,4
+Bulgaria + Saudi Arabia,16135,4
+Malta + Saudi Arabia,26760,4
+Angola + Saudi Arabia,12625,4
+Australia + Kenya,28330,4
+Kenya + Vietnam,2215,4
+Israel + Kenya,22620,4
+Kenya + Mexico,5495,4
+Czech Republic + Kenya,12470,4
+Jordan + Kenya,3070,4
+Kenya + Kuwait,17700,4
+Kenya + Qatar,266055,4
+Kenya + Rwanda,1260,4
+Nepal + Thailand,4455,4
+Mexico + Thailand,8555,4
+Tajikistan + Thailand,4420,4
+Thailand + Ukraine,5770,4
+Jordan + Thailand,6130,4
+Bulgaria + Thailand,8795,4
+Angola + Thailand,5285,4
+Mauritius + Thailand,9690,4
+Israel + Singapore,63725,4
+Nepal + Singapore,42500,4
+Mexico + Singapore,46600,4
+Algeria + Singapore,43980,4
+Greece + Singapore,52170,4
+Ireland + Singapore,80715,4
+Portugal + Singapore,53505,4
+Czech Republic + Singapore,53575,4
+Kuwait + Singapore,58805,4
+Singapore + Sri Lanka,44030,4
+Qatar + Singapore,307160,4
+Angola + Singapore,43330,4
+Mauritius + Singapore,47735,4
+Belarus + Singapore,45320,4
+Australia + Cambodia,28260,4
+Australia + Belgium,50495,4
+Australia + Turkey,31975,4
+Australia + Denmark,57965,4
+Australia + Qatar,292625,4
+Australia + New Zealand,47645,4
+Australia + Maldives,32355,4
+China + Venezuela,6150,4
+Antigua and Barbuda + China,14550,4
+China + Nepal,5535,4
+China + Tanzania,5570,4
+Chile + China,13555,4
+Armenia + China,7240,4
+China + Jamaica,7595,4
+China + Trinidad and Tobago,13295,4
+China + Romania,11400,4
+China + New Zealand,25215,4
+Barbados + China,14270,4
+China + El Salvador,7130,4
+China + Lithuania,14665,4
+China + Zimbabwe,5730,4
+Croatia + Hong Kong,31735,4
+Antigua and Barbuda + Hong Kong,33665,4
+Hong Kong + Oman,31880,4
+Hong Kong + Nepal,24650,4
+Argentina + Hong Kong,29090,4
+Hong Kong + Panama,31880,4
+Hong Kong + Jamaica,26710,4
+Hong Kong + Trinidad and Tobago,32410,4
+Hong Kong + Tajikistan,24615,4
+Hong Kong + Ukraine,25965,4
+Hong Kong + Libya,27760,4
+Hong Kong + Romania,30515,4
+Bahrain + Hong Kong,35225,4
+Barbados + Hong Kong,33385,4
+Hong Kong + Malta,39615,4
+Ethiopia + Hong Kong,24540,4
+Hong Kong + Lebanon,28350,4
+Japan + Venezuela,21240,4
+Dominican Republic + Japan,24175,4
+Cuba + Japan,24535,4
+Hungary + Japan,28810,4
+Japan + Panama,27855,4
+Chile + Japan,28645,4
+Japan + Latvia,29320,4
+Japan + Ukraine,21940,4
+Japan + Kuwait,36930,4
+Bulgaria + Japan,24965,4
+Japan + Malta,35590,4
+Angola + Japan,21455,4
+Japan + Lebanon,24325,4
+Japan + Mauritius,25860,4
+Dominican Republic + Taiwan,17895,4
+Panama + Taiwan,21575,4
+Georgia + Taiwan,16045,4
+Latvia + Taiwan,23040,4
+New Zealand + Taiwan,34025,4
+Mauritius + Taiwan,19580,4
+Israel + Malaysia,27305,4
+Malaysia + Nepal,6080,4
+Greece + Malaysia,15750,4
+Czech Republic + Malaysia,17155,4
+Latvia + Malaysia,14775,4
+Jordan + Malaysia,7755,4
+Ethiopia + Malaysia,5970,4
+Angola + Malaysia,6910,4
+Cambodia + Germany,24005,4
+Bangladesh + Cambodia,1855,4
+Brunei + Cambodia,15695,4
+Burma + Germany,23890,4
+Austria + Burma,26255,4
+Burma + Nepal,1210,4
+Brunei + Burma,15580,4
+Burma + Indonesia,2650,4
+Burma + Macau,4990,4
+Burma + Sri Lanka,2740,4
+Turkey + Vietnam,5860,4
+Mexico + Vietnam,5950,4
+Algeria + Vietnam,3330,4
+Poland + Vietnam,9165,4
+Macau + Vietnam,5630,4
+South Africa + Vietnam,4260,4
+Denmark + Vietnam,31850,4
+Maldives + Vietnam,6240,4
+Armenia + Germany,25415,4
+Germany + Kazakhstan,27670,4
+Germany + Iran,25895,4
+Bahrain + Germany,34285,4
+Germany + Uganda,23565,4
+Germany + Jersey,50370,4
+Ethiopia + Germany,23600,4
+Croatia + India,8660,4
+Croatia + Serbia,11345,4
+Croatia + Moldova,9845,4
+Croatia + Malta,23080,4
+Argentina + Austria,30515,4
+Austria + Kazakhstan,30035,4
+Austria + Iran,28260,4
+Austria + Kuwait,42380,4
+Austria + Sri Lanka,27605,4
+Bahamas + Netherlands,42100,4
+Antigua and Barbuda + Bahamas,25050,4
+Bahamas + Dominican Republic,19585,4
+Argentina + Bahamas,20475,4
+Bahamas + Turks and Caicos Islands,30505,4
+Bahamas + Barbados,24770,4
+Antigua and Barbuda + Netherlands,36110,4
+Costa Rica + Netherlands,32570,4
+Netherlands + Tanzania,27130,4
+Kazakhstan + Netherlands,31055,4
+Iran + Netherlands,29280,4
+Bahrain + Netherlands,37670,4
+Netherlands + Uganda,26950,4
+Barbados + Netherlands,35830,4
+Ethiopia + Netherlands,26985,4
+Netherlands + Zambia,27210,4
+Antigua and Barbuda + Morocco,11140,4
+Bangladesh + Morocco,2655,4
+Georgia + Morocco,3825,4
+Jamaica + Morocco,4185,4
+Morocco + Trinidad and Tobago,9885,4
+Morocco + Romania,7990,4
+Morocco + Uganda,1980,4
+Barbados + Morocco,10860,4
+Mauritius + Morocco,7360,4
+Mauritania + Morocco,2250,4
+Cape Verde + Morocco,3215,4
+Antigua and Barbuda + Belgium,32575,4
+Bangladesh + Belgium,24090,4
+Belgium + Serbia,26790,4
+Belgium + Georgia,25260,4
+Belgium + Jamaica,25620,4
+Belgium + Trinidad and Tobago,31320,4
+Belgium + Kuwait,39865,4
+Belgium + Uganda,23415,4
+Barbados + Belgium,32295,4
+Belgium + Lithuania,32690,4
+Belgium + Congo (Brazzaville),24085,4
+Belgium + Maldives,27950,4
+Dominican Republic + Turkey,8590,4
+Armenia + Turkey,6745,4
+Ethiopia + Turkey,4930,4
+Aruba + Guadeloupe,28070,4
+Aruba + Chile,25255,4
+Aruba + Jamaica,19295,4
+Aruba + Haiti,17180,4
+Aruba + El Salvador,18830,4
+Guadeloupe + Venezuela,12480,4
+Martinique + Venezuela,13240,4
+Guatemala + Venezuela,3380,4
+Uruguay + Venezuela,9630,4
+Paraguay + Venezuela,4075,4
+Antigua and Barbuda + Guadeloupe,20880,4
+Antigua and Barbuda + Martinique,21640,4
+Antigua and Barbuda + Israel,31270,4
+Antigua and Barbuda + Mexico,14145,4
+Antigua and Barbuda + Cuba,13955,4
+Antigua and Barbuda + Ireland,48260,4
+Antigua and Barbuda + Denmark,40045,4
+Antigua and Barbuda + Jordan,11720,4
+Cuba + Guadeloupe,15775,4
+Guadeloupe + Jamaica,13925,4
+Guadeloupe + Trinidad and Tobago,19625,4
+Guadeloupe + Haiti,11810,4
+Barbados + Guadeloupe,20600,4
+Argentina + Martinique,17065,4
+Martinique + Mexico,16725,4
+Cuba + Martinique,16535,4
+Martinique + Puerto Rico,34695,4
+Dominican Republic + South Korea,20410,4
+Dominican Republic + India,5125,4
+Dominican Republic + Guatemala,6315,4
+Dominican Republic + Paraguay,7010,4
+Dominican Republic + Latvia,13275,4
+Dominican Republic + Qatar,269240,4
+Belarus + Dominican Republic,7400,4
+Barbados + Saint Lucia,14415,4
+Argentina + South Korea,21300,4
+Hungary + South Korea,25045,4
+Latvia + South Korea,25555,4
+South Korea + Ukraine,18175,4
+Kuwait + South Korea,33165,4
+Bulgaria + South Korea,21200,4
+Malta + South Korea,31825,4
+Angola + South Korea,17690,4
+Lebanon + South Korea,20560,4
+Mauritius + South Korea,22095,4
+Argentina + Israel,26695,4
+Cuba + Israel,26165,4
+Israel + South Africa,24665,4
+Israel + Jamaica,24315,4
+Israel + Trinidad and Tobago,30015,4
+Israel + Kazakhstan,26215,4
+Israel + Qatar,286915,4
+Barbados + Israel,30990,4
+Bangladesh + Oman,8790,4
+Bangladesh + Nepal,1560,4
+Algeria + Bangladesh,3040,4
+Bangladesh + Greece,11230,4
+Bangladesh + Poland,8875,4
+Bangladesh + Denmark,31560,4
+Bangladesh + Libya,4670,4
+Bahrain + Bangladesh,12135,4
+Bangladesh + Ethiopia,1450,4
+India + Oman,8805,4
+India + Nepal,1575,4
+Argentina + India,6015,4
+India + Pakistan,1720,4
+India + Serbia,4805,4
+India + Tunisia,2755,4
+India + Tanzania,1610,4
+India + Macau,5355,4
+India + Tajikistan,1540,4
+India + Iran,3760,4
+India + Romania,7440,4
+Bahrain + India,12150,4
+India + Uganda,1430,4
+Ethiopia + India,1465,4
+India + Lebanon,5275,4
+India + Zambia,1690,4
+Argentina + Guatemala,7205,4
+Algeria + Argentina,6950,4
+Argentina + Poland,12785,4
+Argentina + Latvia,14165,4
+Argentina + Jamaica,7530,4
+Argentina + Trinidad and Tobago,13230,4
+Argentina + Jordan,7145,4
+Angola + Argentina,6300,4
+Argentina + Belarus,8290,4
+Hungary + Mexico,13315,4
+Czech Republic + Mexico,16205,4
+Mexico + Nicaragua,5600,4
+Mexico + Paraguay,7560,4
+Mexico + South Africa,7540,4
+Mexico + Moldova,6860,4
+Mexico + Romania,10995,4
+Mexico + Qatar,269790,4
+Bulgaria + Mexico,9470,4
+Barbados + Mexico,13865,4
+Guatemala + Nicaragua,3235,4
+Chile + Guatemala,10785,4
+Cuba + Czech Republic,16015,4
+Cuba + Tunisia,6120,4
+Cuba + Jordan,6615,4
+Cuba + Moldova,6670,4
+Costa Rica + Nicaragua,6975,4
+Costa Rica + Puerto Rico,28575,4
+Bolivia + Costa Rica,7765,4
+Algeria + Serbia,5740,4
+Serbia + Ukraine,5575,4
+Moldova + Serbia,5990,4
+Romania + Serbia,10125,4
+Qatar + Serbia,268920,4
+Algeria + Hungary,10695,4
+Algeria + South Africa,4920,4
+Algeria + Tajikistan,2475,4
+Algeria + Romania,8375,4
+Algeria + Kuwait,18815,4
+Algeria + Bulgaria,6850,4
+Algeria + Mauritius,7745,4
+Algeria + Maldives,6900,4
+Greece + South Africa,13110,4
+Greece + Kuwait,27005,4
+Angola + Greece,11530,4
+Greece + Mauritius,15935,4
+Hungary + Jordan,10890,4
+Hungary + Lebanon,12915,4
+Ireland + Tunisia,40425,4
+Ireland + Panama,46475,4
+Ireland + Jamaica,41305,4
+Ireland + Trinidad and Tobago,47005,4
+Ireland + Libya,42355,4
+Ireland + Kuwait,55550,4
+Ireland + Uganda,39100,4
+Barbados + Ireland,47980,4
+Ireland + Lebanon,42945,4
+Ireland + Mauritius,44480,4
+Georgia + Portugal,13735,4
+Kuwait + Portugal,28340,4
+Portugal + Uganda,11890,4
+Congo (Kinshasa) + Portugal,11785,4
+Mauritius + Portugal,17270,4
+Armenia + Czech Republic,13810,4
+Czech Republic + Qatar,276765,4
+Czech Republic + Mauritius,17340,4
+Poland + Tunisia,9525,4
+Latvia + Tunisia,10905,4
+Moldova + Tunisia,3940,4
+Poland + South Africa,10755,4
+Iran + Poland,10530,4
+Angola + Poland,9175,4
+Mauritius + Poland,13580,4
+Maldives + Poland,12735,4
+Nicaragua + Panama,8730,4
+Denmark + Panama,38260,4
+Haiti + Panama,8205,4
+Honduras + Nicaragua,2195,4
+El Salvador + Nicaragua,3095,4
+Brunei + Sri Lanka,16930,4
+Indonesia + Macau,6250,4
+Paraguay + Uruguay,11445,4
+Bolivia + Uruguay,10275,4
+Bolivia + Paraguay,4720,4
+Jordan + South Africa,5115,4
+Kuwait + South Africa,19745,4
+Congo (Kinshasa) + South Africa,3190,4
+Belarus + South Africa,6260,4
+Botswana + South Africa,6675,4
+Georgia + Malta,17695,4
+Denmark + Jamaica,33090,4
+Denmark + Trinidad and Tobago,38790,4
+Denmark + Libya,34140,4
+Denmark + Kuwait,47335,4
+Denmark + Uganda,30885,4
+Barbados + Denmark,39765,4
+Denmark + Mauritius,36265,4
+Denmark + Maldives,35420,4
+Armenia + Latvia,11430,4
+Armenia + Belarus,5555,4
+Haiti + Jamaica,3035,4
+Jamaica + Jordan,4765,4
+Jamaica + Puerto Rico,25160,4
+Haiti + Trinidad and Tobago,8735,4
+Jordan + Trinidad and Tobago,10465,4
+Grenada + Trinidad and Tobago,13055,4
+Haiti + Puerto Rico,23045,4
+Libya + Ukraine,5455,4
+Jordan + Ukraine,4020,4
+Belarus + Libya,6960,4
+Jordan + Moldova,4435,4
+Jordan + Romania,8570,4
+Jordan + Kuwait,19010,4
+Jordan + Qatar,267365,4
+Bulgaria + Jordan,7045,4
+Barbados + Jordan,11440,4
+Jordan + Mauritius,7940,4
+Puerto Rico + Virgin Islands,43350,4
+Lebanon + Moldova,6460,4
+Malta + Romania,21860,4
+Lebanon + Romania,10595,4
+Belarus + Kuwait,20155,4
+Maldives + Qatar,270080,4
+Bulgaria + Lithuania,14500,4
+Bulgaria + Lebanon,9070,4
+Bolivia + El Salvador,3885,4
+Barbados + Grenada,14030,4
+Angola + Lebanon,5560,4
+Angola + Mauritius,7095,4
+Angola + Zambia,1975,4
+Belarus + Lithuania,12980,4
+Equatorial Guinea + Gabon,8760,4
+Maldives + Mauritius,10655,4
+Belarus + Mauritius,9085,4
+Cote d'Ivoire + Russia,7120,3
+Burkina Faso + Russia,6155,3
+Mali + Russia,6245,3
+Niger + Russia,5965,3
+Russia + Sierra Leone,6080,3
+Bahamas + Russia,21315,3
+Russia + Uzbekistan,6620,3
+Antigua and Barbuda + Russia,15325,3
+Martinique + Russia,17905,3
+Pakistan + Russia,6455,3
+Panama + Russia,13540,3
+Indonesia + Russia,7750,3
+Russia + Trinidad and Tobago,14070,3
+Kyrgyzstan + Russia,6455,3
+Kuwait + Russia,22615,3
+Russia + Sri Lanka,7840,3
+Albania + Russia,8815,3
+Barbados + Russia,15045,3
+Luxembourg + Russia,61235,3
+Estonia + Russia,17525,3
+Azerbaijan + Brazil,6295,3
+Azerbaijan + Nigeria,3090,3
+Azerbaijan + Saudi Arabia,13280,3
+Azerbaijan + Kenya,2880,3
+Azerbaijan + Singapore,43985,3
+Azerbaijan + Malaysia,7565,3
+Azerbaijan + Uzbekistan,2825,3
+Azerbaijan + Bangladesh,3045,3
+Argentina + Azerbaijan,6955,3
+Azerbaijan + Cuba,6425,3
+Azerbaijan + Ireland,40730,3
+Azerbaijan + Portugal,13520,3
+Azerbaijan + Tunisia,3695,3
+Azerbaijan + South Africa,4925,3
+Azerbaijan + Tajikistan,2480,3
+Azerbaijan + Iran,4700,3
+Azerbaijan + Jordan,4190,3
+Azerbaijan + Romania,8380,3
+Azerbaijan + Bulgaria,6855,3
+Azerbaijan + Luxembourg,57440,3
+Angola + Azerbaijan,3345,3
+Peru + Switzerland,44430,3
+Peru + Sweden,29680,3
+Finland + Peru,28395,3
+Norway + Peru,40685,3
+Bahamas + Peru,18960,3
+Belgium + Peru,26485,3
+Antigua and Barbuda + Peru,12970,3
+Peru + South Korea,19785,3
+Israel + Peru,25180,3
+India + Peru,4500,3
+Peru + Portugal,14960,3
+Nicaragua + Peru,4425,3
+Belize + Peru,5645,3
+Peru + South Africa,6365,3
+Jamaica + Peru,6015,3
+Haiti + Peru,3900,3
+Jordan + Peru,5630,3
+Cote d'Ivoire + Switzerland,42315,3
+Cote d'Ivoire + Egypt,3065,3
+Cote d'Ivoire + Gambia,1555,3
+Cote d'Ivoire + Turkey,5850,3
+Cote d'Ivoire + Tunisia,3020,3
+Cote d'Ivoire + Denmark,31840,3
+Angola + Cote d'Ivoire,2670,3
+Congo (Kinshasa) + Cote d'Ivoire,1590,3
+Cote d'Ivoire + Lebanon,5540,3
+Cote d'Ivoire + Gabon,5155,3
+Cote d'Ivoire + Mauritania,1965,3
+Burkina Faso + Switzerland,41350,3
+Burkina Faso + Egypt,2100,3
+Burkina Faso + Turkey,4885,3
+Burkina Faso + Tunisia,2055,3
+Burkina Faso + Denmark,30875,3
+Angola + Burkina Faso,1705,3
+Burkina Faso + Congo (Kinshasa),625,3
+Burkina Faso + Lebanon,4575,3
+Burkina Faso + Gabon,4190,3
+Burkina Faso + Mauritania,1000,3
+Ghana + Togo,1445,3
+Finland + Ghana,26045,3
+Gambia + Ghana,1320,3
+Cameroon + Ghana,1895,3
+Austria + Ghana,26650,3
+Ghana + Israel,22830,3
+Bangladesh + Ghana,2135,3
+Argentina + Ghana,6045,3
+Ghana + Mexico,5705,3
+Czech Republic + Ghana,12680,3
+Ghana + Tunisia,2785,3
+Ghana + Poland,8920,3
+Ghana + South Africa,4015,3
+Ghana + Ukraine,2920,3
+Ghana + Kuwait,17910,3
+Ghana + Qatar,266265,3
+Ghana + Malta,16570,3
+Angola + Ghana,2435,3
+Belarus + Ghana,4425,3
+Mali + Switzerland,41440,3
+Egypt + Mali,2190,3
+Guinea + Mali,875,3
+Guinea-Bissau + Mali,800,3
+Canada + Mali,23215,3
+Germany + Mali,23645,3
+Mali + Turkey,4975,3
+Mali + Portugal,11970,3
+Mali + Tunisia,2145,3
+Lebanon + Mali,4665,3
+Equatorial Guinea + Mali,5380,3
+Colombia + Senegal,3910,3
+Saudi Arabia + Senegal,12005,3
+Kenya + Senegal,1605,3
+Hong Kong + Senegal,24860,3
+Japan + Senegal,20835,3
+Senegal + Taiwan,14555,3
+Dominican Republic + Senegal,4790,3
+Senegal + South Korea,17070,3
+Argentina + Senegal,5680,3
+Mexico + Senegal,5340,3
+Poland + Senegal,8555,3
+Senegal + South Africa,3650,3
+Latvia + Senegal,9935,3
+Libya + Senegal,4350,3
+Qatar + Senegal,265900,3
+Central African Republic + Senegal,945,3
+Belarus + Senegal,4060,3
+Benin + Togo,790,3
+Benin + Niger,605,3
+Benin + Canada,23200,3
+Benin + Germany,23630,3
+Benin + Portugal,11955,3
+Benin + Denmark,30950,3
+Angola + Benin,1780,3
+Benin + Central African Republic,655,3
+Benin + Congo (Brazzaville),1475,3
+Benin + Mauritania,1075,3
+Niger + Togo,525,3
+Italy + Togo,17020,3
+Togo + United Kingdom,22855,3
+Togo + United States,32725,3
+Togo + United Arab Emirates,21640,3
+Liberia + Togo,690,3
+Sierra Leone + Togo,640,3
+Cameroon + Togo,1160,3
+Algeria + Togo,2350,3
+Gabon + Togo,4185,3
+Italy + Niger,16835,3
+Niger + Switzerland,41160,3
+Niger + United Kingdom,22670,3
+Niger + Spain,15170,3
+Egypt + Niger,1910,3
+Niger + United Arab Emirates,21455,3
+Canada + Niger,22935,3
+Germany + Niger,23365,3
+Niger + Turkey,4695,3
+Niger + Portugal,11690,3
+Niger + Tunisia,1865,3
+Lebanon + Niger,4385,3
+Colombia + Turkey,7710,3
+Colombia + South Korea,19530,3
+Colombia + India,4245,3
+Colombia + Latvia,12395,3
+Colombia + Qatar,268360,3
+Angola + Colombia,4530,3
+Belarus + Colombia,6520,3
+Ecuador + Italy,19705,3
+Ecuador + United Kingdom,25540,3
+China + Ecuador,8060,3
+Aruba + Ecuador,19760,3
+Cuba + Ecuador,7465,3
+Ecuador + Uruguay,11540,3
+Ecuador + Paraguay,5985,3
+Belize + Ecuador,5245,3
+Ecuador + Puerto Rico,25625,3
+Djibouti + Italy,17615,3
+Italy + Uzbekistan,17490,3
+Italy + Saint Lucia,21830,3
+Italy + Nepal,17180,3
+Italy + Tanzania,17215,3
+Indonesia + Italy,18620,3
+Italy + Uruguay,25165,3
+Italy + Sri Lanka,18710,3
+Albania + Italy,19685,3
+Italy + New Zealand,36860,3
+Bermuda + Italy,77520,3
+Italy + Luxembourg,72105,3
+Italy + Jersey,43840,3
+Congo (Kinshasa) + Italy,16930,3
+Gabon + Italy,20495,3
+Estonia + Italy,28395,3
+Sierra Leone + Switzerland,41275,3
+Bahamas + Switzerland,56510,3
+Switzerland + Venezuela,42120,3
+Guadeloupe + Switzerland,52340,3
+Martinique + Switzerland,53100,3
+Saint Lucia + Switzerland,46155,3
+Oman + Switzerland,48735,3
+Panama + Switzerland,48735,3
+Chile + Switzerland,49525,3
+Armenia + Switzerland,43210,3
+Kazakhstan + Switzerland,45465,3
+Sri Lanka + Switzerland,43035,3
+Albania + Switzerland,44010,3
+Bermuda + Switzerland,101845,3
+El Salvador + Switzerland,43100,3
+Luxembourg + Switzerland,96430,3
+Jersey + Switzerland,68165,3
+Ethiopia + Switzerland,41395,3
+Estonia + Switzerland,52720,3
+France + Guinea-Bissau,20575,3
+Djibouti + France,21175,3
+France + Somalia,20280,3
+France + Uzbekistan,21050,3
+France + Nepal,20740,3
+France + Pakistan,20885,3
+France + Honduras,21435,3
+France + Guam,38235,3
+Bahrain + France,31315,3
+Albania + France,23245,3
+France + New Zealand,40420,3
+Bermuda + France,81080,3
+France + Luxembourg,75665,3
+France + Jersey,47400,3
+France + Rwanda,20605,3
+Central African Republic + France,20445,3
+Estonia + France,31955,3
+Gambia + United Kingdom,22730,3
+Djibouti + United Kingdom,23450,3
+United Kingdom + Uzbekistan,23325,3
+Oman + United Kingdom,30245,3
+Costa Rica + United Kingdom,28490,3
+Pakistan + United Kingdom,23160,3
+Macau + United Kingdom,26795,3
+United Kingdom + Uruguay,31000,3
+Turks and Caicos Islands + United Kingdom,37485,3
+Bahrain + United Kingdom,33590,3
+Albania + United Kingdom,25520,3
+New Zealand + United Kingdom,42695,3
+Bermuda + United Kingdom,83355,3
+Cayman Islands + United Kingdom,75155,3
+Luxembourg + United Kingdom,77940,3
+Guernsey + United Kingdom,49080,3
+Congo (Brazzaville) + United Kingdom,23540,3
+Gabon + United Kingdom,26330,3
+Estonia + United Kingdom,34230,3
+Guyana + United Kingdom,25120,3
+Gambia + Spain,15230,3
+Guinea + Spain,15425,3
+Guinea-Bissau + Spain,15350,3
+Saint Lucia + Spain,20165,3
+Spain + Uruguay,23500,3
+Belize + Spain,17205,3
+Honduras + Spain,16210,3
+Armenia + Spain,17220,3
+Kazakhstan + Spain,19475,3
+Kuwait + Spain,31820,3
+Bahrain + Spain,26090,3
+Albania + Spain,18020,3
+Bolivia + Spain,16775,3
+Spain + Uganda,15370,3
+Bermuda + Spain,75855,3
+Luxembourg + Spain,70440,3
+Jersey + Spain,42175,3
+Congo (Kinshasa) + Spain,15265,3
+Mauritania + Spain,15640,3
+Cape Verde + Spain,16605,3
+Estonia + Spain,26730,3
+Cyprus + Nigeria,12925,3
+Cyprus + Singapore,53820,3
+Cyprus + Japan,31945,3
+Cyprus + Vietnam,13170,3
+Cyprus + South Korea,28180,3
+Cyprus + Mexico,16450,3
+Cuba + Cyprus,16260,3
+Cyprus + Tanzania,12385,3
+Armenia + Cyprus,14055,3
+Cyprus + Tajikistan,12315,3
+Cyprus + Kazakhstan,16310,3
+Cyprus + Libya,15460,3
+Cyprus + Kuwait,28655,3
+Cyprus + Uganda,12205,3
+Angola + Cyprus,13180,3
+Cyprus + Maldives,16740,3
+Egypt + Sierra Leone,2025,3
+Djibouti + Egypt,2690,3
+Australia + Egypt,29190,3
+Croatia + Egypt,9340,3
+Dominican Republic + Egypt,5805,3
+Argentina + Egypt,6695,3
+Cuba + Egypt,6165,3
+Brunei + Egypt,16625,3
+Egypt + Tajikistan,2220,3
+Egypt + Iran,4440,3
+Bahrain + Egypt,12830,3
+Egypt + Sri Lanka,3785,3
+Albania + Egypt,4760,3
+Egypt + Luxembourg,57180,3
+Philippines + Sweden,27910,3
+Sierra Leone + Sweden,26525,3
+Sweden + Venezuela,27370,3
+Antigua and Barbuda + Sweden,35770,3
+Pakistan + Sweden,26900,3
+Panama + Sweden,33985,3
+Sweden + Tanzania,26790,3
+Brunei + Sweden,41125,3
+Armenia + Sweden,28460,3
+Jamaica + Sweden,28815,3
+Sweden + Trinidad and Tobago,34515,3
+Kazakhstan + Sweden,30715,3
+Sri Lanka + Sweden,28285,3
+Albania + Sweden,29260,3
+Sweden + Uganda,26610,3
+Barbados + Sweden,35490,3
+Luxembourg + Sweden,81680,3
+Jersey + Sweden,53415,3
+Estonia + Sweden,37970,3
+Cambodia + Finland,25765,3
+Finland + Venezuela,26085,3
+Finland + Uzbekistan,25780,3
+Antigua and Barbuda + Finland,34485,3
+Finland + Panama,32700,3
+Finland + Indonesia,26910,3
+Finland + Jamaica,27530,3
+Finland + Trinidad and Tobago,33230,3
+Finland + Iran,27655,3
+Finland + Libya,28580,3
+Albania + Finland,27975,3
+Finland + Uganda,25325,3
+Barbados + Finland,34205,3
+Finland + Luxembourg,80395,3
+Finland + Jersey,52130,3
+Estonia + Finland,36685,3
+Norway + Sierra Leone,37530,3
+Norway + Venezuela,38375,3
+Antigua and Barbuda + Norway,46775,3
+Bangladesh + Norway,38290,3
+Norway + Panama,44990,3
+Armenia + Norway,39465,3
+Jamaica + Norway,39820,3
+Norway + Trinidad and Tobago,45520,3
+Kuwait + Norway,54065,3
+Albania + Norway,40265,3
+Barbados + Norway,46495,3
+Luxembourg + Norway,92685,3
+Jersey + Norway,64420,3
+Mauritius + Norway,42995,3
+Estonia + Norway,48975,3
+Norway + Slovakia,46970,3
+Gambia + United States,32600,3
+Guinea + United States,32795,3
+Cambodia + United States,33180,3
+Dominica + United States,36295,3
+Oman + United States,40115,3
+Tanzania + United States,32920,3
+Macau + United States,36665,3
+Armenia + United States,34590,3
+Guam + United States,50380,3
+Kazakhstan + United States,36845,3
+Iran + United States,35070,3
+United States + Virgin Islands,53135,3
+Sri Lanka + United States,34415,3
+Albania + United States,35390,3
+Bermuda + United States,93225,3
+Cayman Islands + United States,85025,3
+Luxembourg + United States,87810,3
+Jersey + United States,59545,3
+Ethiopia + United States,32775,3
+Gabon + United States,36200,3
+Mauritania + United States,33010,3
+United States + Zambia,33000,3
+Guyana + United States,34990,3
+Kenya + Philippines,2550,3
+Pakistan + Philippines,2330,3
+Philippines + South Africa,4595,3
+Guam + Philippines,19680,3
+Maldives + Philippines,6575,3
+Gambia + United Arab Emirates,21515,3
+Guinea + United Arab Emirates,21710,3
+Djibouti + United Arab Emirates,22235,3
+Somalia + United Arab Emirates,21340,3
+Bahamas + United Arab Emirates,36805,3
+United Arab Emirates + Venezuela,22415,3
+Guadeloupe + United Arab Emirates,32635,3
+Martinique + United Arab Emirates,33395,3
+Saint Lucia + United Arab Emirates,26450,3
+Oman + United Arab Emirates,29030,3
+Afghanistan + United Arab Emirates,21560,3
+Pakistan + United Arab Emirates,21945,3
+Chile + United Arab Emirates,29820,3
+Guam + United Arab Emirates,39295,3
+Kyrgyzstan + United Arab Emirates,21945,3
+Bahrain + United Arab Emirates,32375,3
+Albania + United Arab Emirates,24305,3
+Bermuda + United Arab Emirates,82140,3
+El Salvador + United Arab Emirates,23395,3
+Luxembourg + United Arab Emirates,76725,3
+Jersey + United Arab Emirates,48460,3
+Ethiopia + United Arab Emirates,21690,3
+Congo (Brazzaville) + United Arab Emirates,22325,3
+Gabon + United Arab Emirates,25115,3
+Mauritania + United Arab Emirates,21925,3
+Brazil + Sierra Leone,4580,3
+Brazil + Thailand,8235,3
+Brazil + Singapore,46280,3
+Australia + Brazil,31745,3
+Brazil + Vietnam,5630,3
+Brazil + Croatia,11895,3
+Brazil + Saint Lucia,9460,3
+Bangladesh + Brazil,5340,3
+Brazil + Serbia,8040,3
+Brazil + Honduras,5505,3
+Brazil + Haiti,4755,3
+Brazil + Kuwait,21115,3
+Bermuda + Brazil,65150,3
+Brazil + Luxembourg,59735,3
+Brazil + Congo (Kinshasa),4560,3
+Brazil + Congo (Brazzaville),5335,3
+Brazil + Maldives,9200,3
+Kenya + Nigeria,1970,3
+Nigeria + Thailand,5030,3
+Nigeria + Singapore,43075,3
+Nigeria + Taiwan,14920,3
+Malaysia + Nigeria,6655,3
+Nigeria + Venezuela,2220,3
+Dominican Republic + Nigeria,5155,3
+Bangladesh + Nigeria,2135,3
+Hungary + Nigeria,9790,3
+Latvia + Nigeria,10300,3
+Moldova + Nigeria,3335,3
+Nigeria + Romania,7470,3
+Kuwait + Nigeria,17910,3
+Nigeria + Qatar,266265,3
+Bulgaria + Nigeria,5945,3
+Luxembourg + Nigeria,56530,3
+Congo (Kinshasa) + Nigeria,1355,3
+Central African Republic + Nigeria,1310,3
+Congo (Brazzaville) + Nigeria,2130,3
+Mauritius + Nigeria,6840,3
+Mauritania + Nigeria,1730,3
+Cameroon + Liberia,1140,3
+Belgium + Liberia,23380,3
+Algeria + Liberia,2330,3
+Gabon + Liberia,4165,3
+Gambia + Guinea,655,3
+Gambia + Guinea-Bissau,580,3
+Belgium + Gambia,23275,3
+Algeria + Gambia,2225,3
+Cape Verde + Gambia,1835,3
+Guinea + Sierra Leone,710,3
+Guinea-Bissau + Sierra Leone,635,3
+Cameroon + Sierra Leone,1090,3
+Canada + Sierra Leone,23050,3
+Saudi Arabia + Sierra Leone,11565,3
+Germany + Sierra Leone,23480,3
+Netherlands + Sierra Leone,26865,3
+Sierra Leone + Turkey,4810,3
+Portugal + Sierra Leone,11805,3
+Denmark + Sierra Leone,30800,3
+Angola + Sierra Leone,1630,3
+Lebanon + Sierra Leone,4500,3
+Mauritania + Sierra Leone,925,3
+Cape Verde + Sierra Leone,1890,3
+Cameroon + Guinea,1230,3
+Belgium + Guinea,23470,3
+Guinea + Mauritania,1065,3
+Cape Verde + Guinea,2030,3
+Guinea-Bissau + Mauritania,990,3
+Cape Verde + Guinea-Bissau,1955,3
+Cameroon + Canada,23570,3
+Cameroon + Germany,24000,3
+Cameroon + Portugal,12325,3
+Cameroon + Denmark,31320,3
+Cameroon + Central African Republic,1025,3
+Cameroon + Congo (Brazzaville),1845,3
+Cameroon + Mauritania,1445,3
+Cambodia + Canada,23575,3
+Burma + Canada,23460,3
+Canada + Nicaragua,23750,3
+Canada + Tanzania,23315,3
+Canada + Macau,27060,3
+Canada + Paraguay,25710,3
+Belize + Canada,24970,3
+Canada + Guam,40775,3
+Canada + Tajikistan,23245,3
+Canada + Iran,25465,3
+Bermuda + Canada,83620,3
+Canada + Cayman Islands,75420,3
+Canada + Luxembourg,78205,3
+Canada + Jersey,49940,3
+Canada + Lithuania,32410,3
+Canada + Congo (Kinshasa),23030,3
+Canada + Guyana,25385,3
+Djibouti + Saudi Arabia,12230,3
+Djibouti + Kenya,1830,3
+Djibouti + Hong Kong,25085,3
+Djibouti + Malaysia,6515,3
+Djibouti + Germany,24145,3
+Djibouti + Netherlands,27530,3
+Djibouti + Morocco,2560,3
+Djibouti + Turkey,5475,3
+Djibouti + India,2010,3
+Burma + Saudi Arabia,11975,3
+Croatia + Saudi Arabia,18880,3
+Dominican Republic + Saudi Arabia,15345,3
+Oman + Saudi Arabia,19025,3
+Nepal + Saudi Arabia,11795,3
+Argentina + Saudi Arabia,16235,3
+Cuba + Saudi Arabia,15705,3
+Saudi Arabia + Serbia,15025,3
+Saudi Arabia + Tanzania,11830,3
+Georgia + Saudi Arabia,13495,3
+Saudi Arabia + Tajikistan,11760,3
+Bahrain + Saudi Arabia,22370,3
+Saudi Arabia + Uganda,11650,3
+Luxembourg + Saudi Arabia,66720,3
+Ethiopia + Saudi Arabia,11685,3
+Kenya + Somalia,935,3
+Burma + Kenya,1575,3
+Croatia + Kenya,8480,3
+Kenya + Pakistan,1540,3
+Hungary + Kenya,9580,3
+Kenya + Tunisia,2575,3
+Brunei + Kenya,15765,3
+Georgia + Kenya,3095,3
+Kenya + Tajikistan,1360,3
+Kenya + Ukraine,2710,3
+Kenya + Moldova,3125,3
+Kenya + Romania,7260,3
+Bahrain + Kenya,11970,3
+Kenya + Sri Lanka,2925,3
+Bulgaria + Kenya,5735,3
+Kenya + Malta,16360,3
+Ethiopia + Kenya,1285,3
+Burundi + Kenya,1035,3
+Kenya + Zimbabwe,1590,3
+Kenya + Lebanon,5095,3
+Oman + Thailand,11685,3
+Afghanistan + Thailand,4215,3
+Pakistan + Thailand,4600,3
+Serbia + Thailand,7685,3
+Thailand + Tunisia,5635,3
+Tanzania + Thailand,4490,3
+Guam + Thailand,21950,3
+Kazakhstan + Thailand,8415,3
+Moldova + Thailand,6185,3
+Bahrain + Thailand,15030,3
+Thailand + Uganda,4310,3
+New Zealand + Thailand,24135,3
+Ethiopia + Thailand,4345,3
+Lithuania + Thailand,13585,3
+Lebanon + Thailand,8155,3
+Thailand + Zambia,4570,3
+Croatia + Singapore,49585,3
+Morocco + Singapore,43595,3
+Oman + Singapore,49730,3
+Pakistan + Singapore,42645,3
+Hungary + Singapore,50685,3
+Latvia + Singapore,51195,3
+Guam + Singapore,59995,3
+Singapore + Tajikistan,42465,3
+Singapore + Ukraine,43815,3
+Jordan + Singapore,44175,3
+Bahrain + Singapore,53075,3
+Bulgaria + Singapore,46840,3
+New Zealand + Singapore,62180,3
+Malta + Singapore,57465,3
+Ethiopia + Singapore,42390,3
+Lebanon + Singapore,46200,3
+Australia + Morocco,29060,3
+Australia + Israel,49190,3
+Australia + Nepal,27965,3
+Australia + Mexico,32065,3
+Australia + Pakistan,28110,3
+Algeria + Australia,29445,3
+Australia + Ireland,66180,3
+Australia + Poland,35280,3
+Australia + Macau,31745,3
+Australia + Tajikistan,27930,3
+Australia + Jordan,29640,3
+Australia + Ethiopia,27855,3
+Bahamas + China,20540,3
+China + Guadeloupe,16370,3
+China + Martinique,17130,3
+China + Saint Lucia,10185,3
+China + Oman,12765,3
+China + Costa Rica,11010,3
+Afghanistan + China,5295,3
+China + Pakistan,5680,3
+China + Guam,23030,3
+China + Kyrgyzstan,5680,3
+Bahrain + China,16110,3
+China + Uganda,5390,3
+Bermuda + China,65875,3
+China + Luxembourg,60460,3
+China + Ethiopia,5425,3
+China + Congo (Kinshasa),5285,3
+Bahamas + Hong Kong,39655,3
+Hong Kong + Venezuela,25265,3
+Guadeloupe + Hong Kong,35485,3
+Hong Kong + Martinique,36245,3
+Hong Kong + Saint Lucia,29300,3
+Hong Kong + Pakistan,24795,3
+Hong Kong + Serbia,27880,3
+Hong Kong + Tanzania,24685,3
+Chile + Hong Kong,32670,3
+Armenia + Hong Kong,26355,3
+Guam + Hong Kong,42145,3
+Hong Kong + Kazakhstan,28610,3
+Hong Kong + Iran,26835,3
+Hong Kong + Uganda,24505,3
+Hong Kong + New Zealand,44330,3
+Bermuda + Hong Kong,84990,3
+Hong Kong + Luxembourg,79575,3
+Hong Kong + Zambia,24765,3
+Croatia + Japan,27710,3
+Bahamas + Japan,35630,3
+Antigua and Barbuda + Japan,29640,3
+Guadeloupe + Japan,31460,3
+Japan + Martinique,32220,3
+Japan + Saint Lucia,25275,3
+Japan + Nepal,20625,3
+Costa Rica + Japan,26100,3
+Japan + Pakistan,20770,3
+Japan + Tunisia,21805,3
+Georgia + Japan,22325,3
+Guam + Japan,38120,3
+Jamaica + Japan,22685,3
+Japan + Trinidad and Tobago,28385,3
+Japan + Tajikistan,20590,3
+Iran + Japan,22810,3
+Japan + Libya,23735,3
+Japan + Moldova,22355,3
+Japan + Romania,26490,3
+Bahrain + Japan,31200,3
+Japan + New Zealand,40305,3
+Bermuda + Japan,80965,3
+Barbados + Japan,29360,3
+El Salvador + Japan,22220,3
+Japan + Luxembourg,75550,3
+Ethiopia + Japan,20515,3
+Antigua and Barbuda + Taiwan,23360,3
+Guadeloupe + Taiwan,25180,3
+Martinique + Taiwan,25940,3
+Nepal + Taiwan,14345,3
+Cuba + Taiwan,18255,3
+Pakistan + Taiwan,14490,3
+Czech Republic + Taiwan,25420,3
+Taiwan + Tunisia,15525,3
+Taiwan + Tanzania,14380,3
+Chile + Taiwan,22365,3
+Guam + Taiwan,31840,3
+Jamaica + Taiwan,16405,3
+Taiwan + Trinidad and Tobago,22105,3
+Taiwan + Tajikistan,14310,3
+Kuwait + Taiwan,30650,3
+Barbados + Taiwan,23080,3
+Malta + Taiwan,29310,3
+Ethiopia + Taiwan,14235,3
+Angola + Taiwan,15175,3
+Croatia + Malaysia,13165,3
+Malaysia + Oman,13310,3
+Malaysia + Pakistan,6225,3
+Hungary + Malaysia,14265,3
+Malaysia + Tunisia,7260,3
+Malaysia + Tanzania,6115,3
+Georgia + Malaysia,7780,3
+Guam + Malaysia,23575,3
+Malaysia + Tajikistan,6045,3
+Malaysia + Ukraine,7395,3
+Libya + Malaysia,9190,3
+Malaysia + Moldova,7810,3
+Malaysia + Romania,11945,3
+Bahrain + Malaysia,16655,3
+Bulgaria + Malaysia,10420,3
+Malaysia + Uganda,5935,3
+Malaysia + New Zealand,25760,3
+Malaysia + Malta,21045,3
+Lebanon + Malaysia,9780,3
+Cambodia + Netherlands,27390,3
+Morocco + Vietnam,2945,3
+Belgium + Vietnam,24380,3
+Israel + Vietnam,23075,3
+Greece + Vietnam,11520,3
+Ireland + Vietnam,40065,3
+Portugal + Vietnam,12855,3
+Czech Republic + Vietnam,12925,3
+Tunisia + Vietnam,3030,3
+Jordan + Vietnam,3525,3
+Sri Lanka + Vietnam,3380,3
+Qatar + Vietnam,266510,3
+Angola + Vietnam,2680,3
+Mauritius + Vietnam,7085,3
+Belarus + Vietnam,4670,3
+Germany + Uzbekistan,24020,3
+Germany + Oman,30940,3
+Germany + Nepal,23710,3
+Germany + Guatemala,25445,3
+Germany + Macau,27490,3
+Germany + Saint Kitts and Nevis,31985,3
+Germany + Haiti,23655,3
+Albania + Germany,26215,3
+Germany + New Zealand,43390,3
+Bermuda + Germany,84050,3
+Germany + Grenada,27975,3
+Germany + Luxembourg,78635,3
+Germany + Guernsey,49775,3
+Germany + Rwanda,23575,3
+Congo (Kinshasa) + Germany,23460,3
+Germany + Zambia,23825,3
+Estonia + Germany,34925,3
+Germany + Guyana,25815,3
+Croatia + South Korea,23945,3
+Croatia + Mexico,12215,3
+Algeria + Croatia,9595,3
+Croatia + Ukraine,9430,3
+Croatia + Jordan,9790,3
+Croatia + Romania,13980,3
+Croatia + Jersey,34775,3
+Croatia + Mauritius,13350,3
+Antigua and Barbuda + Austria,35090,3
+Austria + Pakistan,26220,3
+Austria + Brunei,40445,3
+Austria + Indonesia,27515,3
+Armenia + Austria,27780,3
+Austria + Jamaica,28135,3
+Austria + Trinidad and Tobago,33835,3
+Austria + Tajikistan,26040,3
+Austria + Bahrain,36650,3
+Albania + Austria,28580,3
+Austria + Barbados,34810,3
+Austria + Luxembourg,81000,3
+Austria + Jersey,52735,3
+Austria + Ethiopia,25965,3
+Austria + Estonia,37290,3
+Bahamas + Morocco,17130,3
+Bahamas + Belgium,38565,3
+Aruba + Bahamas,32240,3
+Bahamas + Venezuela,16650,3
+Bahamas + Martinique,27630,3
+Bahamas + Saint Lucia,20685,3
+Bahamas + South Korea,31865,3
+Bahamas + Israel,37260,3
+Bahamas + Costa Rica,21510,3
+Bahamas + Ireland,54250,3
+Bahamas + Chile,24055,3
+Bahamas + Denmark,46035,3
+Bahamas + Haiti,15980,3
+Bahamas + Jordan,17710,3
+Bahamas + Bermuda,76375,3
+Bahamas + Cayman Islands,68175,3
+Bahamas + El Salvador,17630,3
+Aruba + Netherlands,43300,3
+Guadeloupe + Netherlands,37930,3
+Martinique + Netherlands,38690,3
+Netherlands + Saint Lucia,31745,3
+Netherlands + Oman,34325,3
+Nepal + Netherlands,27095,3
+Netherlands + Pakistan,27240,3
+Macau + Netherlands,30875,3
+Netherlands + Uruguay,35080,3
+Netherlands + Paraguay,29525,3
+Armenia + Netherlands,28800,3
+Haiti + Netherlands,27040,3
+Netherlands + Tajikistan,27060,3
+Netherlands + Puerto Rico,49165,3
+Bolivia + Netherlands,28355,3
+Netherlands + New Zealand,46775,3
+Bermuda + Netherlands,87435,3
+Luxembourg + Netherlands,82020,3
+Jersey + Netherlands,53755,3
+Congo (Kinshasa) + Netherlands,26845,3
+Netherlands + Zimbabwe,27290,3
+Estonia + Netherlands,38310,3
+Botswana + Netherlands,30330,3
+Morocco + Venezuela,2740,3
+Guadeloupe + Morocco,12960,3
+Martinique + Morocco,13720,3
+Morocco + Saint Lucia,6775,3
+Morocco + Tanzania,2160,3
+Chile + Morocco,10145,3
+Armenia + Morocco,3830,3
+Morocco + Tajikistan,2090,3
+Bermuda + Morocco,62465,3
+El Salvador + Morocco,3720,3
+Luxembourg + Morocco,57050,3
+Central African Republic + Morocco,1830,3
+Morocco + Zambia,2240,3
+Maldives + Morocco,6515,3
+Belgium + Venezuela,24175,3
+Belgium + Guadeloupe,34395,3
+Belgium + Martinique,35155,3
+Belgium + Saint Lucia,28210,3
+Belgium + Panama,30790,3
+Belgium + Tanzania,23595,3
+Belgium + Chile,31580,3
+Bahrain + Belgium,34135,3
+Belgium + Sri Lanka,25090,3
+Albania + Belgium,26065,3
+Belgium + Bermuda,83900,3
+Belgium + El Salvador,25155,3
+Belgium + Luxembourg,78485,3
+Belgium + Jersey,50220,3
+Belgium + Rwanda,23425,3
+Belgium + Central African Republic,23265,3
+Belgium + Gabon,26875,3
+Belgium + Mauritania,23685,3
+Belgium + Equatorial Guinea,27975,3
+Belgium + Zambia,23675,3
+Turkey + Uzbekistan,5350,3
+Antigua and Barbuda + Turkey,14055,3
+Argentina + Turkey,9480,3
+Brunei + Turkey,19410,3
+Jamaica + Turkey,7100,3
+Trinidad and Tobago + Turkey,12800,3
+Kyrgyzstan + Turkey,5185,3
+Bahrain + Turkey,15615,3
+Sri Lanka + Turkey,6570,3
+Albania + Turkey,7545,3
+Barbados + Turkey,13775,3
+Luxembourg + Turkey,59965,3
+Jersey + Turkey,31700,3
+Estonia + Turkey,16255,3
+Antigua and Barbuda + Aruba,26250,3
+Aruba + Martinique,28830,3
+Aruba + Guatemala,18970,3
+Aruba + Bolivia,18495,3
+Aruba + Barbados,25970,3
+South Korea + Venezuela,17475,3
+Israel + Venezuela,22870,3
+India + Venezuela,2190,3
+Greece + Venezuela,11315,3
+Ireland + Venezuela,39860,3
+Portugal + Venezuela,12650,3
+Honduras + Venezuela,2340,3
+Denmark + Venezuela,31645,3
+Haiti + Venezuela,1590,3
+Jordan + Venezuela,3320,3
+Barbados + Venezuela,10380,3
+Georgia + Uzbekistan,3040,3
+Antigua and Barbuda + South Korea,25875,3
+Antigua and Barbuda + India,10590,3
+Antigua and Barbuda + Argentina,14485,3
+Antigua and Barbuda + Costa Rica,15520,3
+Algeria + Antigua and Barbuda,11525,3
+Antigua and Barbuda + Greece,19715,3
+Antigua and Barbuda + Portugal,21050,3
+Antigua and Barbuda + Poland,17360,3
+Antigua and Barbuda + Haiti,9990,3
+Antigua and Barbuda + Bermuda,70385,3
+Antigua and Barbuda + Grenada,14310,3
+Antigua and Barbuda + Guyana,12150,3
+Dominica + Guadeloupe,15275,3
+Guadeloupe + Saint Lucia,16515,3
+Guadeloupe + South Korea,27695,3
+Guadeloupe + Israel,33090,3
+Argentina + Guadeloupe,16305,3
+Guadeloupe + Mexico,15965,3
+Costa Rica + Guadeloupe,17340,3
+Guadeloupe + Ireland,50080,3
+Guadeloupe + Saint Kitts and Nevis,20140,3
+Chile + Guadeloupe,19885,3
+Denmark + Guadeloupe,41865,3
+Guadeloupe + Jordan,13540,3
+Martinique + South Korea,28455,3
+Israel + Martinique,33850,3
+Costa Rica + Martinique,18100,3
+Ireland + Martinique,50840,3
+Chile + Martinique,20645,3
+Denmark + Martinique,42625,3
+Jamaica + Martinique,14685,3
+Martinique + Trinidad and Tobago,20385,3
+Haiti + Martinique,12570,3
+Jordan + Martinique,14300,3
+Barbados + Martinique,21360,3
+Grenada + Martinique,16890,3
+Dominica + Dominican Republic,7990,3
+Dominican Republic + Saint Lucia,9230,3
+Dominican Republic + Serbia,7810,3
+Dominican Republic + Hungary,12765,3
+Czech Republic + Dominican Republic,15655,3
+Dominican Republic + Tunisia,5760,3
+Dominican Republic + Nicaragua,5050,3
+Dominican Republic + Saint Kitts and Nevis,12855,3
+Dominican Republic + Honduras,5275,3
+Dominican Republic + Moldova,6310,3
+Dominican Republic + Romania,10445,3
+Bulgaria + Dominican Republic,8920,3
+Angola + Dominican Republic,5410,3
+Dominica + Puerto Rico,26510,3
+Saint Lucia + South Korea,21510,3
+Israel + Saint Lucia,26905,3
+Mexico + Saint Lucia,9780,3
+Ireland + Saint Lucia,43895,3
+Panama + Saint Lucia,12910,3
+Denmark + Saint Lucia,35680,3
+Jordan + Saint Lucia,7355,3
+Bermuda + Saint Lucia,66020,3
+Grenada + Saint Lucia,9945,3
+Guyana + Saint Lucia,7785,3
+Nepal + South Korea,16860,3
+Cuba + South Korea,20770,3
+Pakistan + South Korea,17005,3
+South Korea + Tunisia,18040,3
+Panama + South Korea,24090,3
+Chile + South Korea,24880,3
+Georgia + South Korea,18560,3
+Guam + South Korea,34355,3
+Jamaica + South Korea,18920,3
+South Korea + Trinidad and Tobago,24620,3
+South Korea + Tajikistan,16825,3
+Iran + South Korea,19045,3
+Libya + South Korea,19970,3
+Moldova + South Korea,18590,3
+Romania + South Korea,22725,3
+Bahrain + South Korea,27435,3
+New Zealand + South Korea,36540,3
+Bermuda + South Korea,77200,3
+Barbados + South Korea,25595,3
+Luxembourg + South Korea,71785,3
+Ethiopia + South Korea,16750,3
+Bangladesh + Israel,22785,3
+Israel + Tunisia,23435,3
+Israel + Panama,29485,3
+Chile + Israel,30275,3
+Armenia + Israel,23960,3
+Iran + Israel,24440,3
+Israel + Libya,25365,3
+Israel + Kuwait,38560,3
+Albania + Israel,24760,3
+Bermuda + Israel,82595,3
+Israel + Luxembourg,77180,3
+Angola + Israel,23085,3
+Israel + Mauritius,27490,3
+Israel + Maldives,26645,3
+Bangladesh + Mexico,5660,3
+Bangladesh + Pakistan,1705,3
+Bangladesh + Ireland,39775,3
+Bangladesh + Portugal,12565,3
+Bangladesh + Czech Republic,12635,3
+Bangladesh + Tajikistan,1525,3
+Bangladesh + Iran,3745,3
+Bangladesh + Ukraine,2875,3
+Bangladesh + Jordan,3235,3
+Bangladesh + Malta,16525,3
+Angola + Bangladesh,2390,3
+Bangladesh + Lebanon,5260,3
+Bangladesh + Mauritius,6795,3
+Bangladesh + Belarus,4380,3
+Cuba + India,5485,3
+Afghanistan + India,1335,3
+India + Panama,8805,3
+Guam + India,19070,3
+India + Jamaica,3635,3
+India + Trinidad and Tobago,9335,3
+India + Kazakhstan,5535,3
+India + New Zealand,21255,3
+Barbados + India,10310,3
+India + Luxembourg,56500,3
+India + Rwanda,1440,3
+India + Lithuania,10705,3
+Congo (Kinshasa) + India,1325,3
+India + Zimbabwe,1770,3
+Kuwait + Oman,24565,3
+Bahrain + Oman,18835,3
+Oman + Qatar,272920,3
+Argentina + Hungary,13655,3
+Argentina + Czech Republic,16545,3
+Argentina + Honduras,6165,3
+Argentina + South Africa,7880,3
+Argentina + Ukraine,6785,3
+Argentina + Moldova,7200,3
+Argentina + Romania,11335,3
+Argentina + Qatar,270130,3
+Argentina + Bulgaria,9810,3
+Argentina + Luxembourg,60395,3
+Argentina + Malta,20435,3
+Argentina + Lebanon,9170,3
+Mexico + Serbia,8360,3
+Mexico + Tunisia,6310,3
+Georgia + Mexico,6830,3
+Haiti + Mexico,5075,3
+Mexico + Ukraine,6445,3
+Bermuda + Mexico,65470,3
+Luxembourg + Mexico,60055,3
+Malta + Mexico,20095,3
+Lebanon + Mexico,8830,3
+Mauritius + Mexico,10365,3
+Maldives + Mexico,9520,3
+Cuba + Guatemala,6675,3
+Guatemala + Puerto Rico,24835,3
+Bolivia + Guatemala,4025,3
+Cuba + Serbia,8170,3
+Cuba + Hungary,13125,3
+Cuba + Georgia,6640,3
+Armenia + Cuba,6645,3
+Cuba + Romania,10805,3
+Cuba + Qatar,269600,3
+Bulgaria + Cuba,9280,3
+Bolivia + Cuba,6200,3
+Barbados + Cuba,13675,3
+Angola + Cuba,5770,3
+Costa Rica + Uruguay,14490,3
+Costa Rica + Paraguay,8935,3
+Costa Rica + Jamaica,8565,3
+Costa Rica + Trinidad and Tobago,14265,3
+Costa Rica + Haiti,6450,3
+Brunei + Pakistan,15545,3
+Serbia + Tunisia,5440,3
+Georgia + Serbia,5960,3
+Jordan + Serbia,5935,3
+Malta + Serbia,19225,3
+Lithuania + Serbia,13390,3
+Algeria + Armenia,4215,3
+Algeria + Jamaica,4570,3
+Algeria + Trinidad and Tobago,10270,3
+Algeria + Kazakhstan,6470,3
+Algeria + Iran,4695,3
+Algeria + Uganda,2365,3
+Algeria + Barbados,11245,3
+Algeria + Luxembourg,57435,3
+Algeria + Congo (Kinshasa),2260,3
+Algeria + Mauritania,2635,3
+Armenia + Greece,12405,3
+Greece + Jamaica,12760,3
+Greece + Trinidad and Tobago,18460,3
+Greece + Tajikistan,10665,3
+Greece + Kazakhstan,14660,3
+Bahrain + Greece,21275,3
+Albania + Greece,13205,3
+Greece + Uganda,10555,3
+Barbados + Greece,19435,3
+Greece + Luxembourg,65625,3
+Greece + Jersey,37360,3
+Greece + Maldives,15090,3
+Estonia + Greece,21915,3
+Hungary + Tunisia,10395,3
+Armenia + Hungary,10920,3
+Hungary + Qatar,273875,3
+Albania + Hungary,11720,3
+Hungary + Luxembourg,64140,3
+Hungary + Jersey,35875,3
+Hungary + Mauritius,14450,3
+Estonia + Hungary,20430,3
+Ireland + Tanzania,39280,3
+Chile + Ireland,47265,3
+Albania + Ireland,41750,3
+Bermuda + Ireland,99585,3
+El Salvador + Ireland,40840,3
+Ireland + Luxembourg,94170,3
+Guernsey + Ireland,65310,3
+Ireland + Jersey,65905,3
+Ireland + Maldives,43635,3
+Panama + Portugal,19265,3
+Portugal + Tanzania,12070,3
+Jamaica + Portugal,14095,3
+Portugal + Trinidad and Tobago,19795,3
+Barbados + Portugal,20770,3
+Luxembourg + Portugal,66960,3
+Jersey + Portugal,38695,3
+Congo (Brazzaville) + Portugal,12560,3
+Portugal + Zambia,12150,3
+Maldives + Portugal,16425,3
+Czech Republic + South Africa,14515,3
+Czech Republic + Kazakhstan,16065,3
+Czech Republic + Iran,14290,3
+Czech Republic + Libya,15215,3
+Czech Republic + Kuwait,28410,3
+Albania + Czech Republic,14610,3
+Czech Republic + Luxembourg,67030,3
+Czech Republic + Jersey,38765,3
+Angola + Czech Republic,12935,3
+Czech Republic + Maldives,16495,3
+Czech Republic + Estonia,23320,3
+Georgia + Tunisia,3910,3
+Armenia + Tunisia,3915,3
+Tunisia + Ukraine,3525,3
+Romania + Tunisia,8075,3
+Qatar + Tunisia,266870,3
+Bulgaria + Tunisia,6550,3
+Malta + Tunisia,17175,3
+Angola + Tunisia,3040,3
+Mauritius + Tunisia,7445,3
+Armenia + Poland,10050,3
+Jamaica + Poland,10405,3
+Poland + Trinidad and Tobago,16105,3
+Kazakhstan + Poland,12305,3
+Libya + Poland,11455,3
+Kuwait + Poland,24650,3
+Albania + Poland,10850,3
+Barbados + Poland,17080,3
+Luxembourg + Poland,63270,3
+Jersey + Poland,35005,3
+Estonia + Poland,19560,3
+Panama + South Africa,10670,3
+Jordan + Panama,9935,3
+Panama + Turks and Caicos Islands,22730,3
+Cayman Islands + Panama,60400,3
+Grenada + Panama,12525,3
+Angola + Panama,9090,3
+Guyana + Panama,10365,3
+Denmark + Tanzania,31065,3
+Qatar + Tanzania,265725,3
+Tanzania + Zambia,1180,3
+Belarus + Tanzania,3885,3
+Brunei + Macau,19180,3
+Brunei + South Africa,17810,3
+Brunei + New Zealand,35080,3
+Brunei + Ethiopia,15290,3
+Brunei + Maldives,19790,3
+Indonesia + South Africa,4880,3
+Indonesia + Sri Lanka,4000,3
+Indonesia + Maldives,6860,3
+Puerto Rico + Saint Kitts and Nevis,31375,3
+Chile + Honduras,9745,3
+Chile + Denmark,39050,3
+Chile + Jamaica,11110,3
+Chile + Trinidad and Tobago,16810,3
+Chile + Haiti,8995,3
+Chile + Jordan,10725,3
+Chile + Puerto Rico,31120,3
+El Salvador + Uruguay,10610,3
+El Salvador + Paraguay,5055,3
+Georgia + South Africa,5140,3
+Latvia + South Africa,12135,3
+South Africa + Tajikistan,3405,3
+South Africa + Ukraine,4755,3
+Bahrain + South Africa,14015,3
+South Africa + Uganda,3295,3
+Malta + South Africa,18405,3
+Ethiopia + South Africa,3330,3
+Lebanon + South Africa,7140,3
+Congo (Brazzaville) + South Africa,3965,3
+Georgia + Tajikistan,2695,3
+Georgia + Iran,4915,3
+Georgia + Jordan,4405,3
+Georgia + Romania,8595,3
+Georgia + Qatar,267390,3
+Bulgaria + Georgia,7070,3
+Georgia + Lebanon,6430,3
+Denmark + Iran,33215,3
+Albania + Denmark,33535,3
+Bermuda + Denmark,91370,3
+Denmark + El Salvador,32625,3
+Denmark + Luxembourg,85955,3
+Denmark + Jersey,57690,3
+Congo (Kinshasa) + Denmark,30780,3
+Denmark + Estonia,42245,3
+Armenia + Kazakhstan,6695,3
+Armenia + Ukraine,4050,3
+Armenia + Moldova,4465,3
+Armenia + Lebanon,6435,3
+Latvia + Libya,12835,3
+Kuwait + Latvia,26030,3
+Albania + Latvia,12230,3
+Latvia + Uganda,9580,3
+Latvia + Luxembourg,64650,3
+Angola + Latvia,10555,3
+Latvia + Mauritius,14960,3
+Jamaica + Turks and Caicos Islands,17560,3
+Bermuda + Jamaica,63430,3
+Cayman Islands + Jamaica,55230,3
+El Salvador + Jamaica,4685,3
+Grenada + Jamaica,7355,3
+Guyana + Jamaica,5195,3
+Bermuda + Trinidad and Tobago,69130,3
+El Salvador + Trinidad and Tobago,10385,3
+Guyana + Trinidad and Tobago,10895,3
+Barbados + Haiti,9710,3
+El Salvador + Haiti,2570,3
+Kazakhstan + Tajikistan,4955,3
+Iran + Tajikistan,3180,3
+Ethiopia + Tajikistan,885,3
+Maldives + Tajikistan,5385,3
+Kazakhstan + Kyrgyzstan,5135,3
+Iran + Kazakhstan,7175,3
+Iran + Ukraine,4530,3
+Iran + Lebanon,6915,3
+Belarus + Iran,6035,3
+Kuwait + Ukraine,18650,3
+Qatar + Ukraine,267005,3
+Albania + Ukraine,4850,3
+Luxembourg + Ukraine,57270,3
+Angola + Ukraine,3175,3
+Lithuania + Ukraine,11475,3
+Mauritius + Ukraine,7580,3
+Libya + Moldova,5870,3
+Libya + Malta,19105,3
+Angola + Libya,4970,3
+Bermuda + Jordan,63045,3
+Jordan + Luxembourg,57630,3
+Angola + Jordan,3535,3
+Jordan + Maldives,7095,3
+Bolivia + Puerto Rico,24360,3
+Barbados + Puerto Rico,31835,3
+El Salvador + Puerto Rico,24695,3
+Cayman Islands + Turks and Caicos Islands,67640,3
+Moldova + Qatar,267420,3
+Albania + Moldova,5265,3
+Luxembourg + Moldova,57685,3
+Jersey + Moldova,29420,3
+Angola + Moldova,3590,3
+Mauritius + Moldova,7995,3
+Qatar + Romania,271555,3
+Albania + Romania,9400,3
+Luxembourg + Romania,61820,3
+Mauritius + Romania,12130,3
+Bahrain + Kuwait,27910,3
+Kuwait + Sri Lanka,18865,3
+Kuwait + Uganda,17190,3
+Kuwait + Malta,32300,3
+Ethiopia + Kuwait,17225,3
+Kuwait + Lebanon,21035,3
+Kuwait + Mauritius,22570,3
+Kuwait + Maldives,21725,3
+Bahrain + Mauritius,16840,3
+Bahrain + Maldives,15995,3
+Qatar + Sri Lanka,267220,3
+Bulgaria + Qatar,270030,3
+Mauritius + Qatar,270925,3
+Albania + Bulgaria,7875,3
+Bulgaria + Luxembourg,60295,3
+Bulgaria + Jersey,32030,3
+Bulgaria + Mauritius,10605,3
+Rwanda + Uganda,750,3
+Angola + Uganda,1715,3
+Belarus + Uganda,3705,3
+Barbados + Bermuda,70105,3
+Barbados + Guyana,11870,3
+Grenada + Guyana,7400,3
+Luxembourg + Malta,70920,3
+Lebanon + Luxembourg,59655,3
+Belarus + Luxembourg,58775,3
+Angola + Malta,16825,3
+Lithuania + Malta,25125,3
+Malta + Mauritius,21230,3
+Ethiopia + Maldives,5310,3
+Angola + Zimbabwe,2055,3
+Angola + Gabon,5175,3
+Angola + Maldives,6250,3
+Angola + Belarus,4680,3
+Angola + Botswana,5095,3
+Estonia + Lithuania,21375,3
+Central African Republic + Congo (Kinshasa),485,3
+Congo (Kinshasa) + Gabon,4095,3
+Botswana + Zimbabwe,4460,3
+Lebanon + Mauritius,9965,3
+Congo (Brazzaville) + Gabon,4870,3
+Botswana + Zambia,4380,3
+Belarus + Maldives,8240,3
+Peru + Russia,9235,2
+Benin + Russia,6230,2
+Russia + Togo,6150,2
+Liberia + Russia,6130,2
+Guinea + Russia,6220,2
+Cameroon + Russia,6600,2
+Djibouti + Russia,6745,2
+Burma + Russia,6490,2
+Montenegro + Russia,14180,2
+Guadeloupe + Russia,17145,2
+Russia + Saint Lucia,10960,2
+Russia + Tanzania,6345,2
+Chile + Russia,14330,2
+Puerto Rico + Russia,28380,2
+Bahrain + Russia,16885,2
+Russia + Uganda,6165,2
+New Zealand + Russia,25990,2
+Bermuda + Russia,66650,2
+Fiji + Russia,8830,2
+Guernsey + Russia,32375,2
+Jersey + Russia,32970,2
+Ethiopia + Russia,6200,2
+Congo (Kinshasa) + Russia,6060,2
+Central African Republic + Russia,6015,2
+Congo (Brazzaville) + Russia,6835,2
+Gabon + Russia,9625,2
+Russia + Slovenia,21270,2
+Mauritania + Russia,6435,2
+Iceland + Russia,38225,2
+Russia + Seychelles,12940,2
+Russia + Turkmenistan,9295,2
+Russia + Slovakia,15520,2
+Azerbaijan + Ghana,3090,2
+Azerbaijan + Sierra Leone,2285,2
+Azerbaijan + Taiwan,15830,2
+Azerbaijan + Vietnam,3335,2
+Azerbaijan + Croatia,9600,2
+Azerbaijan + Venezuela,3130,2
+Azerbaijan + Montenegro,10385,2
+Azerbaijan + Dominican Republic,6065,2
+Azerbaijan + Serbia,5745,2
+Azerbaijan + Kyrgyzstan,2660,2
+Azerbaijan + Libya,5625,2
+Azerbaijan + Kuwait,18820,2
+Albania + Azerbaijan,5020,2
+Azerbaijan + Lithuania,11645,2
+Azerbaijan + Mauritius,7750,2
+Azerbaijan + Maldives,6905,2
+Azerbaijan + Turkmenistan,5500,2
+Peru + Senegal,4165,2
+Cyprus + Peru,15275,2
+Nigeria + Peru,4530,2
+Peru + Saudi Arabia,14720,2
+Kenya + Peru,4320,2
+Peru + Thailand,7380,2
+Australia + Peru,30890,2
+Malaysia + Peru,9005,2
+Austria + Peru,29000,2
+Peru + Turkey,7965,2
+Peru + Saint Lucia,8605,2
+Algeria + Peru,5435,2
+Greece + Peru,13625,2
+Peru + Poland,11270,2
+Georgia + Peru,5655,2
+Latvia + Peru,12650,2
+Peru + Turks and Caicos Islands,18425,2
+Peru + Qatar,268615,2
+Bermuda + Peru,64295,2
+Barbados + Peru,12690,2
+Cayman Islands + Peru,56095,2
+Grenada + Peru,8220,2
+Angola + Peru,4785,2
+Belarus + Peru,6775,2
+Guyana + Peru,6060,2
+Cote d'Ivoire + Sweden,27565,2
+Cote d'Ivoire + Finland,26280,2
+Cote d'Ivoire + Norway,38570,2
+Brazil + Cote d'Ivoire,5620,2
+Cote d'Ivoire + Guinea-Bissau,1675,2
+Cote d'Ivoire + Saudi Arabia,12605,2
+Cote d'Ivoire + Kenya,2205,2
+China + Cote d'Ivoire,6345,2
+Austria + Cote d'Ivoire,26885,2
+Cote d'Ivoire + Netherlands,27905,2
+Cote d'Ivoire + India,2385,2
+Cote d'Ivoire + Greece,11510,2
+Cote d'Ivoire + Ireland,40055,2
+Cote d'Ivoire + Latvia,10535,2
+Cote d'Ivoire + Libya,4950,2
+Cote d'Ivoire + Jordan,3515,2
+Central African Republic + Cote d'Ivoire,1545,2
+Congo (Brazzaville) + Cote d'Ivoire,2365,2
+Cote d'Ivoire + Equatorial Guinea,6255,2
+Cape Verde + Cote d'Ivoire,2930,2
+Burkina Faso + Sweden,26600,2
+Burkina Faso + Finland,25315,2
+Burkina Faso + Norway,37605,2
+Brazil + Burkina Faso,4655,2
+Burkina Faso + Gambia,590,2
+Burkina Faso + Guinea-Bissau,710,2
+Burkina Faso + Saudi Arabia,11640,2
+Burkina Faso + Kenya,1240,2
+Burkina Faso + China,5380,2
+Austria + Burkina Faso,25920,2
+Burkina Faso + Netherlands,26940,2
+Burkina Faso + India,1420,2
+Burkina Faso + Greece,10545,2
+Burkina Faso + Ireland,39090,2
+Burkina Faso + Latvia,9570,2
+Burkina Faso + Libya,3985,2
+Burkina Faso + Jordan,2550,2
+Burkina Faso + Central African Republic,580,2
+Burkina Faso + Congo (Brazzaville),1400,2
+Burkina Faso + Equatorial Guinea,5290,2
+Burkina Faso + Cape Verde,1965,2
+Ghana + Niger,1260,2
+Cyprus + Ghana,12925,2
+Ghana + Guinea,1515,2
+Ghana + Guinea-Bissau,1440,2
+Ghana + Kenya,1970,2
+Ghana + Thailand,5030,2
+Ghana + Singapore,43075,2
+Australia + Ghana,28540,2
+Ghana + Taiwan,14920,2
+Ghana + Malaysia,6655,2
+Bahamas + Ghana,16610,2
+Ghana + Venezuela,2220,2
+Antigua and Barbuda + Ghana,10620,2
+Dominican Republic + Ghana,5155,2
+Ghana + Saint Lucia,6255,2
+Ghana + Hungary,9790,2
+Ghana + Latvia,10300,2
+Ghana + Jamaica,3665,2
+Ghana + Trinidad and Tobago,9365,2
+Ghana + Iran,3790,2
+Ghana + Moldova,3335,2
+Ghana + Romania,7470,2
+Bahrain + Ghana,12180,2
+Ghana + Sri Lanka,3135,2
+Bulgaria + Ghana,5945,2
+Albania + Ghana,4110,2
+Ghana + Uganda,1460,2
+Bermuda + Ghana,61945,2
+Barbados + Ghana,10340,2
+Ghana + Luxembourg,56530,2
+Gabon + Ghana,4920,2
+Ghana + Mauritius,6840,2
+Ghana + Mauritania,1730,2
+Equatorial Guinea + Ghana,6020,2
+Ghana + Maldives,5995,2
+Cape Verde + Ghana,2695,2
+Mali + Sweden,26690,2
+Mali + Norway,37695,2
+Brazil + Mali,4745,2
+Gambia + Mali,680,2
+Mali + Saudi Arabia,11730,2
+China + Mali,5470,2
+Austria + Mali,26010,2
+Mali + Netherlands,27030,2
+Denmark + Mali,30965,2
+Libya + Mali,4075,2
+Jordan + Mali,2640,2
+Angola + Mali,1795,2
+Congo (Kinshasa) + Mali,715,2
+Central African Republic + Mali,670,2
+Congo (Brazzaville) + Mali,1490,2
+Cape Verde + Mali,2055,2
+Cyprus + Senegal,12560,2
+Djibouti + Senegal,1675,2
+Senegal + Thailand,4665,2
+Senegal + Singapore,42710,2
+Australia + Senegal,28175,2
+Malaysia + Senegal,6290,2
+Senegal + Vietnam,2060,2
+Senegal + Venezuela,1855,2
+Guadeloupe + Senegal,12075,2
+Martinique + Senegal,12835,2
+Israel + Senegal,22465,2
+Cuba + Senegal,5150,2
+Czech Republic + Senegal,12315,2
+Panama + Senegal,8470,2
+Chile + Senegal,9260,2
+Senegal + Ukraine,2555,2
+Senegal + Uganda,1095,2
+El Salvador + Senegal,2835,2
+Malta + Senegal,16205,2
+Congo (Brazzaville) + Senegal,1765,2
+Mauritius + Senegal,6475,2
+Benin + Switzerland,41425,2
+Benin + Egypt,2175,2
+Benin + Sweden,26675,2
+Benin + Finland,25390,2
+Benin + Norway,37680,2
+Benin + Brazil,4730,2
+Benin + Gambia,665,2
+Benin + Guinea-Bissau,785,2
+Benin + Saudi Arabia,11715,2
+Benin + Kenya,1315,2
+Benin + Netherlands,27015,2
+Benin + Turkey,4960,2
+Benin + India,1495,2
+Benin + Greece,10620,2
+Benin + Ireland,39165,2
+Benin + Tunisia,2130,2
+Benin + Latvia,9645,2
+Benin + Lebanon,4650,2
+Benin + Cape Verde,2040,2
+Switzerland + Togo,41345,2
+Spain + Togo,15355,2
+Egypt + Togo,2095,2
+Sweden + Togo,26595,2
+Norway + Togo,37600,2
+Brazil + Togo,4650,2
+Guinea + Togo,780,2
+Canada + Togo,23120,2
+Saudi Arabia + Togo,11635,2
+Germany + Togo,23550,2
+Netherlands + Togo,26935,2
+Togo + Turkey,4880,2
+Portugal + Togo,11875,2
+Togo + Tunisia,2050,2
+Denmark + Togo,30870,2
+Angola + Togo,1700,2
+Congo (Kinshasa) + Togo,620,2
+Lebanon + Togo,4570,2
+Central African Republic + Togo,575,2
+Congo (Brazzaville) + Togo,1395,2
+Mauritania + Togo,995,2
+Equatorial Guinea + Togo,5285,2
+Niger + Sweden,26410,2
+Niger + Norway,37415,2
+Niger + United States,32540,2
+Brazil + Niger,4465,2
+Niger + Nigeria,1260,2
+Liberia + Niger,505,2
+Niger + Sierra Leone,455,2
+Guinea + Niger,595,2
+Cameroon + Niger,975,2
+Niger + Saudi Arabia,11450,2
+China + Niger,5190,2
+Austria + Niger,25730,2
+Netherlands + Niger,26750,2
+Denmark + Niger,30685,2
+Libya + Niger,3795,2
+Jordan + Niger,2360,2
+Angola + Niger,1515,2
+Congo (Kinshasa) + Niger,435,2
+Central African Republic + Niger,390,2
+Congo (Brazzaville) + Niger,1210,2
+Gabon + Niger,4000,2
+Mauritania + Niger,810,2
+Colombia + Cyprus,15020,2
+Colombia + Egypt,4925,2
+Colombia + Nigeria,4275,2
+Colombia + Saudi Arabia,14465,2
+Colombia + Kenya,4065,2
+Australia + Colombia,30635,2
+Colombia + Malaysia,8750,2
+Colombia + Vietnam,4520,2
+Colombia + Croatia,10785,2
+Colombia + Dominica,7110,2
+Colombia + Saint Lucia,8350,2
+Colombia + Serbia,6930,2
+Colombia + Hungary,11885,2
+Colombia + Czech Republic,14775,2
+Colombia + Tunisia,4880,2
+Colombia + Saint Kitts and Nevis,11975,2
+Colombia + South Africa,6110,2
+Colombia + Virgin Islands,23950,2
+Colombia + Turks and Caicos Islands,18170,2
+Colombia + Moldova,5430,2
+Colombia + Romania,9565,2
+Bulgaria + Colombia,8040,2
+Bermuda + Colombia,64040,2
+Cayman Islands + Colombia,55840,2
+Colombia + Grenada,7965,2
+Colombia + Mauritius,8935,2
+Colombia + Guyana,5805,2
+Ecuador + Sweden,29280,2
+Ecuador + Finland,27995,2
+Ecuador + Norway,40285,2
+Ecuador + United Arab Emirates,24325,2
+Ecuador + Hong Kong,27175,2
+Ecuador + Japan,23150,2
+Ecuador + Taiwan,16870,2
+Bahamas + Ecuador,18560,2
+Ecuador + Morocco,4650,2
+Ecuador + India,4100,2
+Ecuador + Ireland,41770,2
+Ecuador + Portugal,14560,2
+Ecuador + Nicaragua,4025,2
+Ecuador + South Africa,5965,2
+Denmark + Ecuador,33555,2
+Ecuador + Jamaica,5615,2
+Ecuador + Trinidad and Tobago,11315,2
+Ecuador + Haiti,3500,2
+Ecuador + Qatar,268215,2
+Gambia + Italy,16895,2
+Guinea + Italy,17090,2
+Cambodia + Italy,17475,2
+Italy + Montenegro,25050,2
+Italy + Northern Mariana Islands,24325,2
+Guatemala + Italy,18915,2
+Afghanistan + Italy,16940,2
+Italy + Pakistan,17325,2
+Italy + Macedonia,19830,2
+Bosnia and Herzegovina + Italy,19635,2
+Italy + Macau,20960,2
+Italy + Paraguay,19610,2
+Belize + Italy,18870,2
+Honduras + Italy,17875,2
+Guam + Italy,34675,2
+Haiti + Italy,17125,2
+Italy + Kyrgyzstan,17325,2
+Chad + Italy,17010,2
+Italy + Turks and Caicos Islands,31650,2
+Bolivia + Italy,18440,2
+Cayman Islands + Italy,69320,2
+Grenada + Italy,21445,2
+Fiji + Italy,19700,2
+Guernsey + Italy,43245,2
+Italy + Rwanda,17045,2
+Central African Republic + Italy,16885,2
+Congo (Brazzaville) + Italy,17705,2
+Italy + Slovenia,32140,2
+Italy + Mauritania,17305,2
+Equatorial Guinea + Italy,21595,2
+Italy + Zambia,17295,2
+Iceland + Italy,49095,2
+Italy + Seychelles,23810,2
+Italy + Turkmenistan,20165,2
+Isle of Man + Italy,55985,2
+Guyana + Italy,19285,2
+Italy + Slovakia,26390,2
+Philippines + Switzerland,42660,2
+Liberia + Switzerland,41325,2
+Gambia + Switzerland,41220,2
+Guinea + Switzerland,41415,2
+Cameroon + Switzerland,41795,2
+Djibouti + Switzerland,41940,2
+Burma + Switzerland,41685,2
+Aruba + Switzerland,57710,2
+Switzerland + Uzbekistan,41815,2
+Nepal + Switzerland,41505,2
+Costa Rica + Switzerland,46980,2
+Afghanistan + Switzerland,41265,2
+Pakistan + Switzerland,41650,2
+Bosnia and Herzegovina + Switzerland,43960,2
+Switzerland + Tanzania,41540,2
+Brunei + Switzerland,55875,2
+Indonesia + Switzerland,42945,2
+Haiti + Switzerland,41450,2
+Puerto Rico + Switzerland,63575,2
+Switzerland + Turks and Caicos Islands,55975,2
+Switzerland + Uganda,41360,2
+New Zealand + Switzerland,61185,2
+Cayman Islands + Switzerland,93645,2
+Grenada + Switzerland,45770,2
+Guernsey + Switzerland,67570,2
+Congo (Kinshasa) + Switzerland,41255,2
+Central African Republic + Switzerland,41210,2
+Congo (Brazzaville) + Switzerland,42030,2
+Gabon + Switzerland,44820,2
+Slovenia + Switzerland,56465,2
+Mauritania + Switzerland,41630,2
+Iceland + Switzerland,73420,2
+Seychelles + Switzerland,48135,2
+Switzerland + Turkmenistan,44490,2
+Isle of Man + Switzerland,80310,2
+Guyana + Switzerland,43610,2
+France + Montenegro,28610,2
+France + French Guiana,28120,2
+Dominica + France,24150,2
+France + Northern Mariana Islands,27885,2
+France + Oman,27970,2
+Afghanistan + France,20500,2
+France + Macedonia,23390,2
+Bosnia and Herzegovina + France,23195,2
+France + Nicaragua,21210,2
+Belize + France,22430,2
+France + Kyrgyzstan,20885,2
+Chad + France,20570,2
+France + Turks and Caicos Islands,35210,2
+Cayman Islands + France,72880,2
+France + Grenada,25005,2
+Fiji + France,23260,2
+France + Guernsey,46805,2
+Burundi + France,20380,2
+France + Laos,21565,2
+France + Slovenia,35700,2
+France + Reunion,31525,2
+France + Palau,28835,2
+Cape Verde + France,21830,2
+France + Iceland,52655,2
+France + Seychelles,27370,2
+France + Turkmenistan,23725,2
+France + Isle of Man,59545,2
+France + Namibia,23225,2
+France + Guyana,22845,2
+France + Slovakia,29950,2
+Guinea + United Kingdom,22925,2
+Somalia + United Kingdom,22555,2
+Aruba + United Kingdom,39220,2
+Montenegro + United Kingdom,30885,2
+Northern Mariana Islands + United Kingdom,30160,2
+Guatemala + United Kingdom,24750,2
+Afghanistan + United Kingdom,22775,2
+Macedonia + United Kingdom,25665,2
+Bosnia and Herzegovina + United Kingdom,25470,2
+Saint Kitts and Nevis + United Kingdom,31290,2
+Paraguay + United Kingdom,25445,2
+Belize + United Kingdom,24705,2
+Honduras + United Kingdom,23710,2
+Guam + United Kingdom,40510,2
+Haiti + United Kingdom,22960,2
+Kyrgyzstan + United Kingdom,23160,2
+Chad + United Kingdom,22845,2
+Puerto Rico + United Kingdom,45085,2
+Bolivia + United Kingdom,24275,2
+Fiji + United Kingdom,25535,2
+Burundi + United Kingdom,22655,2
+Central African Republic + United Kingdom,22720,2
+Laos + United Kingdom,23840,2
+Slovenia + United Kingdom,37975,2
+Mauritania + United Kingdom,23140,2
+Equatorial Guinea + United Kingdom,27430,2
+Reunion + United Kingdom,33800,2
+Iceland + United Kingdom,54930,2
+Seychelles + United Kingdom,29645,2
+Turkmenistan + United Kingdom,26000,2
+Isle of Man + United Kingdom,61820,2
+Namibia + United Kingdom,25500,2
+Slovakia + United Kingdom,32225,2
+Philippines + Spain,16670,2
+Liberia + Spain,15335,2
+Djibouti + Spain,15950,2
+Spain + Uzbekistan,15825,2
+Oman + Spain,22745,2
+Pakistan + Spain,15660,2
+Macedonia + Spain,18165,2
+Bosnia and Herzegovina + Spain,17970,2
+Spain + Tanzania,15550,2
+Brunei + Spain,29885,2
+Indonesia + Spain,16955,2
+Paraguay + Spain,17945,2
+Haiti + Spain,15460,2
+Spain + Tajikistan,15480,2
+Spain + Turks and Caicos Islands,29985,2
+Spain + Sri Lanka,17045,2
+New Zealand + Spain,35195,2
+Cayman Islands + Spain,67655,2
+Grenada + Spain,19780,2
+Guernsey + Spain,41580,2
+Ethiopia + Spain,15405,2
+Central African Republic + Spain,15220,2
+Congo (Brazzaville) + Spain,16040,2
+Gabon + Spain,18830,2
+Slovenia + Spain,30475,2
+Iceland + Spain,47430,2
+Seychelles + Spain,22145,2
+Spain + Turkmenistan,18500,2
+Isle of Man + Spain,54320,2
+Guyana + Spain,17620,2
+Cyprus + Sierra Leone,12120,2
+Cyprus + Djibouti,12785,2
+Cyprus + Uzbekistan,12660,2
+Antigua and Barbuda + Cyprus,21365,2
+Cyprus + Dominican Republic,15900,2
+Bangladesh + Cyprus,12880,2
+Argentina + Cyprus,16790,2
+Bosnia and Herzegovina + Cyprus,14805,2
+Cyprus + Panama,19580,2
+Cyprus + Jamaica,14410,2
+Cyprus + Trinidad and Tobago,20110,2
+Cyprus + Iran,14535,2
+Bahrain + Cyprus,22925,2
+Albania + Cyprus,14855,2
+Barbados + Cyprus,21085,2
+Cyprus + Luxembourg,67275,2
+Cyprus + Guernsey,38415,2
+Cyprus + Jersey,39010,2
+Cyprus + Zambia,12465,2
+Cyprus + Estonia,23565,2
+Cyprus + Seychelles,18980,2
+Egypt + Philippines,3410,2
+Egypt + Liberia,2075,2
+Egypt + Guinea,2165,2
+Cameroon + Egypt,2545,2
+Burma + Egypt,2435,2
+Egypt + Venezuela,2870,2
+Antigua and Barbuda + Egypt,11270,2
+Egypt + Oman,9485,2
+Egypt + Nepal,2255,2
+Afghanistan + Egypt,2015,2
+Egypt + Pakistan,2400,2
+Egypt + Macedonia,4905,2
+Egypt + Tanzania,2290,2
+Egypt + Indonesia,3695,2
+Armenia + Egypt,3960,2
+Egypt + Jamaica,4315,2
+Egypt + Trinidad and Tobago,10015,2
+Egypt + Kazakhstan,6215,2
+Chad + Egypt,2085,2
+Egypt + Uganda,2110,2
+Barbados + Egypt,10990,2
+Egypt + Guernsey,28320,2
+Egypt + Jersey,28915,2
+Congo (Kinshasa) + Egypt,2005,2
+Central African Republic + Egypt,1960,2
+Congo (Brazzaville) + Egypt,2780,2
+Egypt + Gabon,5570,2
+Egypt + Mauritania,2380,2
+Egypt + Seychelles,8885,2
+Liberia + Sweden,26575,2
+Gambia + Sweden,26470,2
+Guinea + Sweden,26665,2
+Cameroon + Sweden,27045,2
+Djibouti + Sweden,27190,2
+Burma + Sweden,26935,2
+Bahamas + Sweden,41760,2
+Sweden + Uzbekistan,27065,2
+Guadeloupe + Sweden,37590,2
+Martinique + Sweden,38350,2
+Saint Lucia + Sweden,31405,2
+Macedonia + Sweden,29405,2
+Bosnia and Herzegovina + Sweden,29210,2
+Indonesia + Sweden,28195,2
+Chile + Sweden,34775,2
+Sweden + Tajikistan,26720,2
+Puerto Rico + Sweden,48825,2
+Bahrain + Sweden,37330,2
+Bermuda + Sweden,87095,2
+El Salvador + Sweden,28350,2
+Guernsey + Sweden,52820,2
+Ethiopia + Sweden,26645,2
+Congo (Kinshasa) + Sweden,26505,2
+Central African Republic + Sweden,26460,2
+Congo (Brazzaville) + Sweden,27280,2
+Gabon + Sweden,30070,2
+Slovenia + Sweden,41715,2
+Mauritania + Sweden,26880,2
+Sweden + Zambia,26870,2
+Iceland + Sweden,58670,2
+Seychelles + Sweden,33385,2
+Sweden + Turkmenistan,29740,2
+Isle of Man + Sweden,65560,2
+Slovakia + Sweden,35965,2
+Finland + Sierra Leone,25240,2
+Cameroon + Finland,25760,2
+Bahamas + Finland,40475,2
+Finland + Montenegro,33340,2
+Finland + Guadeloupe,36305,2
+Finland + Martinique,37065,2
+Finland + Saint Lucia,30120,2
+Finland + Northern Mariana Islands,32615,2
+Finland + Nepal,25470,2
+Finland + Pakistan,25615,2
+Finland + Macedonia,28120,2
+Bosnia and Herzegovina + Finland,27925,2
+Finland + Tanzania,25505,2
+Finland + Macau,29250,2
+Chile + Finland,33490,2
+Finland + Guam,42965,2
+Finland + Kyrgyzstan,25615,2
+Finland + Puerto Rico,47540,2
+Bahrain + Finland,36045,2
+Finland + New Zealand,45150,2
+Bermuda + Finland,85810,2
+El Salvador + Finland,27065,2
+Fiji + Finland,27990,2
+Finland + Guernsey,51535,2
+Ethiopia + Finland,25360,2
+Finland + Rwanda,25335,2
+Congo (Kinshasa) + Finland,25220,2
+Finland + Slovenia,40430,2
+Finland + Iceland,57385,2
+Finland + Turkmenistan,28455,2
+Finland + Isle of Man,64275,2
+Finland + Slovakia,34680,2
+Liberia + Norway,37580,2
+Gambia + Norway,37475,2
+Guinea + Norway,37670,2
+Cameroon + Norway,38050,2
+Australia + Norway,64695,2
+Norway + Vietnam,38580,2
+Bahamas + Norway,52765,2
+Norway + Uzbekistan,38070,2
+Montenegro + Norway,45630,2
+Guadeloupe + Norway,48595,2
+Martinique + Norway,49355,2
+Norway + Saint Lucia,42410,2
+Macedonia + Norway,40410,2
+Bosnia and Herzegovina + Norway,40215,2
+Norway + Tanzania,37795,2
+Chile + Norway,45780,2
+Norway + Tajikistan,37725,2
+Kazakhstan + Norway,41720,2
+Norway + Puerto Rico,59830,2
+Norway + Sri Lanka,39290,2
+Norway + Uganda,37615,2
+Bermuda + Norway,98100,2
+El Salvador + Norway,39355,2
+Guernsey + Norway,63825,2
+Congo (Kinshasa) + Norway,37510,2
+Central African Republic + Norway,37465,2
+Congo (Brazzaville) + Norway,38285,2
+Gabon + Norway,41075,2
+Norway + Slovenia,52720,2
+Mauritania + Norway,37885,2
+Maldives + Norway,42150,2
+Iceland + Norway,69675,2
+Isle of Man + Norway,76565,2
+Guinea-Bissau + United States,32720,2
+Djibouti + United States,33320,2
+United States + Uzbekistan,33195,2
+Montenegro + United States,40755,2
+French Guiana + United States,40265,2
+Northern Mariana Islands + United States,40030,2
+Nepal + United States,32885,2
+Afghanistan + United States,32645,2
+Pakistan + United States,33030,2
+Macedonia + United States,35535,2
+Bosnia and Herzegovina + United States,35340,2
+Suriname + United States,35930,2
+Kyrgyzstan + United States,33030,2
+British Virgin Islands + United States,48935,2
+Fiji + United States,35405,2
+Guernsey + United States,58950,2
+Rwanda + United States,32750,2
+United States + Zimbabwe,33080,2
+Central African Republic + United States,32590,2
+Congo (Brazzaville) + United States,33410,2
+Slovenia + United States,47845,2
+Equatorial Guinea + United States,37300,2
+Palau + United States,40980,2
+Cape Verde + United States,33975,2
+Iceland + United States,64800,2
+Estonia + United States,44100,2
+Seychelles + United States,39515,2
+Isle of Man + United States,71690,2
+Philippines + Turkey,6195,2
+Northern Mariana Islands + Philippines,9330,2
+Nepal + Philippines,2185,2
+Mexico + Philippines,6285,2
+Algeria + Philippines,3665,2
+Philippines + Poland,9500,2
+Denmark + Philippines,32185,2
+Philippines + Tajikistan,2150,2
+Iran + Philippines,4370,2
+Philippines + Qatar,266845,2
+New Zealand + Philippines,21865,2
+Ethiopia + Philippines,2075,2
+Angola + Philippines,3015,2
+Laos + Philippines,3010,2
+Palau + Philippines,10280,2
+Guinea-Bissau + United Arab Emirates,21635,2
+Aruba + United Arab Emirates,38005,2
+United Arab Emirates + Uzbekistan,22110,2
+Montenegro + United Arab Emirates,29670,2
+Northern Mariana Islands + United Arab Emirates,28945,2
+Costa Rica + United Arab Emirates,27275,2
+Macedonia + United Arab Emirates,24450,2
+Bosnia and Herzegovina + United Arab Emirates,24255,2
+United Arab Emirates + Uruguay,29785,2
+Haiti + United Arab Emirates,21745,2
+Chad + United Arab Emirates,21630,2
+Puerto Rico + United Arab Emirates,43870,2
+Turks and Caicos Islands + United Arab Emirates,36270,2
+Cayman Islands + United Arab Emirates,73940,2
+Grenada + United Arab Emirates,26065,2
+Fiji + United Arab Emirates,24320,2
+Guernsey + United Arab Emirates,47865,2
+Burundi + United Arab Emirates,21440,2
+Central African Republic + United Arab Emirates,21505,2
+Laos + United Arab Emirates,22625,2
+Equatorial Guinea + United Arab Emirates,26215,2
+Malawi + United Arab Emirates,21485,2
+Reunion + United Arab Emirates,32585,2
+Palau + United Arab Emirates,29895,2
+Cape Verde + United Arab Emirates,22890,2
+Turkmenistan + United Arab Emirates,24785,2
+Isle of Man + United Arab Emirates,60605,2
+Namibia + United Arab Emirates,24285,2
+Botswana + United Arab Emirates,25035,2
+Guyana + United Arab Emirates,23905,2
+Brazil + Liberia,4630,2
+Brazil + Gambia,4525,2
+Brazil + Guinea,4720,2
+Brazil + Cameroon,5100,2
+Brazil + Djibouti,5245,2
+Brazil + Nicaragua,5280,2
+Brazil + Tanzania,4845,2
+Belize + Brazil,6500,2
+Brazil + Georgia,6510,2
+Armenia + Brazil,6515,2
+Brazil + Iran,6995,2
+Brazil + Turks and Caicos Islands,19280,2
+Bahrain + Brazil,15385,2
+Brazil + Sri Lanka,6340,2
+Albania + Brazil,7315,2
+Brazil + Uganda,4665,2
+Brazil + Cayman Islands,56950,2
+Brazil + Grenada,9075,2
+Brazil + Guernsey,30875,2
+Brazil + Jersey,31470,2
+Brazil + Central African Republic,4515,2
+Brazil + Gabon,8125,2
+Brazil + Mauritania,4935,2
+Brazil + Zambia,4925,2
+Brazil + Seychelles,11440,2
+Brazil + Guyana,6915,2
+Gambia + Nigeria,1320,2
+Guinea-Bissau + Nigeria,1440,2
+Djibouti + Nigeria,2040,2
+Australia + Nigeria,28540,2
+Nigeria + Vietnam,2425,2
+Croatia + Nigeria,8690,2
+Bahamas + Nigeria,16610,2
+Antigua and Barbuda + Nigeria,10620,2
+Guadeloupe + Nigeria,12440,2
+Martinique + Nigeria,13200,2
+Nigeria + Saint Lucia,6255,2
+Cuba + Nigeria,5515,2
+Nigeria + Serbia,4835,2
+Nigeria + Panama,8835,2
+Chile + Nigeria,9625,2
+Georgia + Nigeria,3305,2
+Armenia + Nigeria,3310,2
+Jamaica + Nigeria,3665,2
+Nigeria + Trinidad and Tobago,9365,2
+Iran + Nigeria,3790,2
+Bahrain + Nigeria,12180,2
+Nigeria + Sri Lanka,3135,2
+Albania + Nigeria,4110,2
+Nigeria + Uganda,1460,2
+Bermuda + Nigeria,61945,2
+Barbados + Nigeria,10340,2
+Maldives + Nigeria,5995,2
+Cape Verde + Nigeria,2695,2
+Gambia + Liberia,565,2
+Guinea + Liberia,760,2
+Canada + Liberia,23100,2
+Liberia + Saudi Arabia,11615,2
+Germany + Liberia,23530,2
+Liberia + Netherlands,26915,2
+Liberia + Turkey,4860,2
+Liberia + Portugal,11855,2
+Liberia + Tunisia,2030,2
+Denmark + Liberia,30850,2
+Angola + Liberia,1680,2
+Congo (Kinshasa) + Liberia,600,2
+Lebanon + Liberia,4550,2
+Central African Republic + Liberia,555,2
+Congo (Brazzaville) + Liberia,1375,2
+Liberia + Mauritania,975,2
+Equatorial Guinea + Liberia,5265,2
+Gambia + Sierra Leone,515,2
+Cameroon + Gambia,1035,2
+Canada + Gambia,22995,2
+Gambia + Germany,23425,2
+Gambia + Portugal,11750,2
+Denmark + Gambia,30745,2
+Gambia + Mauritania,870,2
+Kenya + Sierra Leone,1165,2
+Sierra Leone + Thailand,4225,2
+Sierra Leone + Singapore,42270,2
+China + Sierra Leone,5305,2
+Hong Kong + Sierra Leone,24420,2
+Japan + Sierra Leone,20395,2
+Malaysia + Sierra Leone,5850,2
+Croatia + Sierra Leone,7885,2
+Austria + Sierra Leone,25845,2
+Sierra Leone + South Korea,16630,2
+Israel + Sierra Leone,22025,2
+India + Sierra Leone,1345,2
+Argentina + Sierra Leone,5240,2
+Mexico + Sierra Leone,4900,2
+Greece + Sierra Leone,10470,2
+Hungary + Sierra Leone,8985,2
+Ireland + Sierra Leone,39015,2
+Czech Republic + Sierra Leone,11875,2
+Sierra Leone + Tunisia,1980,2
+Poland + Sierra Leone,8115,2
+Sierra Leone + South Africa,3210,2
+Latvia + Sierra Leone,9495,2
+Sierra Leone + Ukraine,2115,2
+Libya + Sierra Leone,3910,2
+Jordan + Sierra Leone,2475,2
+Moldova + Sierra Leone,2530,2
+Romania + Sierra Leone,6665,2
+Bulgaria + Sierra Leone,5140,2
+Luxembourg + Sierra Leone,55725,2
+Malta + Sierra Leone,15765,2
+Congo (Kinshasa) + Sierra Leone,550,2
+Central African Republic + Sierra Leone,505,2
+Congo (Brazzaville) + Sierra Leone,1325,2
+Gabon + Sierra Leone,4115,2
+Mauritius + Sierra Leone,6035,2
+Belarus + Sierra Leone,3620,2
+Guinea + Guinea-Bissau,775,2
+Canada + Guinea,23190,2
+Guinea + Saudi Arabia,11705,2
+Germany + Guinea,23620,2
+Guinea + Netherlands,27005,2
+Guinea + Turkey,4950,2
+Guinea + Portugal,11945,2
+Guinea + Tunisia,2120,2
+Denmark + Guinea,30940,2
+Angola + Guinea,1770,2
+Congo (Kinshasa) + Guinea,690,2
+Guinea + Lebanon,4640,2
+Central African Republic + Guinea,645,2
+Congo (Brazzaville) + Guinea,1465,2
+Gabon + Guinea,4255,2
+Cameroon + Guinea-Bissau,1155,2
+Belgium + Guinea-Bissau,23395,2
+Algeria + Guinea-Bissau,2345,2
+Cameroon + Saudi Arabia,12085,2
+Cameroon + Kenya,1685,2
+Cameroon + Netherlands,27385,2
+Cameroon + Turkey,5330,2
+Cameroon + India,1865,2
+Cameroon + Greece,10990,2
+Cameroon + Ireland,39535,2
+Cameroon + Tunisia,2500,2
+Cameroon + South Africa,3730,2
+Cameroon + Latvia,10015,2
+Cameroon + Lebanon,5020,2
+Cameroon + Cape Verde,2410,2
+Canada + Djibouti,23715,2
+Canada + French Guiana,30660,2
+Canada + Northern Mariana Islands,30425,2
+Canada + Pakistan,23425,2
+Canada + Macedonia,25930,2
+Canada + Saint Kitts and Nevis,31555,2
+Armenia + Canada,24985,2
+Canada + Kazakhstan,27240,2
+Bahrain + Canada,33855,2
+Canada + Sri Lanka,24810,2
+Albania + Canada,25785,2
+Canada + French Polynesia,33410,2
+Canada + Fiji,25800,2
+Canada + Guernsey,49345,2
+Canada + Ethiopia,23170,2
+Canada + Rwanda,23145,2
+Canada + Central African Republic,22985,2
+Canada + Congo (Brazzaville),23805,2
+Canada + Gabon,26595,2
+Canada + Mauritania,23405,2
+Canada + Zambia,23395,2
+Canada + Palau,31375,2
+Canada + Seychelles,29910,2
+Canada + Isle of Man,62085,2
+Djibouti + Somalia,1005,2
+Djibouti + Thailand,4890,2
+Djibouti + Singapore,42935,2
+China + Djibouti,5970,2
+Djibouti + Japan,21060,2
+Djibouti + Taiwan,14780,2
+Djibouti + Vietnam,2285,2
+Austria + Djibouti,26510,2
+Belgium + Djibouti,23995,2
+Djibouti + South Korea,17295,2
+Bangladesh + Djibouti,1995,2
+Algeria + Djibouti,2945,2
+Djibouti + Greece,11135,2
+Djibouti + Ireland,39680,2
+Djibouti + Portugal,12470,2
+Czech Republic + Djibouti,12540,2
+Djibouti + Tunisia,2645,2
+Djibouti + Poland,8780,2
+Brunei + Djibouti,15835,2
+Djibouti + South Africa,3875,2
+Denmark + Djibouti,31465,2
+Djibouti + Ukraine,2780,2
+Djibouti + Libya,4575,2
+Djibouti + Jordan,3140,2
+Chad + Djibouti,1295,2
+Djibouti + Kuwait,17770,2
+Djibouti + Malta,16430,2
+Djibouti + Ethiopia,1355,2
+Angola + Djibouti,2295,2
+Djibouti + Lebanon,5165,2
+Djibouti + Mauritius,6700,2
+Belarus + Djibouti,4285,2
+Saudi Arabia + Somalia,11335,2
+Saudi Arabia + Venezuela,12410,2
+Antigua and Barbuda + Saudi Arabia,20810,2
+Afghanistan + Saudi Arabia,11555,2
+Panama + Saudi Arabia,19025,2
+Armenia + Saudi Arabia,13500,2
+Jamaica + Saudi Arabia,13855,2
+Saudi Arabia + Trinidad and Tobago,19555,2
+Iran + Saudi Arabia,13980,2
+Chad + Saudi Arabia,11625,2
+Albania + Saudi Arabia,14300,2
+Barbados + Saudi Arabia,20530,2
+Guernsey + Saudi Arabia,37860,2
+Jersey + Saudi Arabia,38455,2
+Congo (Kinshasa) + Saudi Arabia,11545,2
+Central African Republic + Saudi Arabia,11500,2
+Congo (Brazzaville) + Saudi Arabia,12320,2
+Gabon + Saudi Arabia,15110,2
+Mauritania + Saudi Arabia,11920,2
+Saudi Arabia + Zambia,11910,2
+Saudi Arabia + Seychelles,18425,2
+Somalia + Thailand,3995,2
+China + Somalia,5075,2
+Germany + Somalia,23250,2
+Netherlands + Somalia,26635,2
+Belgium + Somalia,23100,2
+India + Somalia,1115,2
+Somalia + Tanzania,605,2
+Somalia + Zambia,685,2
+Antigua and Barbuda + Kenya,10410,2
+Dominican Republic + Kenya,4945,2
+Kenya + Oman,8625,2
+Kenya + Nepal,1395,2
+Argentina + Kenya,5835,2
+Cuba + Kenya,5305,2
+Afghanistan + Kenya,1155,2
+Kenya + Serbia,4625,2
+Kenya + Panama,8625,2
+Indonesia + Kenya,2835,2
+Jamaica + Kenya,3455,2
+Kenya + Trinidad and Tobago,9155,2
+Kazakhstan + Kenya,5355,2
+Iran + Kenya,3580,2
+Kenya + Libya,4505,2
+Barbados + Kenya,10130,2
+Kenya + Luxembourg,56320,2
+Guernsey + Kenya,27460,2
+Jersey + Kenya,28055,2
+Kenya + Lithuania,10525,2
+Congo (Kinshasa) + Kenya,1145,2
+Kenya + Mayotte,1895,2
+Comoros + Kenya,1650,2
+Kenya + Malawi,1080,2
+Kenya + Seychelles,8025,2
+Botswana + Kenya,4630,2
+Thailand + Uzbekistan,4765,2
+Northern Mariana Islands + Thailand,11600,2
+Argentina + Thailand,8895,2
+Cuba + Thailand,8365,2
+Panama + Thailand,11685,2
+Armenia + Thailand,6160,2
+Kyrgyzstan + Thailand,4600,2
+Iran + Thailand,6640,2
+Libya + Thailand,7565,2
+Romania + Thailand,10320,2
+Luxembourg + Thailand,59380,2
+Rwanda + Thailand,4320,2
+Thailand + Zimbabwe,4650,2
+Laos + Thailand,5280,2
+Slovenia + Thailand,19415,2
+Palau + Thailand,12550,2
+Iceland + Thailand,36370,2
+Estonia + Thailand,15670,2
+Northern Mariana Islands + Singapore,49645,2
+Argentina + Singapore,46940,2
+Afghanistan + Singapore,42260,2
+Singapore + Tunisia,43680,2
+Georgia + Singapore,44200,2
+Kazakhstan + Singapore,46460,2
+Iran + Singapore,44685,2
+Libya + Singapore,45610,2
+Moldova + Singapore,44230,2
+Romania + Singapore,48365,2
+Singapore + Uganda,42355,2
+Luxembourg + Singapore,97425,2
+Laos + Singapore,43325,2
+Singapore + Slovenia,57460,2
+Palau + Singapore,50595,2
+Australia + Bahamas,42970,2
+Aruba + Australia,44170,2
+Antigua and Barbuda + Australia,36980,2
+Australia + Guadeloupe,38800,2
+Australia + Martinique,39560,2
+Australia + Dominican Republic,31515,2
+Australia + Saint Lucia,32615,2
+Australia + Oman,35195,2
+Australia + Costa Rica,33440,2
+Afghanistan + Australia,27725,2
+Australia + Greece,37635,2
+Australia + Portugal,38970,2
+Australia + Panama,35195,2
+Australia + Chile,35985,2
+Australia + Jamaica,30025,2
+Australia + Trinidad and Tobago,35725,2
+Australia + Haiti,27910,2
+Australia + Iran,30150,2
+Australia + Turks and Caicos Islands,42435,2
+Australia + Kuwait,44270,2
+Australia + Bahrain,38540,2
+Australia + French Polynesia,38095,2
+Australia + Bermuda,88305,2
+Australia + Barbados,36700,2
+Australia + Cayman Islands,80105,2
+Australia + El Salvador,29560,2
+Australia + Grenada,32230,2
+Australia + Fiji,30485,2
+Angola + Australia,28795,2
+Australia + Laos,28790,2
+Australia + Mauritius,33200,2
+Australia + Guyana,30070,2
+Australia + Papua New Guinea,28755,2
+Aruba + China,21740,2
+China + Uzbekistan,5845,2
+China + Montenegro,13405,2
+China + Northern Mariana Islands,12680,2
+China + Guatemala,7270,2
+China + Macedonia,8185,2
+Bosnia and Herzegovina + China,7990,2
+Belize + China,7225,2
+China + Honduras,6230,2
+China + Haiti,5480,2
+China + Puerto Rico,27605,2
+China + Turks and Caicos Islands,20005,2
+Albania + China,8040,2
+China + French Polynesia,15665,2
+Cayman Islands + China,57675,2
+China + Grenada,9800,2
+China + Fiji,8055,2
+China + Guernsey,31600,2
+China + Jersey,32195,2
+China + Rwanda,5400,2
+China + Laos,6360,2
+China + Congo (Brazzaville),6060,2
+China + Slovenia,20495,2
+China + Palau,13630,2
+China + Seychelles,12165,2
+China + Namibia,8020,2
+China + Guyana,7640,2
+China + Mongolia,7005,2
+Aruba + Hong Kong,40855,2
+Hong Kong + Uzbekistan,24960,2
+Hong Kong + Montenegro,32520,2
+Hong Kong + Northern Mariana Islands,31795,2
+Costa Rica + Hong Kong,30125,2
+Afghanistan + Hong Kong,24410,2
+Haiti + Hong Kong,24595,2
+Hong Kong + Kyrgyzstan,24795,2
+Chad + Hong Kong,24480,2
+Hong Kong + Puerto Rico,46720,2
+Hong Kong + Turks and Caicos Islands,39120,2
+Albania + Hong Kong,27155,2
+French Polynesia + Hong Kong,34780,2
+Cayman Islands + Hong Kong,76790,2
+El Salvador + Hong Kong,26245,2
+Grenada + Hong Kong,28915,2
+Guernsey + Hong Kong,50715,2
+Hong Kong + Jersey,51310,2
+Hong Kong + Lithuania,33780,2
+Congo (Kinshasa) + Hong Kong,24400,2
+Hong Kong + Zimbabwe,24845,2
+Hong Kong + Laos,25475,2
+Hong Kong + Slovenia,39610,2
+Hong Kong + Palau,32745,2
+Hong Kong + Seychelles,31280,2
+Guyana + Hong Kong,26755,2
+Aruba + Japan,36830,2
+Japan + Northern Mariana Islands,27770,2
+Japan + Oman,27855,2
+Guatemala + Japan,22360,2
+Afghanistan + Japan,20385,2
+Japan + Serbia,23855,2
+Belize + Japan,22315,2
+Honduras + Japan,21320,2
+Armenia + Japan,22330,2
+Haiti + Japan,20570,2
+Japan + Kazakhstan,24585,2
+Japan + Turks and Caicos Islands,35095,2
+Albania + Japan,23130,2
+Japan + Uganda,20480,2
+Cayman Islands + Japan,72765,2
+Grenada + Japan,24890,2
+Fiji + Japan,23145,2
+Japan + Laos,21450,2
+Japan + Slovenia,35585,2
+Japan + Palau,28720,2
+Guyana + Japan,22730,2
+Croatia + Taiwan,21430,2
+Bahamas + Taiwan,29350,2
+Aruba + Taiwan,30550,2
+Taiwan + Venezuela,14960,2
+Saint Lucia + Taiwan,18995,2
+Northern Mariana Islands + Taiwan,21490,2
+Oman + Taiwan,21575,2
+Argentina + Taiwan,18785,2
+Costa Rica + Taiwan,19820,2
+Afghanistan + Taiwan,14105,2
+Serbia + Taiwan,17575,2
+Hungary + Taiwan,22530,2
+Haiti + Taiwan,14290,2
+Iran + Taiwan,16530,2
+Taiwan + Ukraine,15660,2
+Puerto Rico + Taiwan,36415,2
+Taiwan + Turks and Caicos Islands,28815,2
+Moldova + Taiwan,16075,2
+Romania + Taiwan,20210,2
+Bahrain + Taiwan,24920,2
+Bulgaria + Taiwan,18685,2
+Taiwan + Uganda,14200,2
+Bermuda + Taiwan,74685,2
+Cayman Islands + Taiwan,66485,2
+El Salvador + Taiwan,15940,2
+Grenada + Taiwan,18610,2
+Fiji + Taiwan,16865,2
+Lebanon + Taiwan,18045,2
+Laos + Taiwan,15170,2
+Taiwan + Zambia,14460,2
+Palau + Taiwan,22440,2
+Seychelles + Taiwan,20975,2
+Guyana + Taiwan,16450,2
+Antigua and Barbuda + Malaysia,15095,2
+Dominican Republic + Malaysia,9630,2
+Malaysia + Northern Mariana Islands,13225,2
+Argentina + Malaysia,10520,2
+Cuba + Malaysia,9990,2
+Afghanistan + Malaysia,5840,2
+Malaysia + Serbia,9310,2
+Malaysia + Panama,13310,2
+Jamaica + Malaysia,8140,2
+Malaysia + Trinidad and Tobago,13840,2
+Kazakhstan + Malaysia,10040,2
+Iran + Malaysia,8265,2
+Chad + Malaysia,5910,2
+Barbados + Malaysia,14815,2
+Luxembourg + Malaysia,61005,2
+Guernsey + Malaysia,32145,2
+Jersey + Malaysia,32740,2
+Laos + Malaysia,6905,2
+Malaysia + Zambia,6195,2
+Malaysia + Palau,14175,2
+Malaysia + Seychelles,12710,2
+Austria + Cambodia,26370,2
+Cambodia + Nepal,1325,2
+Cambodia + Guam,18820,2
+Cambodia + Sri Lanka,2855,2
+Burma + Turkey,5220,2
+Burma + Oman,8440,2
+Burma + Pakistan,1355,2
+Burma + South Africa,3620,2
+Burma + Guam,18705,2
+Burma + Tajikistan,1175,2
+Burma + Kuwait,17515,2
+Burma + Qatar,265870,2
+Burma + Ethiopia,1100,2
+Burma + Laos,2035,2
+Burma + Maldives,5600,2
+Croatia + Vietnam,8935,2
+Dominican Republic + Vietnam,5400,2
+Northern Mariana Islands + Vietnam,8995,2
+Nepal + Vietnam,1850,2
+Cuba + Vietnam,5760,2
+Pakistan + Vietnam,1995,2
+Serbia + Vietnam,5080,2
+Hungary + Vietnam,10035,2
+Tanzania + Vietnam,1885,2
+Georgia + Vietnam,3550,2
+Latvia + Vietnam,10545,2
+Guam + Vietnam,19345,2
+Tajikistan + Vietnam,1815,2
+Iran + Vietnam,4035,2
+Ukraine + Vietnam,3165,2
+Moldova + Vietnam,3580,2
+Romania + Vietnam,7715,2
+Bulgaria + Vietnam,6190,2
+New Zealand + Vietnam,21530,2
+Malta + Vietnam,16815,2
+Ethiopia + Vietnam,1740,2
+Lebanon + Vietnam,5550,2
+Palau + Vietnam,9945,2
+Seychelles + Vietnam,8480,2
+Germany + Montenegro,31580,2
+Dominica + Germany,27120,2
+Afghanistan + Germany,23470,2
+Germany + Pakistan,23855,2
+Germany + Macedonia,26360,2
+Bosnia and Herzegovina + Germany,26165,2
+Germany + Uruguay,31695,2
+Belize + Germany,25400,2
+Germany + Honduras,24405,2
+Germany + Suriname,26755,2
+Germany + Kyrgyzstan,23855,2
+Chad + Germany,23540,2
+Germany + Virgin Islands,43960,2
+Germany + Turks and Caicos Islands,38180,2
+Bolivia + Germany,24970,2
+Cayman Islands + Germany,75850,2
+Fiji + Germany,26230,2
+Burundi + Germany,23350,2
+Germany + Zimbabwe,23905,2
+Central African Republic + Germany,23415,2
+Congo (Brazzaville) + Germany,24235,2
+Gabon + Germany,27025,2
+Germany + Slovenia,38670,2
+Germany + Mauritania,23835,2
+Germany + Reunion,34495,2
+Germany + Iceland,55625,2
+Germany + Seychelles,30340,2
+Germany + Turkmenistan,26695,2
+Germany + Isle of Man,62515,2
+Germany + Slovakia,32920,2
+Antigua and Barbuda + Croatia,17130,2
+Croatia + Dominican Republic,11665,2
+Argentina + Croatia,12555,2
+Croatia + Cuba,12025,2
+Bosnia and Herzegovina + Croatia,10570,2
+Croatia + Tunisia,9295,2
+Croatia + South Africa,10525,2
+Croatia + Jamaica,10175,2
+Croatia + Trinidad and Tobago,15875,2
+Barbados + Croatia,16850,2
+Croatia + Luxembourg,63040,2
+Croatia + Guernsey,34180,2
+Angola + Croatia,8945,2
+Croatia + Lebanon,11815,2
+Croatia + Slovenia,23075,2
+Croatia + Maldives,12505,2
+Croatia + Iceland,40030,2
+Croatia + Estonia,19330,2
+Croatia + Isle of Man,46920,2
+Austria + Bahamas,41080,2
+Austria + Venezuela,26690,2
+Austria + Uzbekistan,26385,2
+Austria + Guadeloupe,36910,2
+Austria + Martinique,37670,2
+Austria + Saint Lucia,30725,2
+Austria + Oman,33305,2
+Austria + Nepal,26075,2
+Afghanistan + Austria,25835,2
+Austria + Macedonia,28725,2
+Austria + Bosnia and Herzegovina,28530,2
+Austria + Panama,33305,2
+Austria + Tanzania,26110,2
+Austria + Macau,29855,2
+Austria + Chile,34095,2
+Austria + Uganda,25930,2
+Austria + New Zealand,45755,2
+Austria + Bermuda,86415,2
+Austria + El Salvador,27670,2
+Austria + Guernsey,52140,2
+Austria + Slovenia,41035,2
+Austria + Iceland,57990,2
+Austria + Seychelles,32705,2
+Austria + Turkmenistan,29060,2
+Austria + Isle of Man,64880,2
+Bahamas + Turkey,20045,2
+Bahamas + Guadeloupe,26870,2
+Bahamas + India,16580,2
+Bahamas + Guatemala,17770,2
+Algeria + Bahamas,17515,2
+Bahamas + Greece,25705,2
+Bahamas + Portugal,27040,2
+Bahamas + Poland,23350,2
+Bahamas + Nicaragua,16505,2
+Bahamas + Uruguay,24020,2
+Bahamas + Paraguay,18465,2
+Bahamas + Honduras,16730,2
+Bahamas + South Africa,18445,2
+Bahamas + Puerto Rico,38105,2
+Bahamas + Bolivia,17295,2
+Bahamas + Grenada,20300,2
+Angola + Bahamas,16865,2
+Bahamas + Guyana,18140,2
+Netherlands + Uzbekistan,27405,2
+Guatemala + Netherlands,28830,2
+Afghanistan + Netherlands,26855,2
+Bosnia and Herzegovina + Netherlands,29550,2
+Netherlands + Nicaragua,27565,2
+Honduras + Netherlands,27790,2
+Chad + Netherlands,26925,2
+Netherlands + Turks and Caicos Islands,41565,2
+Albania + Netherlands,29600,2
+Cayman Islands + Netherlands,79235,2
+Grenada + Netherlands,31360,2
+Fiji + Netherlands,29615,2
+Guernsey + Netherlands,53160,2
+Burundi + Netherlands,26735,2
+Netherlands + Rwanda,26960,2
+Central African Republic + Netherlands,26800,2
+Laos + Netherlands,27920,2
+Congo (Brazzaville) + Netherlands,27620,2
+Gabon + Netherlands,30410,2
+Netherlands + Slovenia,42055,2
+Mauritania + Netherlands,27220,2
+Malawi + Netherlands,26780,2
+Iceland + Netherlands,59010,2
+Netherlands + Seychelles,33725,2
+Netherlands + Turkmenistan,30080,2
+Isle of Man + Netherlands,65900,2
+Guyana + Netherlands,29200,2
+Aruba + Morocco,18330,2
+Montenegro + Morocco,9995,2
+Costa Rica + Morocco,7600,2
+Macedonia + Morocco,4775,2
+Bosnia and Herzegovina + Morocco,4580,2
+Brunei + Morocco,16495,2
+Morocco + Uruguay,10110,2
+Haiti + Morocco,2070,2
+Kazakhstan + Morocco,6085,2
+Iran + Morocco,4310,2
+Chad + Morocco,1955,2
+Morocco + Puerto Rico,24195,2
+Morocco + Turks and Caicos Islands,16595,2
+Bahrain + Morocco,12700,2
+Morocco + Sri Lanka,3655,2
+Albania + Morocco,4630,2
+Cayman Islands + Morocco,54265,2
+Grenada + Morocco,6390,2
+Guernsey + Morocco,28190,2
+Jersey + Morocco,28785,2
+Ethiopia + Morocco,2015,2
+Morocco + Rwanda,1990,2
+Morocco + Zimbabwe,2320,2
+Morocco + Seychelles,8755,2
+Guyana + Morocco,4230,2
+Morocco + Sao Tome and Principe,2635,2
+Aruba + Belgium,39765,2
+Belgium + Oman,30790,2
+Belgium + Costa Rica,29035,2
+Afghanistan + Belgium,23320,2
+Armenia + Belgium,25265,2
+Belgium + Haiti,23505,2
+Belgium + Tajikistan,23525,2
+Belgium + Iran,25745,2
+Belgium + Puerto Rico,45630,2
+Belgium + Turks and Caicos Islands,38030,2
+Belgium + Cayman Islands,75700,2
+Belgium + Grenada,27825,2
+Belgium + Guernsey,49625,2
+Belgium + Ethiopia,23450,2
+Belgium + Burundi,23200,2
+Belgium + Zimbabwe,23755,2
+Belgium + Slovenia,38520,2
+Belgium + Cape Verde,24650,2
+Belgium + Estonia,34775,2
+Belgium + Seychelles,30190,2
+Belgium + Isle of Man,62365,2
+Belgium + Guyana,25665,2
+Turkey + Venezuela,5655,2
+Montenegro + Turkey,12910,2
+Guadeloupe + Turkey,15875,2
+Martinique + Turkey,16635,2
+Saint Lucia + Turkey,9690,2
+Oman + Turkey,12270,2
+Nepal + Turkey,5040,2
+Afghanistan + Turkey,4800,2
+Pakistan + Turkey,5185,2
+Macedonia + Turkey,7690,2
+Panama + Turkey,12270,2
+Tanzania + Turkey,5075,2
+Indonesia + Turkey,6480,2
+Chile + Turkey,13060,2
+Chad + Turkey,4870,2
+Turkey + Uganda,4895,2
+New Zealand + Turkey,24720,2
+Bermuda + Turkey,65380,2
+Guernsey + Turkey,31105,2
+Congo (Kinshasa) + Turkey,4790,2
+Central African Republic + Turkey,4745,2
+Congo (Brazzaville) + Turkey,5565,2
+Gabon + Turkey,8355,2
+Slovenia + Turkey,20000,2
+Mauritania + Turkey,5165,2
+Iceland + Turkey,36955,2
+Seychelles + Turkey,11670,2
+Turkey + Turkmenistan,8025,2
+Isle of Man + Turkey,43845,2
+Aruba + Saint Lucia,21885,2
+Aruba + South Korea,33065,2
+Aruba + Israel,38460,2
+Aruba + Ireland,55450,2
+Aruba + Nicaragua,17705,2
+Aruba + Uruguay,25220,2
+Aruba + Paraguay,19665,2
+Aruba + Honduras,17930,2
+Aruba + Denmark,47235,2
+Aruba + Jordan,18910,2
+Aruba + Turks and Caicos Islands,31705,2
+Aruba + Bermuda,77575,2
+Aruba + Cayman Islands,69375,2
+Aruba + Grenada,21500,2
+Aruba + Guyana,19340,2
+Antigua and Barbuda + Venezuela,10660,2
+Dominica + Venezuela,5055,2
+Saint Lucia + Venezuela,6295,2
+Serbia + Venezuela,4875,2
+Algeria + Venezuela,3125,2
+Hungary + Venezuela,9830,2
+Czech Republic + Venezuela,12720,2
+Tunisia + Venezuela,2825,2
+Poland + Venezuela,8960,2
+Nicaragua + Venezuela,2115,2
+Saint Kitts and Nevis + Venezuela,9920,2
+Belize + Venezuela,3335,2
+South Africa + Venezuela,4055,2
+Georgia + Venezuela,3345,2
+Armenia + Venezuela,3350,2
+Latvia + Venezuela,10340,2
+Suriname + Venezuela,4690,2
+Ukraine + Venezuela,2960,2
+Venezuela + Virgin Islands,21895,2
+Moldova + Venezuela,3375,2
+Romania + Venezuela,7510,2
+Qatar + Venezuela,266305,2
+Bulgaria + Venezuela,5985,2
+Grenada + Venezuela,5910,2
+Luxembourg + Venezuela,56570,2
+Malta + Venezuela,16610,2
+Angola + Venezuela,2475,2
+Lebanon + Venezuela,5345,2
+Belarus + Venezuela,4465,2
+Guyana + Venezuela,3750,2
+Israel + Uzbekistan,22565,2
+Algeria + Uzbekistan,2820,2
+Greece + Uzbekistan,11010,2
+Czech Republic + Uzbekistan,12415,2
+Poland + Uzbekistan,8655,2
+Denmark + Uzbekistan,31340,2
+Tajikistan + Uzbekistan,1305,2
+Kazakhstan + Uzbekistan,5300,2
+Kyrgyzstan + Uzbekistan,1485,2
+Moldova + Uzbekistan,3070,2
+Belarus + Uzbekistan,4160,2
+Cuba + Montenegro,12810,2
+Algeria + Montenegro,10380,2
+Greece + Montenegro,18570,2
+Czech Republic + Montenegro,19975,2
+Montenegro + Tunisia,10080,2
+Georgia + Montenegro,10600,2
+Armenia + Montenegro,10605,2
+Latvia + Montenegro,17595,2
+Moldova + Montenegro,10630,2
+Belarus + Montenegro,11720,2
+Antigua and Barbuda + Hungary,18230,2
+Antigua and Barbuda + Czech Republic,21120,2
+Antigua and Barbuda + Saint Kitts and Nevis,18320,2
+Antigua and Barbuda + Chile,18065,2
+Antigua and Barbuda + South Africa,12455,2
+Antigua and Barbuda + Latvia,18740,2
+Antigua and Barbuda + Turks and Caicos Islands,24515,2
+Antigua and Barbuda + Moldova,11775,2
+Antigua and Barbuda + Romania,15910,2
+Antigua and Barbuda + Qatar,274705,2
+Antigua and Barbuda + Bulgaria,14385,2
+Antigua and Barbuda + Cayman Islands,62185,2
+Antigua and Barbuda + El Salvador,11640,2
+Antigua and Barbuda + Guernsey,36110,2
+Antigua and Barbuda + Jersey,36705,2
+Antigua and Barbuda + Mauritius,15280,2
+Antigua and Barbuda + Maldives,14435,2
+Antigua and Barbuda + Belarus,12865,2
+French Guiana + Guadeloupe,19245,2
+Guadeloupe + India,12410,2
+Algeria + Guadeloupe,13345,2
+Greece + Guadeloupe,21535,2
+Guadeloupe + Portugal,22870,2
+Guadeloupe + Poland,19180,2
+Guadeloupe + South Africa,14275,2
+Guadeloupe + Virgin Islands,32115,2
+Guadeloupe + Turks and Caicos Islands,26335,2
+Bermuda + Guadeloupe,72205,2
+Cayman Islands + Guadeloupe,64005,2
+El Salvador + Guadeloupe,13460,2
+Grenada + Guadeloupe,16130,2
+Guadeloupe + Guyana,13970,2
+Dominican Republic + French Guiana,11960,2
+Cuba + French Guiana,12320,2
+Dominica + Martinique,16035,2
+Martinique + Saint Lucia,17275,2
+India + Martinique,13170,2
+Algeria + Martinique,14105,2
+Greece + Martinique,22295,2
+Martinique + Portugal,23630,2
+Martinique + Poland,19940,2
+Martinique + Saint Kitts and Nevis,20900,2
+Martinique + South Africa,15035,2
+Martinique + Virgin Islands,32875,2
+Martinique + Turks and Caicos Islands,27095,2
+Bermuda + Martinique,72965,2
+Cayman Islands + Martinique,64765,2
+El Salvador + Martinique,14220,2
+Angola + Martinique,13455,2
+Guyana + Martinique,14730,2
+Dominican Republic + South Africa,6990,2
+Dominican Republic + Georgia,6280,2
+Armenia + Dominican Republic,6285,2
+Dominican Republic + Ukraine,5895,2
+Dominican Republic + Virgin Islands,24830,2
+Dominican Republic + Turks and Caicos Islands,19050,2
+Bermuda + Dominican Republic,64920,2
+Cayman Islands + Dominican Republic,56720,2
+Dominican Republic + Grenada,8845,2
+Dominican Republic + Luxembourg,59505,2
+Dominican Republic + Malta,19545,2
+Dominican Republic + Lebanon,8280,2
+Dominican Republic + Mauritius,9815,2
+Dominican Republic + Guyana,6685,2
+Dominica + Panama,11670,2
+Dominica + Haiti,4385,2
+India + Saint Lucia,6225,2
+Argentina + Saint Lucia,10120,2
+Cuba + Saint Lucia,9590,2
+Costa Rica + Saint Lucia,11155,2
+Algeria + Saint Lucia,7160,2
+Greece + Saint Lucia,15350,2
+Portugal + Saint Lucia,16685,2
+Poland + Saint Lucia,12995,2
+Chile + Saint Lucia,13700,2
+Saint Lucia + South Africa,8090,2
+Haiti + Saint Lucia,5625,2
+Puerto Rico + Saint Lucia,27750,2
+Saint Lucia + Turks and Caicos Islands,20150,2
+Cayman Islands + Saint Lucia,57820,2
+El Salvador + Saint Lucia,7275,2
+Northern Mariana Islands + South Korea,24005,2
+India + Northern Mariana Islands,8720,2
+Mexico + Northern Mariana Islands,12275,2
+Oman + South Korea,24090,2
+Costa Rica + South Korea,22335,2
+Afghanistan + South Korea,16620,2
+Serbia + South Korea,20090,2
+Armenia + South Korea,18565,2
+Haiti + South Korea,16805,2
+Kazakhstan + South Korea,20820,2
+South Korea + Turks and Caicos Islands,31330,2
+Albania + South Korea,19365,2
+South Korea + Uganda,16715,2
+Cayman Islands + South Korea,69000,2
+El Salvador + South Korea,18455,2
+Grenada + South Korea,21125,2
+Fiji + South Korea,19380,2
+Laos + South Korea,17685,2
+Slovenia + South Korea,31820,2
+Palau + South Korea,24955,2
+Guyana + South Korea,18965,2
+Costa Rica + Israel,27730,2
+Bosnia and Herzegovina + Israel,24710,2
+Haiti + Israel,22200,2
+Israel + Puerto Rico,44325,2
+Israel + Turks and Caicos Islands,36725,2
+Israel + New Zealand,41935,2
+Cayman Islands + Israel,74395,2
+El Salvador + Israel,23850,2
+Grenada + Israel,26520,2
+Guernsey + Israel,48320,2
+Israel + Jersey,48915,2
+Israel + Slovenia,37215,2
+Estonia + Israel,33470,2
+Israel + Turkmenistan,25240,2
+Guyana + Israel,24360,2
+Argentina + Bangladesh,6000,2
+Afghanistan + Bangladesh,1320,2
+Bangladesh + Hungary,9745,2
+Bangladesh + Tunisia,2740,2
+Bangladesh + Macau,5340,2
+Bangladesh + Georgia,3260,2
+Bangladesh + Latvia,10255,2
+Bangladesh + Kazakhstan,5520,2
+Bangladesh + Moldova,3290,2
+Bangladesh + Romania,7425,2
+Bangladesh + Bulgaria,5900,2
+Albania + Bangladesh,4065,2
+Bangladesh + Uganda,1415,2
+Bangladesh + New Zealand,21240,2
+Bangladesh + Luxembourg,56485,2
+Bangladesh + Laos,2385,2
+India + Macedonia,4225,2
+Chile + India,9595,2
+Armenia + India,3280,2
+India + Kyrgyzstan,1720,2
+Chad + India,1405,2
+India + Puerto Rico,23645,2
+Albania + India,4080,2
+Bermuda + India,61915,2
+Fiji + India,4095,2
+Guernsey + India,27640,2
+India + Jersey,28235,2
+Burundi + India,1215,2
+India + Laos,2400,2
+India + Slovenia,16535,2
+India + Reunion,12360,2
+India + Palau,9670,2
+India + Seychelles,8205,2
+Nepal + Oman,8260,2
+Afghanistan + Oman,8020,2
+Greece + Oman,17930,2
+Oman + South Africa,10670,2
+Oman + Tajikistan,8225,2
+Oman + Sri Lanka,9790,2
+Ethiopia + Oman,8150,2
+Mauritius + Oman,13495,2
+Maldives + Oman,12650,2
+Brunei + Nepal,15400,2
+Indonesia + Nepal,2470,2
+Macau + Nepal,4810,2
+Nepal + South Africa,3440,2
+Nepal + Tajikistan,995,2
+Kuwait + Nepal,17335,2
+Nepal + Sri Lanka,2560,2
+Nepal + Qatar,265690,2
+Ethiopia + Nepal,920,2
+Maldives + Nepal,5420,2
+Argentina + Serbia,8700,2
+Argentina + Tunisia,6650,2
+Argentina + Nicaragua,5940,2
+Argentina + Belize,7160,2
+Argentina + Georgia,7170,2
+Argentina + Armenia,7175,2
+Argentina + Haiti,5415,2
+Argentina + Libya,8580,2
+Argentina + Kuwait,21775,2
+Albania + Argentina,7975,2
+Argentina + Bermuda,65810,2
+Argentina + Barbados,14205,2
+Argentina + Mauritius,10705,2
+Armenia + Mexico,6835,2
+Kazakhstan + Mexico,9090,2
+Iran + Mexico,7315,2
+Libya + Mexico,8240,2
+Mexico + Turks and Caicos Islands,19600,2
+Kuwait + Mexico,21435,2
+Albania + Mexico,7635,2
+Mexico + New Zealand,24810,2
+Cayman Islands + Mexico,57270,2
+Grenada + Mexico,9395,2
+Guernsey + Mexico,31195,2
+Jersey + Mexico,31790,2
+Guyana + Mexico,7235,2
+Guatemala + Uruguay,10750,2
+Guatemala + Paraguay,5195,2
+Guatemala + Jamaica,4825,2
+Guatemala + Trinidad and Tobago,10525,2
+Guatemala + Haiti,2710,2
+Cuba + Uruguay,12925,2
+Cuba + Paraguay,7370,2
+Cuba + Honduras,5635,2
+Cuba + South Africa,7350,2
+Cuba + Haiti,4885,2
+Cuba + Ukraine,6255,2
+Cuba + Turks and Caicos Islands,19410,2
+Cayman Islands + Cuba,57080,2
+Cuba + Luxembourg,59865,2
+Cuba + Malta,19905,2
+Congo (Kinshasa) + Cuba,4690,2
+Cuba + Lebanon,8640,2
+Congo (Brazzaville) + Cuba,5465,2
+Cuba + Mauritius,10175,2
+Costa Rica + Ireland,44720,2
+Costa Rica + Denmark,36505,2
+Costa Rica + Jordan,8180,2
+Costa Rica + Turks and Caicos Islands,20975,2
+Bermuda + Costa Rica,66845,2
+Barbados + Costa Rica,15240,2
+Cayman Islands + Costa Rica,58645,2
+Costa Rica + Grenada,10770,2
+Costa Rica + Guyana,8610,2
+Afghanistan + Pakistan,935,2
+Afghanistan + South Africa,3200,2
+Afghanistan + Tajikistan,755,2
+Afghanistan + Kuwait,17095,2
+Afghanistan + Bahrain,11365,2
+Afghanistan + Sri Lanka,2320,2
+Afghanistan + Qatar,265450,2
+Afghanistan + Ethiopia,680,2
+Afghanistan + Mauritius,6025,2
+Afghanistan + Maldives,5180,2
+Algeria + Pakistan,2655,2
+Pakistan + Poland,8490,2
+Indonesia + Pakistan,2615,2
+Pakistan + South Africa,3585,2
+Denmark + Pakistan,31175,2
+Pakistan + Tajikistan,1140,2
+Iran + Pakistan,3360,2
+Pakistan + Sri Lanka,2705,2
+Ethiopia + Pakistan,1065,2
+Angola + Pakistan,2005,2
+Maldives + Pakistan,5565,2
+Macedonia + Serbia,6910,2
+Bosnia and Herzegovina + Serbia,6715,2
+Armenia + Serbia,5965,2
+Albania + Serbia,6765,2
+Luxembourg + Serbia,59185,2
+Lebanon + Serbia,7960,2
+Mauritius + Serbia,9495,2
+Algeria + Macedonia,5160,2
+Greece + Macedonia,13350,2
+Ireland + Macedonia,41895,2
+Macedonia + Portugal,14685,2
+Denmark + Macedonia,33680,2
+Latvia + Macedonia,12375,2
+Macedonia + Qatar,268340,2
+Belarus + Macedonia,6500,2
+Algeria + Panama,9740,2
+Algeria + Tanzania,2545,2
+Algeria + Brunei,16880,2
+Algeria + Indonesia,3950,2
+Algeria + Chile,10530,2
+Algeria + Kyrgyzstan,2655,2
+Algeria + Bahrain,13085,2
+Algeria + Sri Lanka,4040,2
+Albania + Algeria,5015,2
+Algeria + New Zealand,22190,2
+Algeria + Bermuda,62850,2
+Algeria + El Salvador,4105,2
+Algeria + Guernsey,28575,2
+Algeria + Jersey,29170,2
+Algeria + Ethiopia,2400,2
+Algeria + Lithuania,11640,2
+Algeria + Central African Republic,2215,2
+Algeria + Congo (Brazzaville),3035,2
+Algeria + Gabon,5825,2
+Algeria + Cape Verde,3600,2
+Algeria + Seychelles,9140,2
+Bosnia and Herzegovina + Greece,13155,2
+Greece + Panama,17930,2
+Greece + Tanzania,10735,2
+Chile + Greece,18720,2
+Greece + Iran,12885,2
+Greece + Puerto Rico,32770,2
+Greece + Sri Lanka,12230,2
+Bermuda + Greece,71040,2
+El Salvador + Greece,12295,2
+Greece + Guernsey,36765,2
+Congo (Kinshasa) + Greece,10450,2
+Greece + Slovenia,25660,2
+Greece + Iceland,42615,2
+Greece + Seychelles,17330,2
+Greece + Isle of Man,49505,2
+Greece + Slovakia,19910,2
+Bosnia and Herzegovina + Hungary,11670,2
+Hungary + South Africa,11625,2
+Hungary + Jamaica,11275,2
+Hungary + Trinidad and Tobago,16975,2
+Hungary + Kazakhstan,13175,2
+Hungary + Iran,11400,2
+Hungary + Libya,12325,2
+Hungary + Kuwait,25520,2
+Barbados + Hungary,17950,2
+Guernsey + Hungary,35280,2
+Angola + Hungary,10045,2
+Hungary + Slovenia,24175,2
+Hungary + Maldives,13605,2
+Hungary + Iceland,41130,2
+Hungary + Isle of Man,48020,2
+Bosnia and Herzegovina + Ireland,41700,2
+Armenia + Ireland,40950,2
+Haiti + Ireland,39190,2
+Ireland + Tajikistan,39210,2
+Iran + Ireland,41430,2
+Ireland + Puerto Rico,61315,2
+Ireland + Turks and Caicos Islands,53715,2
+Bahrain + Ireland,49820,2
+Ireland + Sri Lanka,40775,2
+Cayman Islands + Ireland,91385,2
+Grenada + Ireland,43510,2
+Ireland + Rwanda,39110,2
+Congo (Kinshasa) + Ireland,38995,2
+Ireland + Slovenia,54205,2
+Ireland + Zambia,39360,2
+Iceland + Ireland,71160,2
+Estonia + Ireland,50460,2
+Ireland + Seychelles,45875,2
+Ireland + Isle of Man,78050,2
+Guyana + Ireland,41350,2
+Ireland + Slovakia,48455,2
+Bosnia and Herzegovina + Portugal,14490,2
+Chile + Portugal,20055,2
+Armenia + Portugal,13740,2
+Iran + Portugal,14220,2
+Portugal + Puerto Rico,34105,2
+Bahrain + Portugal,22610,2
+Portugal + Sri Lanka,13565,2
+Albania + Portugal,14540,2
+Bermuda + Portugal,72375,2
+El Salvador + Portugal,13630,2
+Guernsey + Portugal,38100,2
+Portugal + Rwanda,11900,2
+Portugal + Zimbabwe,12230,2
+Central African Republic + Portugal,11740,2
+Gabon + Portugal,15350,2
+Portugal + Slovenia,26995,2
+Mauritania + Portugal,12160,2
+Iceland + Portugal,43950,2
+Estonia + Portugal,23250,2
+Portugal + Seychelles,18665,2
+Isle of Man + Portugal,50840,2
+Bosnia and Herzegovina + Czech Republic,14560,2
+Czech Republic + Tanzania,12140,2
+Czech Republic + Jamaica,14165,2
+Czech Republic + Trinidad and Tobago,19865,2
+Czech Republic + Tajikistan,12070,2
+Bahrain + Czech Republic,22680,2
+Czech Republic + Sri Lanka,13635,2
+Czech Republic + Uganda,11960,2
+Barbados + Czech Republic,20840,2
+Czech Republic + Guernsey,38170,2
+Czech Republic + Slovenia,27065,2
+Czech Republic + Iceland,44020,2
+Czech Republic + Seychelles,18735,2
+Czech Republic + Isle of Man,50910,2
+Czech Republic + Slovakia,21315,2
+Bosnia and Herzegovina + Poland,10800,2
+Bosnia and Herzegovina + Denmark,33485,2
+Bosnia and Herzegovina + Latvia,12180,2
+Bosnia and Herzegovina + Lithuania,12615,2
+Belarus + Bosnia and Herzegovina,6305,2
+Tanzania + Tunisia,2245,2
+South Africa + Tunisia,4620,2
+Tajikistan + Tunisia,2175,2
+Iran + Tunisia,4395,2
+Kuwait + Tunisia,18515,2
+Sri Lanka + Tunisia,3740,2
+Luxembourg + Tunisia,57135,2
+Congo (Kinshasa) + Tunisia,1960,2
+Central African Republic + Tunisia,1915,2
+Congo (Brazzaville) + Tunisia,2735,2
+Gabon + Tunisia,5525,2
+Mauritania + Tunisia,2335,2
+Maldives + Tunisia,6600,2
+Seychelles + Tunisia,8840,2
+Panama + Poland,15575,2
+Poland + Tanzania,8380,2
+Brunei + Poland,22715,2
+Indonesia + Poland,9785,2
+Chile + Poland,16365,2
+Poland + Tajikistan,8310,2
+Bahrain + Poland,18920,2
+Poland + Sri Lanka,9875,2
+Poland + Uganda,8200,2
+New Zealand + Poland,28025,2
+Bermuda + Poland,68685,2
+El Salvador + Poland,9940,2
+Guernsey + Poland,34410,2
+Ethiopia + Poland,8235,2
+Poland + Slovenia,23305,2
+Iceland + Poland,40260,2
+Poland + Seychelles,14975,2
+Poland + Turkmenistan,11330,2
+Isle of Man + Poland,47150,2
+Panama + Saint Kitts and Nevis,16535,2
+Georgia + Panama,9960,2
+Latvia + Panama,16955,2
+Panama + Suriname,11305,2
+Panama + Virgin Islands,28510,2
+Panama + Qatar,272920,2
+Bermuda + Panama,68600,2
+Belarus + Panama,11080,2
+Chile + Nicaragua,9520,2
+Nicaragua + Uruguay,9485,2
+Nicaragua + Paraguay,3930,2
+Belize + Nicaragua,3190,2
+Jamaica + Nicaragua,3560,2
+Nicaragua + Trinidad and Tobago,9260,2
+Haiti + Nicaragua,1445,2
+Nicaragua + Puerto Rico,23570,2
+Bolivia + Nicaragua,2760,2
+South Africa + Tanzania,3475,2
+Latvia + Tanzania,9760,2
+Jordan + Tanzania,2740,2
+Kuwait + Tanzania,17370,2
+Tanzania + Uganda,920,2
+Rwanda + Tanzania,930,2
+Tanzania + Zimbabwe,1260,2
+Mauritius + Tanzania,6300,2
+Maldives + Tanzania,5455,2
+Seychelles + Tanzania,7695,2
+Brunei + Denmark,45400,2
+Brunei + Tajikistan,15365,2
+Brunei + Iran,17585,2
+Brunei + Libya,18510,2
+Brunei + Kuwait,31705,2
+Brunei + Qatar,280060,2
+Angola + Brunei,16230,2
+Brunei + Laos,16225,2
+Denmark + Indonesia,32470,2
+Indonesia + Tajikistan,2435,2
+Indonesia + Iran,4655,2
+Indonesia + Qatar,267130,2
+Indonesia + New Zealand,22150,2
+Ethiopia + Indonesia,2360,2
+Angola + Indonesia,3300,2
+Guam + Macau,22305,2
+Jamaica + Saint Kitts and Nevis,11365,2
+Saint Kitts and Nevis + Trinidad and Tobago,17065,2
+Saint Kitts and Nevis + Virgin Islands,29555,2
+Barbados + Saint Kitts and Nevis,18040,2
+Belize + Chile,10740,2
+Chile + South Africa,11460,2
+Chile + Turks and Caicos Islands,23520,2
+Bermuda + Chile,69390,2
+Barbados + Chile,17785,2
+Cayman Islands + Chile,61190,2
+Chile + Grenada,13315,2
+Chile + Guyana,11155,2
+Honduras + Uruguay,9710,2
+Jamaica + Uruguay,11075,2
+Trinidad and Tobago + Uruguay,16775,2
+Haiti + Uruguay,8960,2
+Puerto Rico + Uruguay,31085,2
+Honduras + Paraguay,4155,2
+Jamaica + Paraguay,5520,2
+Paraguay + Trinidad and Tobago,11220,2
+Haiti + Paraguay,3405,2
+Paraguay + Puerto Rico,25530,2
+Honduras + Jamaica,3785,2
+Honduras + Trinidad and Tobago,9485,2
+Haiti + Honduras,1670,2
+Honduras + Puerto Rico,23795,2
+Bolivia + Honduras,2985,2
+Jamaica + South Africa,5500,2
+South Africa + Trinidad and Tobago,11200,2
+Kazakhstan + South Africa,7400,2
+Iran + South Africa,5625,2
+Libya + South Africa,6550,2
+Moldova + South Africa,5170,2
+Romania + South Africa,9305,2
+South Africa + Sri Lanka,4970,2
+Bulgaria + South Africa,7780,2
+New Zealand + South Africa,23120,2
+Bermuda + South Africa,63780,2
+Barbados + South Africa,12175,2
+Fiji + South Africa,5960,2
+Luxembourg + South Africa,58365,2
+Reunion + South Africa,14225,2
+Namibia + South Africa,5925,2
+Georgia + Kyrgyzstan,2875,2
+Georgia + Kuwait,19035,2
+Albania + Georgia,5235,2
+Georgia + Luxembourg,57655,2
+Angola + Georgia,3560,2
+Georgia + Lithuania,11860,2
+Georgia + Turkmenistan,5715,2
+Armenia + Denmark,32735,2
+Denmark + Haiti,30975,2
+Denmark + Tajikistan,30995,2
+Denmark + Kazakhstan,34990,2
+Denmark + Puerto Rico,53100,2
+Denmark + Turks and Caicos Islands,45500,2
+Bahrain + Denmark,41605,2
+Denmark + Sri Lanka,32560,2
+Denmark + New Zealand,50710,2
+Cayman Islands + Denmark,83170,2
+Denmark + Grenada,35295,2
+Denmark + Guernsey,57095,2
+Denmark + Ethiopia,30920,2
+Denmark + Rwanda,30895,2
+Central African Republic + Denmark,30735,2
+Congo (Brazzaville) + Denmark,31555,2
+Denmark + Gabon,34345,2
+Denmark + Slovenia,45990,2
+Denmark + Mauritania,31155,2
+Denmark + Zambia,31145,2
+Denmark + Iceland,62945,2
+Denmark + Seychelles,37660,2
+Denmark + Isle of Man,69835,2
+Denmark + Guyana,33135,2
+Denmark + Slovakia,40240,2
+Armenia + Tajikistan,2700,2
+Armenia + Iran,4920,2
+Armenia + Jordan,4410,2
+Armenia + Romania,8600,2
+Armenia + Bulgaria,7075,2
+Armenia + Luxembourg,57660,2
+Armenia + Malta,17700,2
+Jamaica + Latvia,11785,2
+Latvia + Trinidad and Tobago,17485,2
+Latvia + Tajikistan,9690,2
+Iran + Latvia,11910,2
+Barbados + Latvia,18460,2
+Guernsey + Latvia,35790,2
+Jersey + Latvia,36385,2
+Latvia + Rwanda,9590,2
+Congo (Kinshasa) + Latvia,9475,2
+Latvia + Slovenia,24685,2
+Latvia + Maldives,14115,2
+Iceland + Latvia,41640,2
+Estonia + Latvia,20940,2
+Latvia + Slovakia,18935,2
+Guam + Palau,26620,2
+Jamaica + Suriname,6135,2
+Jamaica + Moldova,4820,2
+Jamaica + Romania,8955,2
+Jamaica + Qatar,267750,2
+Bulgaria + Jamaica,7430,2
+Bolivia + Jamaica,4350,2
+Guernsey + Jamaica,29155,2
+Jamaica + Jersey,29750,2
+Angola + Jamaica,3920,2
+Jamaica + Mauritius,8325,2
+Jamaica + Maldives,7480,2
+Belarus + Jamaica,5910,2
+Suriname + Trinidad and Tobago,11835,2
+Barbados + Suriname,12810,2
+Trinidad and Tobago + Turks and Caicos Islands,23260,2
+Moldova + Trinidad and Tobago,10520,2
+Romania + Trinidad and Tobago,14655,2
+Qatar + Trinidad and Tobago,273450,2
+Bulgaria + Trinidad and Tobago,13130,2
+Bolivia + Trinidad and Tobago,10050,2
+Cayman Islands + Trinidad and Tobago,60930,2
+Guernsey + Trinidad and Tobago,34855,2
+Jersey + Trinidad and Tobago,35450,2
+Mauritius + Trinidad and Tobago,14025,2
+Maldives + Trinidad and Tobago,13180,2
+Belarus + Trinidad and Tobago,11610,2
+Haiti + Jordan,2650,2
+Haiti + Turks and Caicos Islands,15445,2
+Bolivia + Haiti,2235,2
+Bermuda + Haiti,61315,2
+Cayman Islands + Haiti,53115,2
+Grenada + Haiti,5240,2
+Guyana + Haiti,3080,2
+Kyrgyzstan + Tajikistan,1140,2
+Tajikistan + Ukraine,2310,2
+Libya + Tajikistan,4105,2
+Moldova + Tajikistan,2725,2
+Kuwait + Tajikistan,17300,2
+Bahrain + Tajikistan,11570,2
+Sri Lanka + Tajikistan,2525,2
+Qatar + Tajikistan,265655,2
+Angola + Tajikistan,1825,2
+Mauritius + Tajikistan,6230,2
+Kazakhstan + Ukraine,6305,2
+Kazakhstan + Moldova,6720,2
+Angola + Kazakhstan,5820,2
+Kazakhstan + Lebanon,8690,2
+Kazakhstan + Maldives,9380,2
+Kazakhstan + Turkmenistan,7975,2
+Iran + Kyrgyzstan,3360,2
+Iran + Libya,6325,2
+Iran + Jordan,4890,2
+Iran + Kuwait,19520,2
+Iran + Sri Lanka,4745,2
+Iran + Qatar,267875,2
+Iran + Malta,18180,2
+Ethiopia + Iran,3105,2
+Angola + Iran,4045,2
+Iran + Maldives,7605,2
+Iran + Turkmenistan,6200,2
+Bahrain + Ukraine,12920,2
+Sri Lanka + Ukraine,3875,2
+Uganda + Ukraine,2200,2
+Maldives + Ukraine,6735,2
+Estonia + Ukraine,13560,2
+Libya + Romania,10005,2
+Bahrain + Libya,14715,2
+Libya + Sri Lanka,5670,2
+Libya + Qatar,268800,2
+Bulgaria + Libya,8480,2
+Albania + Libya,6645,2
+Libya + Uganda,3995,2
+Libya + Luxembourg,59065,2
+Ethiopia + Libya,4030,2
+Libya + Mauritius,9375,2
+Libya + Maldives,8530,2
+Jordan + Puerto Rico,24775,2
+Jordan + Turks and Caicos Islands,17175,2
+Bahrain + Jordan,13280,2
+Jordan + Sri Lanka,4235,2
+Albania + Jordan,5210,2
+Jordan + Uganda,2560,2
+Cayman Islands + Jordan,54845,2
+El Salvador + Jordan,4300,2
+Grenada + Jordan,6970,2
+Guernsey + Jordan,28770,2
+Jersey + Jordan,29365,2
+Jordan + Seychelles,9335,2
+Guyana + Jordan,4810,2
+British Virgin Islands + Puerto Rico,39150,2
+Puerto Rico + Qatar,287760,2
+British Virgin Islands + Virgin Islands,37330,2
+Bermuda + Turks and Caicos Islands,75840,2
+Barbados + Turks and Caicos Islands,24235,2
+El Salvador + Turks and Caicos Islands,17095,2
+Grenada + Turks and Caicos Islands,19765,2
+Guyana + Turks and Caicos Islands,17605,2
+Kuwait + Moldova,19065,2
+Barbados + Moldova,11495,2
+Guernsey + Moldova,28825,2
+Lithuania + Moldova,11890,2
+Maldives + Moldova,7150,2
+Isle of Man + Moldova,41565,2
+Kuwait + Romania,23200,2
+Barbados + Romania,15630,2
+Guernsey + Romania,32960,2
+Jersey + Romania,33555,2
+Angola + Romania,7725,2
+Maldives + Romania,11285,2
+Bulgaria + Kuwait,21675,2
+Albania + Kuwait,19840,2
+Kuwait + Luxembourg,72260,2
+Angola + Kuwait,18165,2
+Kuwait + Zambia,17450,2
+Bahrain + Sri Lanka,13135,2
+Bahrain + Qatar,276265,2
+Bahrain + Uganda,11460,2
+Bahrain + Malta,26570,2
+Bahrain + Ethiopia,11495,2
+Angola + Bahrain,12435,2
+Bahrain + Lebanon,15305,2
+Bahrain + Belarus,14425,2
+Malta + Sri Lanka,17525,2
+Ethiopia + Sri Lanka,2450,2
+Lebanon + Sri Lanka,6260,2
+Laos + Sri Lanka,3385,2
+Mauritius + Sri Lanka,7795,2
+Maldives + Sri Lanka,6950,2
+Belarus + Sri Lanka,5380,2
+Albania + Qatar,268195,2
+Qatar + Uganda,265545,2
+Barbados + Qatar,274425,2
+El Salvador + Qatar,267285,2
+Fiji + Qatar,268210,2
+Malta + Qatar,280655,2
+Ethiopia + Qatar,265580,2
+Lebanon + Qatar,269390,2
+Qatar + Zambia,265805,2
+Qatar + Seychelles,272320,2
+Barbados + Bulgaria,14105,2
+Bulgaria + Guernsey,31435,2
+Angola + Bulgaria,6200,2
+Bulgaria + Slovenia,20330,2
+Bulgaria + Maldives,9760,2
+Bulgaria + Iceland,37285,2
+Bulgaria + Estonia,16585,2
+Bulgaria + Isle of Man,44175,2
+Albania + Luxembourg,58460,2
+Albania + Malta,18500,2
+Albania + Lebanon,7235,2
+Albania + Belarus,6355,2
+Malta + Uganda,15850,2
+Burundi + Uganda,525,2
+Lebanon + Uganda,4585,2
+Mauritius + Uganda,6120,2
+Uganda + Zambia,1000,2
+Maldives + Uganda,5275,2
+Maldives + New Zealand,25100,2
+Bermuda + Cayman Islands,113510,2
+Bermuda + El Salvador,62965,2
+Bermuda + Grenada,65635,2
+Bermuda + Guyana,63475,2
+Barbados + Cayman Islands,61905,2
+Barbados + El Salvador,11360,2
+Barbados + Guernsey,35830,2
+Barbados + Jersey,36425,2
+Barbados + Mauritius,15000,2
+Barbados + Maldives,14155,2
+Barbados + Belarus,12585,2
+Cayman Islands + El Salvador,54765,2
+Cayman Islands + Grenada,57435,2
+Cayman Islands + Guyana,55275,2
+El Salvador + Grenada,6890,2
+El Salvador + Guyana,4730,2
+Angola + Luxembourg,56785,2
+Luxembourg + Mauritius,61190,2
+Guernsey + Jersey,53755,2
+Guernsey + Mauritius,32330,2
+Guernsey + Maldives,31485,2
+Belarus + Guernsey,29915,2
+Jersey + Mauritius,32925,2
+Jersey + Maldives,32080,2
+Belarus + Jersey,30510,2
+Isle of Man + Jersey,66495,2
+Maldives + Malta,20385,2
+Estonia + Malta,27210,2
+Angola + Ethiopia,1750,2
+Ethiopia + Mauritius,6155,2
+Burundi + Rwanda,535,2
+Rwanda + Zimbabwe,1090,2
+Rwanda + Zambia,1010,2
+Angola + Central African Republic,1565,2
+Angola + Mauritania,1985,2
+Angola + Cape Verde,2950,2
+Angola + Namibia,4345,2
+Iceland + Lithuania,42075,2
+Congo (Kinshasa) + Zimbabwe,975,2
+Congo (Kinshasa) + Lebanon,4480,2
+Congo (Kinshasa) + Mauritius,6015,2
+Congo (Kinshasa) + Mauritania,905,2
+Congo (Kinshasa) + Equatorial Guinea,5195,2
+Congo (Kinshasa) + Zambia,895,2
+Congo (Kinshasa) + Namibia,3265,2
+Malawi + Zimbabwe,910,2
+Namibia + Zimbabwe,3710,2
+Central African Republic + Lebanon,4435,2
+Congo (Brazzaville) + Lebanon,5255,2
+Gabon + Lebanon,8045,2
+Lebanon + Mauritania,4855,2
+Lebanon + Maldives,9120,2
+Central African Republic + Congo (Brazzaville),1260,2
+Central African Republic + Gabon,4050,2
+Central African Republic + Mauritania,860,2
+Central African Republic + Equatorial Guinea,5150,2
+Congo (Brazzaville) + Mauritania,1680,2
+Congo (Brazzaville) + Equatorial Guinea,5970,2
+Gabon + Mauritania,4470,2
+Belarus + Slovenia,18810,2
+Mauritius + Zambia,6380,2
+Mauritius + Seychelles,12895,2
+Cape Verde + Mauritania,2245,2
+Belarus + Zambia,3965,2
+Namibia + Zambia,3630,2
+Maldives + Seychelles,12050,2
+Estonia + Iceland,44160,2
+Belarus + Estonia,15065,2
+Belarus + Seychelles,10480,2
