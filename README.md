@@ -1,47 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14646625&assignment_repo_type=AssignmentRepo)
-# FINAL PROJECT
 
-This repository is for all of the programs and files needed for your final project.
+# Overview of GitHub Repository
 
-Include any program files or data files that are needed for your visualizations when submitting to this assignment.
+This GitHub repository contains code to produce two insightful visualizations using scatter plots to analyze different aspects of global connectivity and GDP. The first visualization displays a scatter plot comparing the top 100 most connected country pairs with their average GDP per capita. The x-axis shows the average GDP per capita (in USD), while the y-axis represents the number of direct flight connections. The plot uses a consistent point size of 10 and a color map (Spectral6 palette) to represent the number of connections. A HoverTool displays tooltips with information about the countries, average GDP per capita, and number of connections when hovering over a point. Beneath the scatter plot, a text box (Div) lists the top 10 most connected country pairs, summarizing the visualized data.
 
-If you are pulling data from an API, please put the data into a file in this repository.
+The second visualization highlights the relationship between the GDP of nations and the number of countries they are directly connected to by flights. The x-axis uses a logarithmic scale to represent GDP in USD, while the y-axis indicates the number of direct flight connections. The plot features blue circles with a consistent size of 10 and alpha transparency of 0.6. A HoverTool is included to display tooltips with country-specific data such as GDP and connections. A red trendline, calculated using a log-log linear regression, is added to demonstrate the correlation between variables, and its equation along with the R^2 value is shown in an information Div below the plot. A toggle button allows users to control the visibility of the trendline. The overall layout consists of the scatter plot, the information Div with trendline data, and the toggle button, arranged in a column.
 
-THANK YOU FOR A GREAT SEMESTER! :)
-
----
-
-## SPECIAL INSTRUCTIONS FOR API USERS
-
-Add a file named `config.py` and store your API keys in variables within this file. `config.py` has already been added to the `.gitignore` file.
-
-Add an `import config` to the top of your programs in order to use the API key. This will prevent the API key from being published to the web. You can then use the API key in your file by accessing the variable inside the config module, for example `config.my_api_key`.
-
-
-When using the requests library, you might need to `pip install requests`. If your computer complains about permissions, try installing for the user using `python -m pip install -user requests` on Windows or `pip install --user requests` on Mac.
-
----
-
-### Tips
-- Start the project early!
-    - The earlier you start, the more time you have to get help if you run into any 
-    problems.
-- Test your code. 
-    - Find good stopping points to test out bits of code and
-    functions even when your program is only partially finished. 
-    - Try out different inputs and see if you expect the outputs that you get.
-- Ask for help on Twist. 
-    - Remember that we are traveling together on this 
-    learning journey and you don't have to struggle alone!
-    - It is way more important that you get your questions answered than it is
-    for you to have a perfectly working program
-- Try some [rubber duck debugging](https://rubberduckdebugging.com/).
-    - Find a rubber duck, or a pet rock, a stuffed animal, a figurine, a patient dog.
-    - Explain your program, line by line, to the victim of your choice.
-    - Sometimes this helps you think through your code and how it works, and 
-    can help you find bugs and errors in your code.
-- DO NOT COPY/PASTE CODE unless otherwise instructed to.
-    - The purpose of these exercises is for you to practice your programming skills.
-    - You will only harm yourself if you do not make the effort to understand the
-    programming concepts we are covering.
-    
+Note: this was written by ChatGPT.
