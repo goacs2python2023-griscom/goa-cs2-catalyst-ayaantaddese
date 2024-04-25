@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.3.4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.3.4.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="c2a3bb97-54a0-4b90-bdf6-c1f3bedd94d0" data-root-id="p1049" style="display: contents;"></div>
+  
+    <script type="application/json" id="p1053">
+      {"2be1b04d-0069-4577-97ad-a78b5810e072":{"version":"3.3.4","title":"Bokeh Application","roots":[{"type":"object","name":"Column","id":"p1049","attributes":{"children":[{"type":"object","name":"Figure","id":"p1004","attributes":{"width":700,"height":400,"x_range":{"type":"object","name":"DataRange1d","id":"p1005"},"y_range":{"type":"object","name":"DataRange1d","id":"p1006"},"x_scale":{"type":"object","name":"LinearScale","id":"p1014"},"y_scale":{"type":"object","name":"LinearScale","id":"p1015"},"title":{"type":"object","name":"Title","id":"p1007","attributes":{"text":"Top 100 Most Connected Country Pairs vs. Average GDP per Capita"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1044","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p1001","attributes":{"selected":{"type":"object","name":"Selection","id":"p1002","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p1003"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAACQAAAAoAAAALAAAADAAAAA0AAAAOAAAADwAAABAAAAARAAAAFAAAABUAAAATAAAAEgAAABYAAAAXAAAAGAAAABkAAAAaAAAAGwAAABwAAAAdAAAAHgAAACMAAAAmAAAAJQAAACQAAAAfAAAAIgAAACEAAAAgAAAALAAAAC8AAAAuAAAALQAAACsAAAAnAAAAKQAAACgAAAAqAAAAMwAAADYAAAA1AAAANAAAADIAAAAxAAAAMAAAAD0AAABEAAAAQwAAAEIAAABAAAAAPgAAAEEAAAA8AAAAOQAAADcAAAA4AAAAPwAAADoAAAA7AAAARQAAAEYAAABHAAAASQAAAEoAAABLAAAATAAAAE0AAABOAAAATwAAAFAAAABRAAAASAAAAFgAAABWAAAAWQAAAFcAAABUAAAAVQAAAFMAAABSAAAAYAAAAGUAAABjAAAAYgAAAGEAAABkAAAAXwAAAF0AAABcAAAAWwAAAA=="},"shape":[100],"dtype":"int32","order":"little"}],["Countries",{"type":"ndarray","array":["France + United Kingdom","France + Italy","Italy + United Kingdom","France + Germany","Germany + United Kingdom","United Arab Emirates + United Kingdom","France + United Arab Emirates","Canada + United States","Germany + Italy","Italy + United Arab Emirates","France + United States","France + Morocco","Germany + United Arab Emirates","United Kingdom + United States","China + United Arab Emirates","Germany + United States","China + France","China + United Kingdom","Canada + France","India + United Arab Emirates","Finland + France","Italy + United States","Finland + United Kingdom","Canada + United Kingdom","Greece + Italy","Canada + Germany","Finland + Italy","France + Spain","France + Greece","Finland + Germany","United Arab Emirates + United States","Germany + Spain","Germany + Greece","China + India","Germany + Sweden","Italy + Spain","Greece + United Kingdom","France + Norway","China + Italy","Denmark + United Kingdom","Denmark + Germany","China + Germany","Panama + United States","India + United Kingdom","France + Sweden","Denmark + France","France + Netherlands","Norway + United Kingdom","Morocco + United Kingdom","Germany + Norway","Finland + Norway","Ireland + United Kingdom","Sweden + United Kingdom","Denmark + Italy","Canada + Italy","Spain + United Kingdom","Germany + Ireland","China + Hong Kong","Morocco + United Arab Emirates","Finland + United Arab Emirates","Netherlands + United Kingdom","Netherlands + United Arab Emirates","France + Latvia","Italy + Morocco","Italy + Switzerland","Italy + Norway","Spain + United States","Germany + Switzerland","Austria + France","France + Russia","Italy + Sweden","Italy + Latvia","France + India","France + Ireland","Latvia + United Kingdom","Finland + Sweden","Norway + Sweden","Denmark + Sweden","Denmark + Finland","Hong Kong + United Arab Emirates","Germany + Netherlands","France + Switzerland","Denmark + Norway","Algeria + France","Canada + United Arab Emirates","Austria + United Kingdom","Switzerland + United Kingdom","Belgium + France","Ireland + Italy","Italy + Russia","Canada + China","Denmark + Ireland","Austria + Germany","China + Malaysia","China + Thailand","Germany + Latvia","China + United States","Turkey + United Kingdom","Belarus + France","Belarus + Italy"],"shape":[100],"dtype":"object","order":"little"}],["Average GDP per Capita",{"type":"ndarray","array":{"type":"bytes","data":"5aYAABqQAAD9mAAAnKkAAH+yAAAJqwAAJqIAAF/XAAC0mwAAPpQAAHPNAABLVQAAwK0AAFbWAADBZgAADdkAAJ1iAACAawAA7qcAAElXAAB8sAAAi78AAF+5AADRsAAA4mgAAIizAACUogAAmYkAAMp2AAAWvAAAl9EAADOVAABkggAAwBcAABvBAACxewAArX8AAH7gAAC1VAAAF88AAM7RAAA3bgAAs5wAAAhcAACBtQAANMYAANW2AABh6QAALl4AABjsAAD48gAALu8AAGS+AABMuAAABpoAAHySAADl8QAA43EAAG9ZAACgtAAAuL8AAPm6AAD7cgAAY0cAADfhAACW0gAACrkAALn6AADZsgAApGUAAJmnAAATZQAAJVMAAEvmAADeewAA+8cAAP33AACz3QAArtgAAGyxAABvwgAAH+8AALAIAQDMVgAAEqwAALy7AAAC+AAABqkAAGPYAAC8VwAAiWwAAH0OAQBzvgAAWSkAAAAjAACVfgAADpIAAJFpAAAIXAAAIE4AAA=="},"shape":[100],"dtype":"int32","order":"little"}],["Connections",{"type":"ndarray","array":{"type":"bytes","data":"OwAAADgAAAA2AAAANQAAADQAAAAzAAAAMQAAAC4AAAAtAAAALAAAACsAAAAqAAAAKQAAACgAAAAoAAAAJQAAACQAAAAkAAAAIwAAACMAAAAjAAAAIwAAACIAAAAhAAAAIAAAACAAAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB4AAAAeAAAAHgAAAB4AAAAeAAAAHgAAAB4AAAAeAAAAHQAAAB0AAAAdAAAAHQAAAB0AAAAdAAAAHQAAAB0AAAAdAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGgAAABoAAAAaAAAAGgAAABoAAAAaAAAAGgAAABoAAAAaAAAAGgAAABoAAAAaAAAAGgAAABkAAAAZAAAAGQAAABkAAAAZAAAAGQAAABkAAAAZAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAAA=="},"shape":[100],"dtype":"int32","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p1045","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1046"}}},"glyph":{"type":"object","name":"Scatter","id":"p1041","attributes":{"x":{"type":"field","field":"Average GDP per Capita"},"y":{"type":"field","field":"Connections"},"size":{"type":"value","value":10},"line_color":{"type":"field","field":"Connections","transform":{"type":"object","name":"LinearColorMapper","id":"p1037","attributes":{"palette":["#3288bd","#99d594","#e6f598","#fee08b","#fc8d59","#d53e4f"],"low":24,"high":59}}},"line_alpha":{"type":"value","value":0.7},"fill_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"fill_alpha":{"type":"value","value":0.7},"hatch_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"hatch_alpha":{"type":"value","value":0.7}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"p1042","attributes":{"x":{"type":"field","field":"Average GDP per Capita"},"y":{"type":"field","field":"Connections"},"size":{"type":"value","value":10},"line_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"Scatter","id":"p1043","attributes":{"x":{"type":"field","field":"Average GDP per Capita"},"y":{"type":"field","field":"Connections"},"size":{"type":"value","value":10},"line_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"field","field":"Connections","transform":{"id":"p1037"}},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1013","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p1026"},{"type":"object","name":"WheelZoomTool","id":"p1027","attributes":{"renderers":"auto"}},{"type":"object","name":"BoxZoomTool","id":"p1028","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p1029","attributes":{"syncable":false,"level":"overlay","visible":false,"left":{"type":"number","value":"nan"},"right":{"type":"number","value":"nan"},"top":{"type":"number","value":"nan"},"bottom":{"type":"number","value":"nan"},"left_units":"canvas","right_units":"canvas","top_units":"canvas","bottom_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p1034"},{"type":"object","name":"ResetTool","id":"p1035"},{"type":"object","name":"HelpTool","id":"p1036"},{"type":"object","name":"HoverTool","id":"p1047","attributes":{"renderers":"auto","tooltips":[["Countries","@Countries"],["Average GDP per Capita","@{Average GDP per Capita} USD"],["Connections","@Connections"]]}}]}},"left":[{"type":"object","name":"LinearAxis","id":"p1021","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1022","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1023"},"axis_label":"Number of Connections","major_label_policy":{"type":"object","name":"AllLabels","id":"p1024"}}}],"below":[{"type":"object","name":"LinearAxis","id":"p1016","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1017","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1018"},"axis_label":"Average GDP per Capita (USD)","major_label_policy":{"type":"object","name":"AllLabels","id":"p1019"}}}],"center":[{"type":"object","name":"Grid","id":"p1020","attributes":{"axis":{"id":"p1016"}}},{"type":"object","name":"Grid","id":"p1025","attributes":{"dimension":1,"axis":{"id":"p1021"}}}]}},{"type":"object","name":"Div","id":"p1048","attributes":{"width":700,"height":100,"text":"&lt;b&gt;  Top 10 Most Connected Countries:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;France + United Kingdom: 59 connections&lt;/li&gt;&lt;li&gt;France + Italy: 56 connections&lt;/li&gt;&lt;li&gt;Italy + United Kingdom: 54 connections&lt;/li&gt;&lt;li&gt;France + Germany: 53 connections&lt;/li&gt;&lt;li&gt;Germany + United Kingdom: 52 connections&lt;/li&gt;&lt;li&gt;United Arab Emirates + United Kingdom: 51 connections&lt;/li&gt;&lt;li&gt;France + United Arab Emirates: 49 connections&lt;/li&gt;&lt;li&gt;Canada + United States: 46 connections&lt;/li&gt;&lt;li&gt;Germany + Italy: 45 connections&lt;/li&gt;&lt;li&gt;Italy + United Arab Emirates: 44 connections&lt;/li&gt;&lt;/ul&gt;"}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p1053').textContent;
+              const render_items = [{"docid":"2be1b04d-0069-4577-97ad-a78b5810e072","roots":{"p1049":"c2a3bb97-54a0-4b90-bdf6-c1f3bedd94d0"},"root_ids":["p1049"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
